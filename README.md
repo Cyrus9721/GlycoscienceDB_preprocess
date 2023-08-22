@@ -10,9 +10,9 @@ The data cleaning and preprocessing pipeline can be divided into several parts:
 
 1, Reformulate all the .pdb file and label file into interpretable formatting. 
 
-2, A general data cleaning apply to both linear glycans and branched glycans, unifying and correcting the atom-level and monosaccharide format from various labs to be consistent.
+2, A general data cleaning applied to both linear glycans and branched glycans, unifying and correcting the atom-level and monosaccharide format from various labs to be consistent.
 
-3, For linear and nonlinear glycans, a major problem in the Glycosciences experimental data results from mismatches or ambiguities between monosaccharide IDs from .pdb file and label file. Some labels even refer to non-monosaccharide components (e.g. modifications, amino acids) but would naively be loaded as monosaccharide components. We solve this error by manually inspection to generate lookup tables for making monosaccharide labels consistent and recategorizing non-monosaccharide components.
+3, For linear and nonlinear glycans, a major problem in the Glycosciences experimental data results from mismatches or ambiguities between monosaccharide IDs from .pdb file and label file. Some labels even refer to non-monosaccharide components (e.g. modifications, amino acids) but would naively be loaded as monosaccharide components. We solve this error by manual inspection to generate lookup tables for making monosaccharide labels consistent and recategorizing non-monosaccharide components.
 
 4, Additionally for non-linear glycans, a major problem results from the inconsistent match between monosaccharide IDs from .pdb file and label file as, unlike linear glycans, there is not one unique ordering across branches. We solve this error by manually inspecting all the non-linear glycans and using meta-data in the PDB files. 
 
