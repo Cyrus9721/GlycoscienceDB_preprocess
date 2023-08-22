@@ -8,15 +8,16 @@
 
 The data cleaning and preprocessing pipeline can be divided into several parts:
 
-1, Reformulate all the .pdb file and label file into interpretable format. 
+1, Reformulate all the .pdb file and label file into interpretable formatting. 
 
-2, A general data cleaning apply to both linear glycans and branched glycans, unifying and correcting the atom-level and monosaccharide format from various labs
+2, A general data cleaning apply to both linear glycans and branched glycans, unifying and correcting the atom-level and monosaccharide format from various labs to be consistent.
 
-3, For linear glycans, the major error is from the shift of monosaccharide IDs from .pdb file and label file. Some data refer non-monosaccharide components as monosaccharide components. We solve this error by manually inspecting all the linear glycans.
+3, For linear and nonlinear glycans, a major problem in the Glycosciences experimental data results from mismatches or ambiguities between monosaccharide IDs from .pdb file and label file. Some labels even refer to non-monosaccharide components (e.g. modifications, amino acids) but would naively be loaded as monosaccharide components. We solve this error by manually inspection to generate lookup tables for making monosaccharide labels consistent and recategorizing non-monosaccharide components.
 
-4, For non-linear glycans, the major error is from the inconsistent match between monosaccharide IDs from .pdb file and label file. We solve this error by manually inspecting all the non-linear glycans. 
+4, Additionally for non-linear glycans, a major problem results from the inconsistent match between monosaccharide IDs from .pdb file and label file as, unlike linear glycans, there is not one unique ordering across branches. We solve this error by manually inspecting all the non-linear glycans and using meta-data in the PDB files. 
 
-5, We apply an outlier check between the groud truth NMR shift and the predicted NMR shift on the baseline GNN model, to see whether the outlier is come from the omissions in step 2, 3, 4. If yes, we then go back to previous steps and correct our mistakes. 
+5, We repeatedly apply an outlier check between the groud truth NMR shift and the predicted NMR shift on the baseline GNN model to catch remaining mismatches or technical issues in the dataset, to see whether the outlier results from further issues related to step 2, 3, 4. If yes, we then go back to previous steps and expand the lookup table for converting and categorizing components. 
+
 ### Example run on CASPER data.  
 
 CASPER data was overly narrow and simulated a different way than GODESS, it was not included in the manuscript.
