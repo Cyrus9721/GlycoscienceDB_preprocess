@@ -20,7 +20,7 @@ The data cleaning and preprocessing pipeline can be divided into several parts:
 
 ### Example run on CASPER data.  
 
-CASPER data was overly narrow and simulated a different way than GODESS, it was not included in the manuscript.
+CASPER pilot data was overly narrow and simulated a different way than GODESS, it was not included in the manuscript.
 
 Preprocess the PDB files and their labels(in order): <br />
 ```
