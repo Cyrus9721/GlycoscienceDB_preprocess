@@ -16,7 +16,7 @@ The data cleaning and preprocessing pipeline can be divided into several parts:
 
 4, Additionally for non-linear glycans, a major problem results from the inconsistent sequence ordering between monosaccharide IDs from .pdb file and label file as, unlike linear glycans, there is not one unique ordering across branches. We solve this ordering problem by manually inspecting all the non-linear glycans and using meta-data in the PDB files. 
 
-5, We repeatedly apply an outlier check between the groud truth NMR shift and the predicted NMR shift on the baseline GNN model to catch remaining mismatches or technical issues in the dataset, to see whether the outlier results from further issues related to step 2, 3, 4. If yes, we then go back to previous steps and expand the lookup table for converting and categorizing components. 
+5, We repeatedly apply an outlier check between the groud truth NMR shift and the predicted NMR shift on the baseline GNN model to catch remaining most currently severe mismatches or technical issues in the dataset, to see whether the outlier results from further straightforward issues related to step 2, 3, 4. If yes (the usual outcome for an outlier as we designed the preprocessing procedure), we then go back to previous steps and expand the lookup table for converting and categorizing components. 
 
 ### Example run on CASPER data.  
 
