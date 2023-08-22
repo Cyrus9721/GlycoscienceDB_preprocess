@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Lyxp	100%	95.5	71.6	74.1	68.2	65.4

@@ -1,0 +1,65 @@
+07/14/2022 23:36:03
+bDGal6SO3(1->3)aDGlcNAcOMe6SO3
+ATOM      1  C1  DGlcNAcOMe6SO    1       1.803  -0.843   0.163  0.00  0.00  C1 
+ATOM      2  C2  DGlcNAcOMe6SO    1       1.161  -0.633   1.531  0.00  0.00  C2 
+ATOM      3  C3  DGlcNAcOMe6SO    1      -0.346  -0.827   1.489  0.00  0.00  C3 
+ATOM      4  C4  DGlcNAcOMe6SO    1      -0.954  -0.008   0.373  0.00  0.00  C4 
+ATOM      5  C5  DGlcNAcOMe6SO    1      -0.250  -0.325  -0.946  0.00  0.00  C5 
+ATOM      6  C6  DGlcNAcOMe6SO    1      -0.755   0.452  -2.142  0.00  0.00  C6 
+ATOM      7  O3  DGlcNAcOMe6SO    1      -0.898  -0.399   2.740  0.00  0.00 OH3 
+ATOM      8  O4  DGlcNAcOMe6SO    1      -2.335  -0.300   0.221  0.00  0.00 OH4 
+ATOM      9  O5  DGlcNAcOMe6SO    1       1.141   0.002  -0.787  0.00  0.00 O10 
+ATOM     10  O6  DGlcNAcOMe6SO    1      -0.043   0.125  -3.325  0.00  0.00 OH6 
+ATOM     12  HO4 DGlcNAcOMe6SO    1      -2.926   0.433   0.768  0.00  0.00 HH4 
+ATOM     13  O1  DGlcNAcOMe6SO    1       1.763  -2.177  -0.328  0.00  0.00 OH1 
+ATOM     14  H5  DGlcNAcOMe6SO    1      -0.388  -1.344  -1.181  0.00  0.00 H5  
+ATOM     15  H61 DGlcNAcOMe6SO    1      -1.683   0.619  -2.465  0.00  0.00 H6  
+ATOM     16  H62 DGlcNAcOMe6SO    1      -0.616   1.477  -1.959  0.00  0.00 H20 
+ATOM     17  H1  DGlcNAcOMe6SO    1       2.867  -0.615   0.222  0.00  0.00 H1  
+ATOM     18  H3  DGlcNAcOMe6SO    1      -0.560  -1.883   1.324  0.00  0.00 H3  
+ATOM     19  H4  DGlcNAcOMe6SO    1      -0.831   1.044   0.629  0.00  0.00 H4  
+ATOM     20  H2  DGlcNAcOMe6SO    1       1.388   0.386   1.842  0.00  0.00 H2  
+ATOM     21  NM  DGlcNAcOMe6SO    1       1.739  -1.554   2.447  0.00  0.00 NAc
+ATOM     22  CM  DGlcNAcOMe6SO    1       2.453  -1.094   3.523  0.00  0.00 NAc
+ATOM     23  CM2 DGlcNAcOMe6SO    1       3.014  -2.191   4.407  0.00  0.00 NAc
+ATOM     24  OM  DGlcNAcOMe6SO    1       2.641   0.083   3.768  0.00  0.00 NAc
+ATOM     25  HM1 DGlcNAcOMe6SO    1       1.621  -2.567   2.302  0.00  0.00 NAc
+ATOM     26  HM2 DGlcNAcOMe6SO    1       3.575  -1.760   5.268  0.00  0.00 NAc
+ATOM     27  HM3 DGlcNAcOMe6SO    1       3.715  -2.834   3.826  0.00  0.00 NAc
+ATOM     28  HM4 DGlcNAcOMe6SO    1       2.191  -2.822   4.813  0.00  0.00 NAc
+ATOM     29  CM  DGlcNAcOMe6SO    1       2.387  -2.282  -1.609  0.00  0.00 OMe
+ATOM     30  HM1 DGlcNAcOMe6SO    1       2.111  -3.211  -2.066  0.00  0.00 OMe
+ATOM     31  HM2 DGlcNAcOMe6SO    1       3.450  -2.244  -1.490  0.00  0.00 OMe
+ATOM     32  HM3 DGlcNAcOMe6SO    1       2.070  -1.470  -2.230  0.00  0.00 OMe
+ATOM     33  SM  DGlcNAcOMe6SO    1      -0.893   0.159  -4.475  0.00  0.00 SO3
+ATOM     34  OM1 DGlcNAcOMe6SO    1      -2.075  -0.604  -4.218  0.00  0.00 SO3
+ATOM     35  OM2 DGlcNAcOMe6SO    1      -1.281   1.617  -4.783  0.00  0.00 SO3
+ATOM     36  OM3 DGlcNAcOMe6SO    1      -0.202  -0.396  -5.596  0.00  0.00 SO3
+ATOM     37  HM  DGlcNAcOMe6SO    1      -0.772  -0.373  -6.368  0.00  0.00 SO3
+ATOM     38  C5  DGal6SO3    2      -3.573  -2.848   3.193  1.00  0.00              
+ATOM     39  H5  DGal6SO3    2      -2.974  -3.778   3.221  1.00  0.00              
+ATOM     40  O5  DGal6SO3    2      -2.753  -1.782   2.649  1.00  0.00              
+ATOM     41  C1  DGal6SO3    2      -1.549  -1.440   3.393  1.00  0.00              
+ATOM     42  H1  DGal6SO3    2      -0.883  -2.319   3.425  1.00  0.00              
+ATOM     45  C2  DGal6SO3    2      -1.923  -1.017   4.833  1.00  0.00              
+ATOM     46  H2  DGal6SO3    2      -2.489  -0.064   4.790  1.00  0.00              
+ATOM     47  O2  DGal6SO3    2      -0.753  -0.809   5.588  1.00  0.00              
+ATOM     48  HO2 DGal6SO3    2      -1.034  -0.527   6.479  1.00  0.00              
+ATOM     49  C3  DGal6SO3    2      -2.809  -2.086   5.516  1.00  0.00              
+ATOM     50  H3  DGal6SO3    2      -2.193  -2.991   5.689  1.00  0.00              
+ATOM     51  O3  DGal6SO3    2      -3.258  -1.609   6.759  1.00  0.00              
+ATOM     52  HO3 DGal6SO3    2      -3.785  -2.324   7.165  1.00  0.00              
+ATOM     53  C4  DGal6SO3    2      -4.024  -2.492   4.643  1.00  0.00              
+ATOM     54  H4  DGal6SO3    2      -4.545  -3.348   5.116  1.00  0.00              
+ATOM     55  O4  DGal6SO3    2      -4.915  -1.402   4.581  1.00  0.00              
+ATOM     56  HO4 DGal6SO3    2      -5.171  -1.189   5.496  1.00  0.00              
+ATOM     57  C6  DGal6SO3    2      -4.756  -3.080   2.210  1.00  0.00              
+ATOM     58  H61 DGal6SO3    2      -5.372  -2.176   2.164  1.00  0.00              
+ATOM     59  O6  DGal6SO3    2      -4.293  -3.382   0.911  1.00  0.00              
+ATOM     60  H62 DGal6SO3    2      -5.399  -3.886   2.574  1.00  0.00              
+ATOM     61  SM  DGal6SO3    2      -4.765  -2.431  -0.047  0.00  0.00 SO3
+ATOM     62  OM1 DGal6SO3    2      -6.178  -2.267   0.097  0.00  0.00 SO3
+ATOM     63  OM2 DGal6SO3    2      -4.066  -1.079   0.185  0.00  0.00 SO3
+ATOM     64  OM3 DGal6SO3    2      -4.472  -2.898  -1.366  0.00  0.00 SO3
+ATOM     65  HM  DGal6SO3    2      -4.788  -2.260  -2.010  0.00  0.00 SO3
+END

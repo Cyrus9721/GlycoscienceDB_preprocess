@@ -1,0 +1,1878 @@
+P-(O-2)-a-D-Glcp-(1-1)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'ALX' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'ALX'
+ 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX'
+ 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'ALX' 'PO3' 'PO3' 'PO3' 'PO3']
+
+
+P-(O-3)-a-D-Glcp-(1-1)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'PO3' 'PO3' 'PO3' 'PO3']
+
+
+P-(O-4)-a-D-Glcp-(1-1)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'PO3' 'PO3' 'PO3' 'PO3']
+
+
+P-(O-6)-a-D-Glcp-(1-1)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'G6P' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'G6P'
+ 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P'
+ 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'G6P' 'PO3' 'PO3' 'PO3' 'PO3']
+
+
+Repeat-2)-a-L-Rhap-(1-3)-a-D-Galp-(1-.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+Repeat-3)-a-D-Rhap-(1-3)-a-D-Rhap-(1-4)-a-D-GalpNAc-(1-.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+Repeat-3)-a-L-Rhap-(1-2)-a-L-Rhap-(1-4)-a-D-GlcpA-(1-2)-a-D-Manp-(1-2)-a-D-Manp-(1-3)-a-D-Galp-(1-.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+Repeat-3)-b-D-Galp-(1-3)-b-D-GalpNAc-(1-4)-b-D-Galp-(1-.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+Repeat-3)-b-D-GlcpA-(1-3)-a-L-Rhap-(1-.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+Repeat-4)-a-D-GlcpA-(1-3)-a-D-Glcp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-4)-a-D-GlcpNAc-(1-.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+Repeat-4)-a-D-GlcpNAc-(1-4)-a-D-GlcpA-(1-3)-a-D-Galp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+Repeat-4)-a-L-IdopA-(1-4)-a-D-GlcpNAc-(1-.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE'
+ 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE'
+ 'IDE']
+
+
+Repeat-6)-a-D-Glcp-(1-2)-a-D-Galp-(1-6)-a-D-Galp-(1-.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+Repeat-6)-a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(1-.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC']
+
+
+Repeat-6)-a-D-Glcp-(1-3)-a-L-Rhap2Ac-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Galf-(1-.pdb
+['GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC']
+
+
+Repeat-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-4)-b-D-GalpNAc3Ac-(1-3)-a-D-Galp-(1-3)-b-D-GalpNAc-(1-.pdb
+['NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+Repeat-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-6)-b-D-Galp-(1-4)-b-D-Galp-(1-4)-b-D-GlcpNAc-(1-.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+Repeat-6)-b-D-Galf-(1-5)-b-D-Galf-(1-5)-b-D-Galf-(1-5)-b-D-Galf-(1-.pdb
+['GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL']
+
+
+VERSION1_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.pdb
+['FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB'
+ 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB'
+ 'FCB' 'FCB' 'FCB' 'FCB' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL']
+
+
+VERSION2_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.pdb
+['FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB'
+ 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB' 'FCB'
+ 'FCB' 'FCB' 'FCB' 'FCB' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL']
+
+
+a-D-Apif.pdb
+['UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'Missing monosaccharide' 'UNL' 'UNL'
+ 'UNL' 'Missing monosaccharide' 'UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'UNL'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide']
+
+
+a-D-Araf.pdb
+['ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE'
+ 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE']
+
+
+a-D-FucpNAc-(1-4)-a-D-GalpNac-(1-3)-b-D-Manp-(1-2)-erythritol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'BMA' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'FCA' 'FCA' 'FCA' 'FCA'
+ 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA'
+ 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA']
+
+
+a-D-Galp-(1-2)-a-L-Rhap-(1-3)-b-D-Manp-(1-4)-b-D-Manp-(1-4)-a-D-Galp-(1-3)-b-D-Galp-(2-1)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLB' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-Galp-(1-3)-b-D-GalpNAc-(1-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-4)-b-D-GalpNAc.pdb
+['NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-Galp-(1-6)-D-GlcpN-(1-4)-D-glcpA.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GCS' 'GCS'
+ 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS'
+ 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GLA' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA']
+
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-ononitol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GLA' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-GalpA-(1-3)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-4)-a-D-GlcpNAc.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA']
+
+
+a-D-GalpA.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+a-D-GalpNAc-(1-4)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G']
+
+
+a-D-GalpNAc-(1-4)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G']
+
+
+a-D-GalpNAc-(1-6)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GLA' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G']
+
+
+a-D-GalpNAc.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G']
+
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FRU' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'GLC' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FRU'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'GLC'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FRU' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'GLC' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FRU'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'GLC'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FRU' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'GLC' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-b-D-Galp-(1-4)-a-D-GlcpNAc-(1-4)-b-D-Glcp-(1-3)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-2)-b-D-Glcp-(1-3)-b-D-GlcpNAc-(1-3)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-3)-a-L-Galp.pdb
+['GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-3)-b-L-Galp.pdb
+['GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-4)-b-D-ManpA1NAc3NAc.pdb
+['BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp-(1-6)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-a-D-Manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-a-D-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-b-D-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-GlcpA.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+a-D-GlcpNAc-(1-4)-a-D-GlcpNAc-(1-4)-a-D-Kdop.pdb
+['KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLB'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+a-D-GlcpNAc-(1-4)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+a-D-GlcpNAc.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+a-D-GlcpNac-(1-4)-a-D-GlcpNac.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL']
+
+
+a-D-Idop.pdb
+['IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE'
+ 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE']
+
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb
+['GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1'
+ 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'PO3'
+ 'PO3' 'PO3' 'PO3' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS'
+ 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS' 'GCS'
+ 'GCS' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN4PO4-(1-6)-a-D-GlcpN1PO4.pdb
+['GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1'
+ 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'GP1' 'PO3'
+ 'PO3' 'PO3' 'PO3' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M'
+ 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M' 'Z9M'
+ 'PO3' 'PO3' 'PO3' 'PO3' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+a-D-Lyxp.pdb
+['LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX'
+ 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX']
+
+
+a-D-Manp-(1-2)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-2)-a-D-Manp-(1-2)-b-D-Manp-(1-3)-a-D-GalpNAc.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-2)-a-D-Manp-(1-3)-Ser.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'MAN' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-2)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-2)-b-D-manp-(1-3)-a-D-GlcpNAc-(1-6)-a-D-Manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-3)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-Manp-(1-3)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-ManpA.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+a-D-ManpNAc.pdb
+['BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3'
+ 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3'
+ 'BM3' 'BM3' 'BM3' 'BM3' 'BM3' 'BM3']
+
+
+a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-a-D-FucpNAc.pdb
+['FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA'
+ 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA' 'FCA'
+ 'FCA' 'FCA' 'FCA' 'FCA' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL' 'GUL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL'
+ 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL' 'AGL']
+
+
+a-D-Rhap4NAc-(1-3)-a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-D-Ribf.pdb
+['RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB'
+ 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB']
+
+
+a-D-Ribp.pdb
+['RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP'
+ 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP']
+
+
+a-D-Xylp-(1-6)-b-D-Glcp-(1-4)-D-Glc-ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLC'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS'
+ 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS']
+
+
+a-D-Xylp.pdb
+['XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS'
+ 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS' 'XYS']
+
+
+a-L-Fucp-(1-2)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-a-D-Manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLB'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-b-D-Galp1OMe.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLB' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-2)-b-D-Manp.pdb
+['BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp-(1-3)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp.pdb
+['FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp2SO33SO34SO3-(1-2)-a-L-Fucp3SO34SO3-(1-1)-propyl.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'FUC' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Fucp2SO34SO3-(1-4)-a-L-Fucp2SO3.pdb
+['FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+a-L-Rhap-(1-2)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-a-L-Rhap-(1-3)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-2)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-a-L-Rhap-(1-2)-Groal.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'RAM' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-b-D-Galp-(1-4)-b-D-GalpNAc-(3-1)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NGA' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-3)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-4)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(3-1)-a-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM']
+
+
+a-L-Rhap-(1-4)-a-D-Glcp-(1-3)-b-L-Rhap-(1-4)-b-D-Glcp-(1-4)-a-D-Glcp-(3-1)-a-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+a-d-manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN']
+
+
+b-D-Apif.pdb
+['UNL' 'UNL' 'UNL' 'UNL' 'Missing monosaccharide' 'UNL' 'UNL' 'UNL' 'UNL'
+ 'UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'UNL' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide']
+
+
+b-D-Araf.pdb
+['ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE'
+ 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE']
+
+
+b-D-Fruf-(2-6)-b-D-Fruf.pdb
+['FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU'
+ 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU' 'FRU']
+
+
+b-D-Galf-(1-3)-b-D-GalpNAc-(1-3)-b-D-Galp-(4-1)-a-D-Glcp-(6-1)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLB' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL']
+
+
+b-D-Galp-(1-2)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-2)-b-D-Glc1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-a-D-GalpNAc.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-b-D-Glcp-(1-3)-b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-a-L-Galp-(2-1)-b-D-Xylp.pdb
+['XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-b-D-Glcp-(1-3)-b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-b-L-Galp-(2-1)-b-D-Xylp.pdb
+['XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(1-3)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp-(3-1)-a-D-Manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'GLB' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-GalpA.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-GalpANAc.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+b-D-Glcp-(1-4)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-Glcp-(1-4)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-Glcp-(1-4)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC']
+
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA2SO3-(1-4)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA2SO3-(1-4)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+b-D-Glcp-(1-6)-b-D-Glcp-(1-3)-b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp-(1-6)-b-D-Glcp-(1-6)-b-D-GlcpNAc-(1-2)-a-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Glcp.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-GlcpA-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-b-D-Galp-(1-2)-a-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpASo3-(1-4)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+b-D-GlcpA.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-GlcpNAc-(1-2)-b-D-GalpA-(1-3)-a-D-GalpNAc-(1-4)-a-D-GalpA.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG']
+
+
+b-D-GlcpNAc-(1-3)-b-D-Galp-(1-3)-b-D-GalpNAc-(1-3)-a-D-Galp.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA' 'NGA'
+ 'NGA' 'NGA' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG']
+
+
+b-D-GlcpNAc-(1-3)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG']
+
+
+b-D-GlcpNAc-(1-4)-a-D-GlcpNAc.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG']
+
+
+b-D-GlcpNAc-(1-4)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG']
+
+
+b-D-GlcpNAc-(1-6)-b-D-Galp-(1-3)-a-D-GalpNac.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG']
+
+
+b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG']
+
+
+b-D-Idop.pdb
+['IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE'
+ 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE' 'IDE']
+
+
+b-D-Kdop-(2-3)-b-D-Galp-(1-4)-a-D-Galp-(1-3)-b-D-Galp.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO'
+ 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO' 'KDO']
+
+
+b-D-Lyxp.pdb
+['LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX'
+ 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX' 'LYX']
+
+
+b-D-Manp-(1-2)-b-D-Manp-(1-2)-b-D-Manp-(1-2)-b-D-Manp.pdb
+['BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA']
+
+
+b-D-Manp.pdb
+['BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA']
+
+
+b-D-ManpNAc.pdb
+['BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7'
+ 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7'
+ 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7']
+
+
+b-D-Quip-(1-6)-b-D-Galp-(1-6)-b-D-GlcpNAc-(1-6)-b-D-Galp-(1-3)-b-D-GlcpNAc.pdb
+['NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'NAG'
+ 'NAG' 'NAG' 'NAG' 'NAG' 'NAG' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Quip3Nac-(1-6)-a-D-GlcpNAc-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpNAc.pdb
+['A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+b-D-Ribf-(1-4)-b-D-Galp-(1-3)-a-D-GlcpNac-(1-4)-a-D-GalpA.pdb
+['GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'RIB' 'RIB'
+ 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB'
+ 'RIB' 'RIB' 'RIB' 'RIB']
+
+
+b-D-Ribf.pdb
+['RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB'
+ 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB']
+
+
+b-D-Ribp.pdb
+['RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP'
+ 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP' 'RIP']
+
+
+b-D-Xylp-(1-3)-L-Ara-ol.pdb
+['Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'XYP'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide'
+ 'Missing monosaccharide' 'Missing monosaccharide' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP']
+
+
+b-D-Xylp-(1-3)-a-L-Arap.pdb
+['ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA'
+ 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'ARA' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP']
+
+
+b-D-Xylp-(1-3)-b-L-Arap.pdb
+['ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE'
+ 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'ARE' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP']
+
+
+b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-a-L-Galp-(2-1)-b-D-Xylp.pdb
+['XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP']
+
+
+b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-b-L-Galp-(2-1)-b-D-Xylp.pdb
+['XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP']
+
+
+b-D-Xylp.pdb
+['XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP'
+ 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP' 'XYP']
+
+
+b-L-Fucp-(1-2)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-a-D-Manp.pdb
+['MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-a-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-b-D-Manp.pdb
+['BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-b-L-Galp1OMe.pdb
+['GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL'
+ 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'GAL' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GAL' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-2)-b-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-3)-a-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-3)-b-D-Galp1OMe.pdb
+['GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLB' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp-(1-3)-b-D-Glcp1OMe.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'CH3' 'CH3' 'CH3'
+ 'CH3' 'GLC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Fucp.pdb
+['FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC']
+
+
+b-L-Rhap-(1-2)-b-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+b-L-Rhap.pdb
+['RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM'
+ 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM' 'RAM']
+
+
+repeat-2)-b-D-GlcpA-(1-3)-a-D-GalpNAc-(1-3)-a-D-GalpNAc-(1-2)-a-L-Fucp-(1-.pdb
+['FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC'
+ 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'FUC' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G' 'A2G'
+ 'A2G' 'A2G' 'A2G' 'A2G' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC']
+
+
+repeat-4)-a-D-GalpA-(1-3)-a-D-Manp-(1-4)-b-D-Glcp-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Manp-(1-3)-b-D-ManpNAc-(1-.pdb
+['BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7'
+ 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BM7'
+ 'BM7' 'BM7' 'BM7' 'BM7' 'BM7' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN'
+ 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'MAN' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA']
+
+
+repeat-4)-a-D-Glcp-(1-4)-a-D-GlcpA-(1-3)-a-D-Galp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-.pdb
+['GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA'
+ 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLA' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC' 'GLC'
+ 'GLC' 'GLC' 'GLC' 'GLC' 'GLC']
+
+
+repeat-4)-b-D-Galp-(1-4)-a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Ribf-(1-.pdb
+['RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB'
+ 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'RIB' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB'
+ 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB' 'GLB']
+
+
+repeat-4)-b-D-ManpNAc-(1-4)-a-D-GlcpNAc-(1-.pdb
+['GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'GDL'
+ 'GDL' 'GDL' 'GDL' 'GDL' 'GDL' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA'
+ 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA' 'BMA']

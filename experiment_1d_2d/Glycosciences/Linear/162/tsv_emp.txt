@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Idop	100%	94.6	71.1	71.0	69.3	75.8	62.5

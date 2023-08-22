@@ -1,0 +1,13 @@
+P-6)aDGlcp(1-1)aDGlcp   P-(O-6)-a-D-Glcp-(1-1)-a-D-Glcp
+P-2)aDGlcp(1-1)aDGlcp   P-(O-2)-a-D-Glcp-(1-1)-a-D-Glcp
+P-4)aDGlcp(1-1)aDGlcp   P-(O-4)-a-D-Glcp-(1-1)-a-D-Glcp
+P-3)aDGlcp(1-1)aDGlcp   P-(O-3)-a-D-Glcp-(1-1)-a-D-Glcp
+aXKdop(2-8)aXKdop(2-4)aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN4PO4-(1-6)-a-D-GlcpN1PO4
+aXKdop(2-8)aXKdop(2-4)aXKdop(2-6)bDGlcpN(1-6)[P-1)]aDGlcpN a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4
+S-4)[S-2)]aLFucp(1-4)[S-2)]aLFucp a-L-Fucp2SO34SO3-(1-4)-a-L-Fucp2SO3
+S-2)[S-3),S-4)]aLFucp(1-2)[S-3),S-4)]aLFucp(1-1)Pr a-L-Fucp2SO33SO34SO3-(1-2)-a-L-Fucp3SO34SO3-(1-1)-propyl
+-6)aDGlcp(1-4)bDGlcpA(1-4)bDGlcpA(1-4)[Ac(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-3)[Ac(1-2)]bDGalpN(1- Repeat-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-4)-b-D-GalpNAc3Ac-(1-3)-a-D-Galp-(1-3)-b-D-GalpNAc-(1-  
+bDGlcpA(1-4)bDGlcpA(1-3)[S-)]aDGalpA(1-4)aDGalp b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpASo3-(1-4)-a-D-Galp
+bDGlcpA(1-4)bDGlcpA(1-3)[S-)]aDGalpA(1-4)bDGalp b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpASo3-(1-4)-b-D-Galp
+bDGlcp(1-4)bDGlcpA(1-3)[S-2)]aDGalpA(1-4)bDGalp b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA2SO3-(1-4)-b-D-Galp
+DOESN'T WORK -4)[Ac(1-2)]aL6dGlcpN(1-3)[Ac(1-2)bD6dGlcpN(1-3)[Ac(1-4)]aDFucpN(1- Repeat-4)-a-L-6-deoxy-GlcpNAc-(1-3)-b-D-6-deoxy-GlcpNAc-(1-3)-a-D-Fucp4NAc-(1- 

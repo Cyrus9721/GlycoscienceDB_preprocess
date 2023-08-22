@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5
+	a-D-Araf	30%	101.8	82.2	77.1	84.2	62.8

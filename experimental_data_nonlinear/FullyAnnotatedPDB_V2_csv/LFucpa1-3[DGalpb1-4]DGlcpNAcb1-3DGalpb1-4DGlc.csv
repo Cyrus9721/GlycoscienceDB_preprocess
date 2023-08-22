@@ -1,0 +1,36 @@
+Residual,Connection,Atom,Shift
+D-Glc, ,H1A,5.219
+D-Glc, ,H1B,4.661
+D-Glc, ,H2A,3.584
+D-Glc, ,H2B,3.286
+D-Glc, ,H3A,3.826
+D-Glc, ,H3B,3.632
+D-Glc, ,H4A,3.65
+D-Glc, ,H4B,3.651
+D-Glc, ,H5A,3.935
+D-Glc, ,H5B,3.6
+D-Glc, ,H6A,3.861
+b-D-Galp,4,H1,4.434
+b-D-Galp,4,H2,3.584
+b-D-Galp,4,H3,3.719
+b-D-Galp,4,H4,4.155
+b-D-Galp,4,H5,3.716
+b-D-Galp,4,H6,3.769
+b-D-GlcpNAc," 3,4",H1,4.719
+b-D-GlcpNAc," 3,4",H2,3.958
+b-D-GlcpNAc," 3,4",H3,3.876
+b-D-GlcpNAc," 3,4",H4,3.627
+b-D-GlcpNAc," 3,4",H5,3.548
+b-D-GlcpNAc," 3,4",H6,3.918
+b-D-GlcpNAc," 3,4",NAC,2.026
+b-D-Galp," 4,3,4",H1,4.463
+b-D-Galp," 4,3,4",H2,3.493
+b-D-Galp," 4,3,4",H3,3.956
+b-D-Galp," 4,3,4",H4,3.893
+b-D-Galp," 4,3,4",H6,3.73
+a-L-Fucp," 3,3,4",H1,5.128
+a-L-Fucp," 3,3,4",H2,3.691
+a-L-Fucp," 3,3,4",H3,3.895
+a-L-Fucp," 3,3,4",H4,3.793
+a-L-Fucp," 3,3,4",H5,4.832
+a-L-Fucp," 3,3,4",CH3,1.173

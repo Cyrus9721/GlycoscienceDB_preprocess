@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	a-D-Xylp	82%	5.16	3.54	3.59	3.62	3.55-3.69

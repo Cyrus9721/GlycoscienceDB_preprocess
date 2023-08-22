@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Xylp	93%	97.5	75.0	76.8	70.4	66.1

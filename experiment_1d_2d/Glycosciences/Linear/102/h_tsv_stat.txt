@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	b-L-Arap	72%	5.22	3.84	4.17	3.92	3.56
+3	b-D-Xylp	81%	5.22	3.48	4.07	3.36	3.71

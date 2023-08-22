@@ -1,0 +1,84 @@
+Residual,Connection,Atom,Shift
+a-D-GalpNAc,3,H1,4.884
+a-D-GalpNAc,3,H2,4.336
+a-D-GalpNAc,3,H3,4.079
+a-D-GalpNAc,3,H4,4.215
+a-D-GalpNAc,3,H5,4.18
+a-D-GalpNAc,3,H61,4.09
+a-D-GalpNAc,3,H62,3.36
+b-D-GlcpNAc," 6,3",H1,4.572
+b-D-GlcpNAc," 6,3",H2,3.751
+b-D-GlcpNAc," 6,3",H3,3.7
+b-D-GlcpNAc," 6,3",H4,3.72
+b-D-GlcpNAc," 6,3",H5,3.6
+b-D-GlcpNAc," 6,3",H61,4
+b-D-GlcpNAc," 6,3",H62,3.85
+b-D-Galp," 4,6,3",H1,4.554
+b-D-Galp," 4,6,3",H2,3.579
+b-D-Galp," 4,6,3",H3,4.118
+b-D-Galp," 4,6,3",H4,3.965
+b-D-Galp," 4,6,3",H5,3.73
+a-D-Neup5Ac," 3,4,6,3",H31,1.8
+a-D-Neup5Ac," 3,4,6,3",H32,2.769
+a-D-Neup5Ac," 3,4,6,3",H4,3.7
+a-D-Neup5Ac," 3,4,6,3",H5,3.846
+a-D-Neup5Ac," 3,4,6,3",H6,3.642
+a-D-Neup5Ac," 3,4,6,3",H7,3.6
+a-D-Neup5Ac," 3,4,6,3",H8,3.9
+a-D-Neup5Ac," 3,4,6,3",H91,3.86
+a-D-Neup5Ac," 3,4,6,3",H92,3.65
+b-D-Galp," 3,3",H1,4.532
+b-D-Galp," 3,3",H2,3.531
+b-D-Galp," 3,3",H3,4.066
+b-D-Galp," 3,3",H4,3.937
+b-D-Galp," 3,3",H5,3.64
+b-D-Galp," 3,3",H61,3.73
+b-D-Galp," 3,3",H62,3.73
+a-D-Neup5Ac," 3,3,3",H31,1.783
+a-D-Neup5Ac," 3,3,3",H32,2.76
+a-D-Neup5Ac," 3,3,3",H4,3.69
+a-D-Neup5Ac," 3,3,3",H5,3.841
+a-D-Neup5Ac," 3,3,3",H6,3.633
+a-D-Neup5Ac," 3,3,3",H7,3.6
+a-D-Neup5Ac," 3,3,3",H8,3.9
+a-D-Neup5Ac," 3,3,3",H11,3.86
+a-D-Neup5Ac," 3,3,3",H12,3.65
+a-D-GalpNAc,3,C1,98.98
+a-D-GalpNAc,3,C2,49.18
+a-D-GalpNAc,3,C3,77.54
+a-D-GalpNAc,3,C4,69.85
+a-D-GalpNAc,3,C5,70.25
+a-D-GalpNAc,3,C6,71.02
+b-D-GlcpNAc," 6,3",C1,102
+b-D-GlcpNAc," 6,3",C2,55.91
+b-D-GlcpNAc," 6,3",C3,73.2
+b-D-GlcpNAc," 6,3",C4,79.29
+b-D-GlcpNAc," 6,3",C5,75.67
+b-D-GlcpNAc," 6,3",C6,60.97
+b-D-Galp," 4,6,3",C1,103.51
+b-D-Galp," 4,6,3",C2,70.26
+b-D-Galp," 4,6,3",C3,76.38
+b-D-Galp," 4,6,3",C4,68.38
+b-D-Galp," 4,6,3",C5,76.06
+b-D-Galp," 4,6,3",C6,61.89
+a-D-Neup5Ac," 3,4,6,3",C2,100.71
+a-D-Neup5Ac," 3,4,6,3",C3,40.67
+a-D-Neup5Ac," 3,4,6,3",C4,69.19
+a-D-Neup5Ac," 3,4,6,3",C5,52.58
+a-D-Neup5Ac," 3,4,6,3",C6,73.78
+a-D-Neup5Ac," 3,4,6,3",C7,69.03
+a-D-Neup5Ac," 3,4,6,3",C8,72.63
+a-D-Neup5Ac," 3,4,6,3",C9,63.5
+b-D-Galp," 3,3",C1,105.3
+b-D-Galp," 3,3",C2,69.88
+b-D-Galp," 3,3",C3,76.52
+b-D-Galp," 3,3",C4,68.24
+b-D-Galp," 3,3",C5,75.65
+b-D-Galp," 3,3",C6,61.86
+a-D-Neup5Ac," 3,3,3",C2,101.31
+a-D-Neup5Ac," 3,3,3",C3,41.08
+a-D-Neup5Ac," 3,3,3",C4,69.23
+a-D-Neup5Ac," 3,3,3",C5,52.61
+a-D-Neup5Ac," 3,3,3",C6,73.68
+a-D-Neup5Ac," 3,3,3",C7,69.03
+a-D-Neup5Ac," 3,3,3",C9,63.45

@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Ribp	56%	97.4	71.3	67.8	68.8	63.9

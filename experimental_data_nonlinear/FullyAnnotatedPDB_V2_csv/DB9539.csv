@@ -1,0 +1,39 @@
+Residual,Connection,Atom,Shift
+b-D-GalpNAc, ,H1,4.78
+b-D-GalpNAc, ,H2,4.02
+b-D-GalpNAc, ,H3,3.93
+b-D-GalpNAc, ,H4,4.12
+b-D-GalpNAc, ,H5,3.72
+b-D-GalpNAc, ,NAC,2.03
+b-D-Glcp,3,H1,4.52
+b-D-Glcp,3,H2,3.41
+b-D-Glcp,3,H3,3.64
+b-D-Glcp,3,H4,3.59
+b-D-Glcp,3,H5,3.63
+b-D-Glcp,3,H61,3.76
+b-D-Glcp,3,H62,3.95
+a-D-Galp," 6,3",H1,4.98
+a-D-Galp," 6,3",H2,3.82
+a-D-Galp," 6,3",H3,3.82
+a-D-Galp," 6,3",H4,4
+a-D-Galp," 6,3",H5,3.9
+b-D-GalpNAc, ,C1,102.67
+b-D-GalpNAc, ,C2,52.42
+b-D-GalpNAc, ,C3,80.63
+b-D-GalpNAc, ,C4,68.81
+b-D-GalpNAc, ,C5,75.65
+b-D-GalpNAc, ,C6,61.89
+b-D-GalpNAc, ,CO,175.81
+b-D-GalpNAc, ,CH3,23.19
+b-D-Glcp,3,C1,105.13
+b-D-Glcp,3,C2,73.57
+b-D-Glcp,3,C3,84.95
+b-D-Glcp,3,C4,68.9
+b-D-Glcp,3,C5,74.65
+b-D-Glcp,3,C6,66.45
+a-D-Galp," 6,3",C1,98.91
+a-D-Galp," 6,3",C2,69.23
+a-D-Galp," 6,3",C3,70.4
+a-D-Galp," 6,3",C4,70.04
+a-D-Galp," 6,3",C5,71.77
+a-D-Galp," 6,3",C6,61.89

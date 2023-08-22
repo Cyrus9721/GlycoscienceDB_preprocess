@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-ManpA	89%	95.0	71.6	70.5	70.2	73.6	177.4

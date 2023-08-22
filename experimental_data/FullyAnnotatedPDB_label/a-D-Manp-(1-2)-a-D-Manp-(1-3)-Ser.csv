@@ -1,0 +1,33 @@
+Residual,Connection,Atom,Shift
+Ser, ,HA,3.97
+Ser, ,HB1,4.12
+Ser, ,HB2,3.88
+a-D-Manp,3,H1,5.12
+a-D-Manp,3,H2,4
+a-D-Manp,3,H3,3.95
+a-D-Manp,3,H4,3.69
+a-D-Manp,3,H5,3.64
+a-D-Manp,3,H61,3.91
+a-D-Manp,3,H62,3.77
+a-D-Manp," 2,3",H1,5.02
+a-D-Manp," 2,3",H2,4.06
+a-D-Manp," 2,3",H3,3.83
+a-D-Manp," 2,3",H4,3.62
+a-D-Manp," 2,3",H5,3.76
+a-D-Manp," 2,3",H61,3.9
+a-D-Manp," 2,3",H62,3.72
+Ser, ,CO,172.69
+Ser, ,CA,55.43
+Ser, ,CB,67.4
+a-D-Manp,3,C1,99.73
+a-D-Manp,3,C2,79.07
+a-D-Manp,3,C3,70.8
+a-D-Manp,3,C4,67.72
+a-D-Manp,3,C5,73.98
+a-D-Manp,3,C6,61.81
+a-D-Manp," 2,3",C1,102.96
+a-D-Manp," 2,3",C2,70.8
+a-D-Manp," 2,3",C3,71.17
+a-D-Manp," 2,3",C4,67.72
+a-D-Manp," 2,3",C5,74.1
+a-D-Manp," 2,3",C6,61.97

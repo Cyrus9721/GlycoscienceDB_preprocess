@@ -1,0 +1,129 @@
+1, Duplicate glycans: Appears in at least two directorys
+
+7-1-2022 : DGalp(3S)b1-3(LFucpa1-4)DGlcpNAcb1-OME.pdb Duplicate glycans
+7-1-2022 : DGalpa1-3DGalpb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DGalpb1-3(LFucpa1-4)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DGalpb1-4(LFucpa1-3)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-3DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DGlcpa1-3DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-2DManpa1-6DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : LFucpa1-2DGalpb1-3(LFucpa1-4)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : LFucpa1-2DGalpb1-3DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : LFucpa1-2DGalpb1-4(LFucpa1-3)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-1-2022 : LFucpa1-2DGalpb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-4)(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGlcpNAcb1-2DManpa1-3)(DGlcpNAcb1-4)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-17-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-4)(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DGalpa1-3DGalpb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DGalpb1-3(LFucpa1-4)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DGalpb1-4(LFucpa1-3)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-2DManpa1-3(DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-3DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-3DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DGlcpa1-3DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-2DManpa1-6DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-3(DManpa1-2DManpa1-6DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-3(DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-2DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : LFucpa1-2DGalpb1-3(LFucpa1-4)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : LFucpa1-2DGalpb1-3DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : LFucpa1-2DGalpb1-4(LFucpa1-3)DGlcpNAcb1-OH.pdb Duplicate glycans
+7-15-2022 : LFucpa1-2DGalpb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DGalp(3S)b1-3(LFucpa1-4)DGlcpNAcb1-OME.pdb Duplicate glycans
+7-14-2022 : DGalpa1-3DGalpb1-4DGlcpNAcb1-2DManpa1-6(DGalpa1-3DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OME.pdb Duplicate glycans
+7-14-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-4)(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-4)(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)(DGlcpNAcb1-4)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGlcpNAcb1-2DManpa1-3)(DGlcpNAcb1-4)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-4)(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-14-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-4)(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-7-2022 : DGalpa1-3DGalpb1-4DGlcpNAcb1-2DManpa1-6(DGalpa1-3DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OME.pdb Duplicate glycans
+7-21-2022 : DManpa1-2DManpa1-2DManpa1-3(DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-2DManpa1-3DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-2DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-3(DManpa1-2DManpa1-6DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-3(DManpa1-6)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-3DManpa1-6(DGlcpNAcb1-4)(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)(DGlcpNAcb1-4)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6(DManpa1-3)DManpa1-6(DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6DManpa1-6(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+7-21-2022 : DManpa1-6DManpa1-6(DGlcpNAcb1-4)(DGalpb1-4DGlcpNAcb1-2DManpa1-3)DManpb1-4DGlcpNAcb1-4DGlcpNAcb1-OH.pdb Duplicate glycans
+
+
+2, Missing formula:
+7-1-2022 : DManpb1-OME.pdb 
+7-1-2022 : DGalpb1-OME.pdb 
+7-1-2022 : DManpa1-OME.pdb 
+7-1-2022 : DGlcpa1-OME.pdb 
+7-1-2022 : DGalpa1-OME.pdb 
+7-1-2022 : DGlcpb1-OME.pdb
+
+
+3, Missing Hydrogen: None of H6, H61 or H62 appears in the pdb file
+7-6-2022 : DGlcpAa1-OME.pdb Missing All H!
+7-6-2022 : DGlcpAb1-OME.pdb Missing All H!
+
+4, Wrong Hydrogen encoding: H16 should not exits 
+7-1-2022 : LRhapa1-OME.pdb
+
+
+5, Shift out of distribution(From Ryan's slides):
+7-1-2022 : DGlcpNAcb1-6(DGlcpNAcb1-4)(DGlcpNAcb1-3)DGlcpNAcb1-OME.pdb
+7-6-2022 : DGlcpAb1-3DGlcpNAcb1-OME.pdb
+
+5.1 extra: shift out of distribution:
+DGlcpAb1-6DGalpb1-OME.csv 176.27
+DGlcpAb1-3DGalpb1-OME.csv 176.34
+DGlcpAb1-OME.csv 176.52
+DGlcpAa1-OME.csv 177.15
+
+6, Glycans missing all H6, similar to (3) but in residual level:
+7-6-2022 DGlcpAb1-6DGalpb1-OME.pdb on residual 2 has vague Hydrogen, Missing all H6
+7-6-2022 DGlcpAb1-3DGlcpNAcb1-OME.pdb on residual 2 has vague Hydrogen, Missing all H6
+7-6-2022 DGlcpAb1-3DGalpb1-OME.pdb on residual 2 has vague Hydrogen, Missing all H6
+7-6-2022 DGlcpAa1-OME.pdb on residual 1 has vague Hydrogen, Missing all H6
+7-6-2022 DGlcpAb1-OME.pdb on residual 1 has vague Hydrogen, Missing all H6
+
+7, Vague label, Glycans on certain residual, have both H6 and H61, H62 appeared:
+
+7-5-2022 LFucpb1-3DGlcpNAcb1-OME .pdb on residual 2 has vague Hydrogen
+
+7-1-2022 LRhapa1-OME.pdb on residual 1 has vague Hydrogen
+
+Summary: intotal we have 473 - 40(duplicate) - 2(shift out of distribution) = 431 glycans
+Notice that some glycans is partially labeled
+
+
+

@@ -1,0 +1,344 @@
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv
+with carbon number: C4
+at residual number: 2
+Template value: 67.1 Actual value: 70.5
+difference: 3.4000000000000057
+[175.4 100.7  34.3  70.5  65.6  72.1  70.4  64.1]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv
+with carbon number: C4
+at residual number: 3
+Template value: 67.1 Actual value: 70.6
+difference: 3.5
+[-1.  -1.  34.8 70.6 66.  72.2 70.6 64.2]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26475.pdb.csv
+with carbon number: C1
+at residual number: 1
+Template value: 176.3 Actual value: 35.0
+difference: 141.3
+[35.  66.1 73.1 72.1 70.1 64.  -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26475.pdb.csv
+with carbon number: C2
+at residual number: 1
+Template value: 102.3 Actual value: 66.1
+difference: 36.2
+[35.  66.1 73.1 72.1 70.1 64.  -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26475.pdb.csv
+with carbon number: C3
+at residual number: 1
+Template value: 35.2 Actual value: 73.1
+difference: 37.89999999999999
+[35.  66.1 73.1 72.1 70.1 64.  -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26475.pdb.csv
+with carbon number: C4
+at residual number: 1
+Template value: 67.1 Actual value: 72.1
+difference: 5.0
+[35.  66.1 73.1 72.1 70.1 64.  -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26475.pdb.csv
+with carbon number: C6
+at residual number: 1
+Template value: 72.7 Actual value: 64.0
+difference: 8.700000000000003
+[35.  66.1 73.1 72.1 70.1 64.  -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26380.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 73.5
+difference: 6.400000000000006
+[-1.  -1.  34.7 73.5 67.4 73.3 69.8 64.3]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26380.pdb.csv
+with carbon number: C8
+at residual number: 9
+Template value: 64.0 Actual value: 68.1
+difference: 4.099999999999994
+[-1.  -1.  36.7 66.2 67.7 75.6 72.8 68.1]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C1
+at residual number: 4
+Template value: 176.3 Actual value: 35.0
+difference: 141.3
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C2
+at residual number: 4
+Template value: 102.3 Actual value: 69.5
+difference: 32.8
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C3
+at residual number: 4
+Template value: 35.2 Actual value: 70.2
+difference: 35.0
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 73.8
+difference: 6.700000000000003
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C5
+at residual number: 4
+Template value: 67.2 Actual value: 70.8
+difference: 3.5999999999999943
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C6
+at residual number: 4
+Template value: 72.7 Actual value: 64.6
+difference: 8.100000000000009
+[35.  69.5 70.2 73.8 70.8 64.6 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C1
+at residual number: 5
+Template value: 176.3 Actual value: 35.0
+difference: 141.3
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C2
+at residual number: 5
+Template value: 102.3 Actual value: 66.5
+difference: 35.8
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C3
+at residual number: 5
+Template value: 35.2 Actual value: 68.4
+difference: 33.2
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C4
+at residual number: 5
+Template value: 67.1 Actual value: 74.0
+difference: 6.900000000000006
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C5
+at residual number: 5
+Template value: 67.2 Actual value: 70.5
+difference: 3.299999999999997
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26467.pdb.csv
+with carbon number: C6
+at residual number: 5
+Template value: 72.7 Actual value: 64.7
+difference: 8.0
+[35.  66.5 68.4 74.  70.5 64.7 -1.  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+b-D-Kdop-(2-3)-b-D-Galp-(1-4)-a-D-Galp-(1-3)-b-D-Galp.pdb.csv
+with carbon number: C5
+at residual number: 4
+Template value: 67.2 Actual value: 75.99
+difference: 8.789999999999992
+[173.98 103.83  36.64  68.43  75.99  74.3   69.96  64.65]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv
+with carbon number: C4
+at residual number: 3
+Template value: 67.1 Actual value: 70.6
+difference: 3.5
+[176.  101.4  34.5  70.6  66.   72.2  70.8  64.3]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB22505.pdb.csv
+with carbon number: C5
+at residual number: 4
+Template value: 67.2 Actual value: 71.0
+difference: 3.799999999999997
+[-1.   -1.   34.92 65.99 71.   71.64 69.65 63.07]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN4PO4-(1-6)-a-D-GlcpN1PO4.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 70.53
+difference: 3.430000000000007
+[175.23  99.9   34.02  70.53  65.64  71.64  70.41  63.7 ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C1
+at residual number: 4
+Template value: 176.3 Actual value: 101.2
+difference: 75.10000000000001
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C2
+at residual number: 4
+Template value: 102.3 Actual value: 35.6
+difference: 66.69999999999999
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C3
+at residual number: 4
+Template value: 35.2 Actual value: 71.6
+difference: 36.39999999999999
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 75.2
+difference: 8.100000000000009
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C5
+at residual number: 4
+Template value: 67.2 Actual value: 75.5
+difference: 8.299999999999997
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C6
+at residual number: 4
+Template value: 72.7 Actual value: 67.3
+difference: 5.400000000000006
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26431.pdb.csv
+with carbon number: C7
+at residual number: 4
+Template value: 70.7 Actual value: 44.8
+difference: 25.900000000000006
+[101.2  35.6  71.6  75.2  75.5  67.3  44.8  -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB22506.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 70.98
+difference: 3.8800000000000097
+[-1.   -1.   33.77 70.98 65.88 71.68 69.77 63.47]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB12870.pdb.csv
+with carbon number: C5
+at residual number: 2
+Template value: 67.2 Actual value: 74.8
+difference: 7.599999999999994
+[175.  101.5  36.3  65.8  74.8  72.7  70.1  64.5]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.pdb.csv
+with carbon number: C2
+at residual number: 2
+Template value: 102.3 Actual value: 110.2
+difference: 7.900000000000006
+[176.8 110.2  35.4  66.8  67.2  73.3  70.9  64. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26928.pdb.csv
+with carbon number: C1
+at residual number: 10
+Template value: 176.3 Actual value: 102.8
+difference: 73.50000000000001
+[102.8  35.3  68.3  66.   74.1  69.8  65.   -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26928.pdb.csv
+with carbon number: C2
+at residual number: 10
+Template value: 102.3 Actual value: 35.3
+difference: 67.0
+[102.8  35.3  68.3  66.   74.1  69.8  65.   -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26928.pdb.csv
+with carbon number: C3
+at residual number: 10
+Template value: 35.2 Actual value: 68.3
+difference: 33.099999999999994
+[102.8  35.3  68.3  66.   74.1  69.8  65.   -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26928.pdb.csv
+with carbon number: C5
+at residual number: 10
+Template value: 67.2 Actual value: 74.1
+difference: 6.8999999999999915
+[102.8  35.3  68.3  66.   74.1  69.8  65.   -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26928.pdb.csv
+with carbon number: C7
+at residual number: 10
+Template value: 70.7 Actual value: 65.0
+difference: 5.700000000000003
+[102.8  35.3  68.3  66.   74.1  69.8  65.   -1. ]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.pdb.csv
+with carbon number: C4
+at residual number: 3
+Template value: 67.1 Actual value: 70.7
+difference: 3.6000000000000085
+[176.  101.6  34.6  70.7  66.1  72.3  70.8  64.4]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26379.pdb.csv
+with carbon number: C4
+at residual number: 4
+Template value: 67.1 Actual value: 72.9
+difference: 5.800000000000011
+[-1.  -1.  34.8 72.9 68.  73.3 70.2 64.2]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+DB26379.pdb.csv
+with carbon number: C5
+at residual number: 6
+Template value: 67.2 Actual value: 63.5
+difference: 3.700000000000003
+[-1.  -1.  33.4 70.  63.5 72.9 71.  64.2]
+['C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+

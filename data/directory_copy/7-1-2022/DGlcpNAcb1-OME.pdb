@@ -1,0 +1,36 @@
+07/01/2022 21:24:32
+bDGlcNAcOMe
+ATOM      1  C1  DGlcNAc    1      -1.286   1.938  -0.094  0.00  0.00  C1 
+ATOM      2  C2  DGlcNAc    1      -1.944   2.300   1.257  0.00  0.00  C2 
+ATOM      3  C3  DGlcNAc    1      -3.472   2.102   1.161  0.00  0.00  C3 
+ATOM      4  C4  DGlcNAc    1      -4.076   2.887  -0.027  0.00  0.00  C4 
+ATOM      5  C5  DGlcNAc    1      -3.320   2.563  -1.351  0.00  0.00  C5 
+ATOM      6  C6  DGlcNAc    1      -3.742   3.463  -2.526  0.00  0.00  C6 
+ATOM      7  O1  DGlcNAc    1       0.084   2.283  -0.060  0.00  0.00 OH1 
+ATOM      8  O3  DGlcNAc    1      -4.064   2.542   2.376  0.00  0.00 OH3 
+ATOM      9  O4  DGlcNAc    1      -5.451   2.533  -0.128  0.00  0.00 OH4 
+ATOM     10  O5  DGlcNAc    1      -1.875   2.718  -1.165  0.00  0.00 O11 
+ATOM     11  O6  DGlcNAc    1      -3.308   4.804  -2.308  0.00  0.00 OH6 
+ATOM     12  HO3 DGlcNAc    1      -3.450   2.251   3.059  0.00  0.00 HH3 
+ATOM     13  HO4 DGlcNAc    1      -5.775   2.564   0.779  0.00  0.00 HH4 
+ATOM     14  HO6 DGlcNAc    1      -2.478   4.723  -1.826  0.00  0.00 HH6 
+ATOM     15  H1  DGlcNAc    1      -1.393   0.854  -0.305  0.00  0.00 H1  
+ATOM     16  H2  DGlcNAc    1      -1.729   3.364   1.481  0.00  0.00 H2  
+ATOM     17  H3  DGlcNAc    1      -3.686   1.022   1.028  0.00  0.00 H3  
+ATOM     18  H4  DGlcNAc    1      -3.992   3.972   0.181  0.00  0.00 H4  
+ATOM     19  H5  DGlcNAc    1      -3.541   1.513  -1.629  0.00  0.00 H5  
+ATOM     20  H61 DGlcNAc    1      -3.301   3.081  -3.466  0.00  0.00 H6  
+ATOM     21  H62 DGlcNAc    1      -4.839   3.436  -2.670  0.00  0.00 H24 
+ATOM     22  NM  DGlcNAc    1      -1.412   1.481   2.293  0.00  0.00 NAc
+ATOM     23  CM  DGlcNAc    1      -0.755   2.054   3.351  0.00  0.00 NAc
+ATOM     24  CM2 DGlcNAc    1      -0.239   1.058   4.371  0.00  0.00 NAc
+ATOM     25  OM  DGlcNAc    1      -0.583   3.251   3.483  0.00  0.00 NAc
+ATOM     26  HM1 DGlcNAc    1      -1.521   0.458   2.247  0.00  0.00 NAc
+ATOM     27  HM2 DGlcNAc    1       0.276   1.579   5.211  0.00  0.00 NAc
+ATOM     28  HM3 DGlcNAc    1       0.491   0.363   3.896  0.00  0.00 NAc
+ATOM     29  HM4 DGlcNAc    1      -1.082   0.466   4.797  0.00  0.00 NAc
+ATOM     30  CM  DGlcNAc    1       0.782   1.556   0.954  0.00  0.00 OMe
+ATOM     31  HM1 DGlcNAc    1       0.376   0.568   1.029  0.00  0.00 OMe
+ATOM     32  HM2 DGlcNAc    1       0.672   2.061   1.891  0.00  0.00 OMe
+ATOM     33  HM3 DGlcNAc    1       1.821   1.498   0.701  0.00  0.00 OMe
+END

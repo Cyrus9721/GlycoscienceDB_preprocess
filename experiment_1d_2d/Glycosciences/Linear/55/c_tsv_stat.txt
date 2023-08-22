@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Glcp	77%	93.3	72.2	72.7	79.6	71.6	60.8
+4	b-D-Glcp	86%	103.4	74.1	76.4	70.4	76.8	61.4

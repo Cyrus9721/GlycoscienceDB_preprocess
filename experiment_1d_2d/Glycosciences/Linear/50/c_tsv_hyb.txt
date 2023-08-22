@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Ribp	88%	95.8	72.6	71.9	69.9	64.2

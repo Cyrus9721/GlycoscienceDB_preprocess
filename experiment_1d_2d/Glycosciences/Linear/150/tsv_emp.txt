@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6	C7	C8
+	b-D-GalpNAcA	100%	97.1	53.9	72.8	70.7	76.0	175.0	175.2	22.9

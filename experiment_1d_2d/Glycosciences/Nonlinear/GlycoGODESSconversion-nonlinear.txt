@@ -1,0 +1,123 @@
+12744 -3)[Ac(1-2)]aLFucpN(1-3)[aDGlcp(1-6),Ac(1-2)]aDGlcpN(1-2)bDGalf(1-6)aDGlcp(1-
+12745 -3)[Ac(1-2)]aLFucpN(1-3)[aDGlcp(1-6),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-6)aDGlcp(1-
+13039 bDGalp(1-3)[Ac(1-2)bDGalpN(1-4)[aLFucp(1-3),Ac(1-2)]bDGlcpN(1-6),Ac(1-2)]xDGalN-ol
+14011 Ac(1-2)bDGlcpN(1-6)[aLFucp(1-2)[aDGalp(1-4)[aLFucp(1-2)]bDGalp(1-3)]bDGalp(1-3),Ac(1-2)]xDGalN-ol
+22482 aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]bDGlcpN
+22484 aDGalp(1-3)bDGalp(1-3)[bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)bDGalp
+22485 aDGalp(1-3)bDGalp(1-3)[Ac(1-2)bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)bDGalp 
+22505 P-5)aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+22506 P-4)aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+22507 Ac(1-2)aDGalpN(1-3)[Ac(1-2)]aDGlcpN(1-3)[xDLys(1-6)]aDGalpA *
+22544 Ac(1-2)aDFucpN(1-4)[aDGlcp(1-6),Ac(1-2)]aDGalpN(1-3)[Ac(1-2)bDGlcpN(1-2)]bDManp(1-4)bDGlcp
+22547 Ac(1-2)bDGlcpN(1-3)[bDGlcp(1-4)]bDGlcpA(1-4)[Ac(1-2)]bDGalpN(1-4)bDGalp
+22549 bLRhap(1-4)[aDGlcp(1-3)]aLRhap(1-3)aDFucp
+22550 aLFucp(1-2)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp *
+22551 aLFucp(1-2)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)aDGlcp *
+22552 bDGalp(1-3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)aDGlcp *
+22553 bDGalp(1-3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp *
+22556 aLFucp(1-2)bDGalp(1-3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)aDGlcp *
+22557 aLFucp(1-2)bDGalp(1-3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)[aLFuc(1-3),Ac(1-6),S-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp
+26302 aLRhap(1-2)aLRhap(1-3)[Ac(1-2)bDGlcpN(1-2)]aLRhap(1-3)aLRhap
+26306 aLRhap(1-3)[bLXylp(1-2)]aLRhap(1-3)aLRhap(4-1)bLXylp
+26370 aXKdop(2-4)aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+26378 aXKdop(2-4)[Ac(1-2)aDGlcpN(1-4)aXKdop(2-5)]aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+26379 aXKdop(2-4)[aDGlcpN(1-4)[Ac(1-2)]aDGlcpN(1-4)aXKdop(2-5)]aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+26380 aXKdop(2-4)[aDGlcpN(1-4)[Ac(1-2)]aDGlcpN(1-4)[aLRhap(1-3)aLRhap(1-3)aLRhap(1-8)aXKdop(2-5)]aXKdop(2-5)]aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+26383 Ac(1-2)aDGalpN(1-4)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-3)[aDFucp(1-4)]aDGalpA
+26397 bDGlcp(1-4)[bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-6)]aDGlcp(1-4)bDGalp
+26403 aDGlcp(1-4)bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[P-4),P-1),Ac(1-2)]aDGlcpN
+26404 aDGlcp(1-4)bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[P-4),Ac(1-2)]aDGlcpN
+26405 aDGlcp(1-4)[P-6)]bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[P-4),Ac(1-2)]aDGlcpN
+26428 bDGlcp(1-6)aDGalp(1-4)bDGlcp(1-4)bDGlcp(1-4)aDGalp(1-4)aDGalp
+26467 aDGalpNA(1-6)[bDGlcpNA(1-3)bDGlcp(1-4)]aDGalp(1-5)[aXKdop(2-4)]aXKdop(2-6)[P-4)]bDGlcp(1-6)[P-1)]aDGlcpN
+26475 Ac(1-2)bDQuip3N(1-2)aLRhap(1-4)aDGalpNA(1-6)[bDGlcpNA(1-3)bDGlcp(1-4)]aDGalp(1-5)aXKdop
+26476 aLAraf(1-3)aLAraf(1-5)[aLAraf(1-2)]aLAraf(1-5)aLAraf(1-5)[aLAraf(1-3),aLAraf(1-2)]aLAraf
+26479 Ac(1-2)[Me(0-4)]bDGlcpN(1-4)bDGlcpA(1-4)bDXylp(1-4)[Me(0-2)]aDGlcpA(1-2)[Me(0-2)aDRhap(1-4)]aDManp
+26502 Ac(1-4)aDManp(1-6)[Ac(1-4)aDManp(1-3),Ac(1-2)]aDManp(1-6)[Ac(1-3)]aDManp(1-6)[Ac(1-4)aDManp(1-3)[Ac(1-4)aDManp(1-6),Ac(1-2)]aDManp(1-6)[Ac(1-3)]aDManp(1-3),Ac(1-2),S-)]aDManp(1-1)Et
+26510 aDManp(1-6)[aDManp(1-3)]aDManp(1-6)aDManp(1-6)[aDManp(1-6)[aDManp(1-3)]aDManp(1-6)aDManp(1-3),S-)]aDManp(1-1)Et
+26511 aLRhap(1-3)[bLXylp(1-2)]aLRhap(1-3)aLRhap
+26517 bDGlcp(1-4)[bDGalp(1-3)]aDGalp(1-4)bDGlcp
+26521 Ac(1-2)[P-6)]aDGlcpN(1-3)bDQuip4N(1-6)aDGlcp(1-4)aDGalpA
+26550 bDGlcp(1-4)[bDGalp(1-4)bDGlcp(1-6)]aDGlcp(1-4)bDGalp
+26552 bDGalp(1-3)[Ac(1-2)bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp
+26553 bDGalp(1-3)[bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp
+26618 aDFucp(1-2)aDGalp(1-3)aDGalp(1-4)bDGalp(1-3)[aDFucp(1-2)aDGalp(1-3)aDGalp(1-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-6),Ac(1-2)]xDGalN-ol
+26636 aDFucp(1-4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]bDGlcpN(1-6)[Ac(1-2)aDGlcpN(1-4)bDGalp(1-3),Ac(1-2)]xDGalN-ol
+26654 aDFucp(1-2)bDGalp(1-3)[aDFucp(1-2),bDGalp(1-4)]bDGalp(1-3)[aDFucp(1-3)[Ac(1-2)]bDGlcpN(1-6),Ac(1-2)]xDGalN-ol
+26682 Ac(1-2)bDManp(1-4)bDManp(1-4)[bDManp(1-3)bDManp(1-3)bDManp(1-6)]bDManp(1-4)[Ac(1-2)]bDGlcp(1-4)bDManp(1-4)[aDAraf(1-3)bDGlcp(1-6)]bDGlcp
+26691 bDGlcp(1-4)[bDGlcpA(1-4)bDGlcpA(1-3),S-2)]aDGalpA(1-4)aDGalp
+26692 bDGlcp(1-4)[bDGlcpA(1-4)bDGlcpA(1-3),S-2)]aDGalpA(1-4)bDGalp
+26693 bDGlcp(1-4)[bDGlcpA(1-4)bDGlcpA(1-3)]aDGalpA(1-4)aDGalp
+26694 bDGlcp(1-4)[bDGlcpA(1-4)bDGlcpA(1-3)]aDGalpA(1-4)bDGalp
+26699 bDGlcp(1-4)[bDGlcp(1-6)aDGalp(1-4)[aDGlcp(1-2)]bDGlcpA(1-4)[aDGlcp(1-3)]bDGlcpA(1-3),S-)]aDGalpA(1-4)aDGalp
+26700 Ac(1-2)aDGlcpN(1-2)bDGalp(1-4)[aLRhap(1-3)]bDManp(1-3)bDManp(1-4)bDGlcpA
+26705 bDGalp(1-4)bDGalp(1-4)[Ac(1-2)bDGlcpN(1-2)]bDGlcp(1-3)[Ac(1-2)]bDGalpN
+26707 aDGalp(1-2)aLRhap(1-3)bDManp(1-4)bDManp(1-4)aDGalp(1-3)[aDGlcp(1-2)]bDGalp
+26708 bDManp(1-3)[aLFucp(1-2)]bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]bDGlcpN
+26709 aDGlcp(1-4)[bDGlcp(1-3)]bDGalp(1-3)aDGalp(1-2)[bDGlcp(1-3)]aDGlcp(1-3)bDGlcp
+26710 aDGlcpA(1-2)aDGalpA(1-2)bDManp(1-4)bDGalp(1-2)aDRhap
+26711 aDGlcpA(1-2)aDGalpA(1-2)bDManp(1-4)bDGalp(1-2)bDRhap
+26712 bDGlcp(1-4)[bDGlcp(1-2)[bDGalp(1-4)]bDGlcp(1-6)]aDGlcp(1-4)bDGalp
+26715 P-4)aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLFucpN(1-4)aDGlcp
+26716 Ac(1-2)bDGlcpN(1-3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-4)aDGalpA(1-3)aLFucp
+26718 Ac(1-2)bDGlcpN(1-3)aLRhap(1-4)aDGalpA(1-2)[bDGlcp(1-3)]aLRhap(1-3)aLRhap(1-2)aLRhap
+26719 Ac(1-2)bDGlcpN(1-4)[aLRhap(1-3),bDGlcpA(1-2)]aDManp(1-3)[Ac(1-6)]aDManp
+26720 aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-2)]bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-4)]bDQuip4N
+26722 Ac(1-2)aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-2)[P-4),P-6)]bDGalp(1-3)[Ac(1-2)]aDGalpN
+26723 Ac(1-3)bDQuipN(1-3)aLRhap(1-3)[aDGalp(1-6)]bDGalp(1-3)[Ac(1-2)]aDFucpN
+26724 bDGlcp(1-4)[aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-3)bLRhap
+26810 Ac(1-2)bDGlcpN(1-4)[Ac(1-3)[Ac(1-2)]bLRhapN(1-3)]aDGlcp(1-3)aL6dTalp(1-3)[Ac(1-2)]bDGlcpN
+26812 bDGalp(1-6)aDGalp(1-3)[aLRhap(1-2)]bLRhap(1-4)bDGlcp(1-6)aDGalf(1-6)bDGlcp
+26813 Ac(1-2)bDGalpN(1-3)[Ac(1-2)bDManpN(1-4)aDGalp(1-4)]bDGalp(1-3)[Ac(1-2)]bDGalpN
+26874 Ac(1-2)aDGalpN(1-4)bDGlcpN(1-7)[Ac(1-2)aDGlcpNA(1-4)]xXKdo-ol
+26878 aDGlcp(1-2)bDGlcp(1-4)bDGlcp(1-4)bDGlcp(1-3)[Ac(1-2)]aDGlcpNA(1-4)[aDGalpN(1-4)bDGlcpN(1-7)]xXKdo-ol 
+26887 bDGalp(3-1)aDManp
+26907 aDGlcp(1-4)bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[P-1),xXCho(1-4),Ac(1-2)]aDGlcpN
+26908 aDGlcp(1-4)bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[xXCho(1-4),Ac(1-2)]xDGlcN-ol
+26909 aDGlcp(1-4)[P-6)]bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-3)[xXCho(1-4),Ac(1-2)]aDGlcpN
+26918 bDXylp(1-4)bDXylp(1-4)[bDXylp(1-2)]aLGalp
+26919 bDXylp(1-4)bDXylp(1-4)[bDXylp(1-2)]bLGalp
+26920 aDGalp(1-3)bDGlcp(1-3)bDXylp(1-4)bDXylp(1-4)[bDXylp(1-2)]aLGalp
+26921 aDGalp(1-3)bDGlcp(1-3)bDXylp(1-4)bDXylp(1-4)[bDXylp(1-2)]bLGalp
+26922 bDRhap(1-3)[bLXylp(1-2),Ac(1-4)]aDRhapN
+26925 aDManp(1-2)bDGlcp(1-1)Me
+26926 bDGalp(1-2)bDGlcp(1-1)Me
+26928 bXKdop(2-3)aDRhap(1-3)[Ac(1-2)]bDGlcpN(1-3)aDRhap(1-3)[Ac(1-2)]bDGlcpN(1-4)aDRhap(1-3)[Ac(1-2)]bDGlcpN(1-4)bDGlcp(1-6)aDGlcp(1-4)aDManp
+26938 aDGalp(1-6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]bDGalpN
+26945 aLRhap(1-2)aLRhap(1-3)aLRhap(1-3)[Ac(1-2)bDGlcpN(1-2)]aLRhap
+26957 bDGlcpA(1-4)[aDGalp(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN
+26959 ?XKdn(2-4)[bDGlcp(1-8)]?XKdn(2-4)?XKdn
+26960 bDGlcp(1-4)[P-5)]xDRib-ol
+26961 bDGalp(1-3)[bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)bDGalp
+26963 bDGalp(1-3)[Ac(1-2)bDGalf(1-6)]aDGalp(1-3)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)bDGalp
+27042 aLFucp(1-3)[bDGalp(1-4)]bDGlcp
+27097 bDGlcp(1-4)[bDGlcp(1-6)aDGalp(1-4)[aDGlcp(1-2)]bDGlcpA(1-4)[aDGlcp(1-3)]bDGlcpA(1-3),S-2)]aDGalpA(1-4)aDGalp 
+27099 aLRhap(1-2)[aDGlcp(1-3)]aLRhap(1-3)aLRhap(1-3)[Ac(1-2)]bDGlcpN
+27248 aLRhap(1-3)[aDGlcp(1-4),Ac(1-2)]bDGlcpN
+27270 aLFucp(1-2)[bDGalp(1-4)]bDGlcp
+27271 aLFucp(1-2)[bDGalp(1-4)]aDGlcp
+27272 aLFucp(1-2)[bDGalp(1-3),Ac(1-2)]bDGlcpN
+3501 -6)[aDGlcp(1-2)aDGalf(1-2)]bDGalf(1-5)bDGalf(1-
+3758 aDXylp(1-6)[aDXylp(1-6)[aDXylp(1-6)bDGlcp(1-4)]bDGlcp(1-4)]bDGlcp(1-4)xDGlc-ol
+4717 -3)bLRhap(1-4)[aDGlcp(1-3)]aLRhap(1-3)aDFucp(1-
+4762 -3)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)aDGalpNA(1-2)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-2)aLRhap(1-
+4853 -3)[Ac(1-2)]bDGlcpN(1-2)[aDGlcp(1-3)]aLRhap(1-6)aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-
+4858 -3)[Ac(1-2)]aDManpN(1-3)bDGlcpA(1-3)[bDGalp(1-6)]bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+7424 aDGalp(1-3)[aLFucp(1-2)]aDGalp
+8939 -3)bDGalp(1-4)[aDGlcp(1-4)bDGlcpA(1-3)]aDGalp(1-4)bDGalp(1-
+9023 -3)[Ac(1-2)]bDGlcpN(1-3)[aDGalp(1-2)]bDGlcp(1-7)[Ac(1-5)]aXNeup(2-
+9078 -3)bDGalp(1-3)[aLRhap(1-4)]aDGalpA(1-2)aLRhap(1-2)aLRhap(1-3)aLRhap(1-
+9155 Ac(1-2)bDGlcpN(1-3)[Ac(1-2)bDGlcpN(1-3)aLRhap(1-3)aLRhap(1-2)]aLRhap(1-3)aLRhap(1-1)Pr
+9188 -3)[Ac(1-2)]bDGalpN(1-4)[Ac(1-2)bDGlcpN(1-3)]bDGlcpA(1-3)bDGalp(1-
+9213 -6)[Ac(1-3)bDFucpN(1-3),Ac(1-2)]aDGlcpN(1-4)bDGalpA(1-3)[Ac(1-2)]bDGlcpN(1-
+9490 -3)[Ac(1-2)]bDGlcpN(1-4)[Ac(1-2)[Ac(1-3)]bLRhapN(1-3),Ac(1-2)]bDGlcpN(1-4)bDGlcpA(1-
+9539 -3)[aDGalp(1-6)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
+9917 -4)bDGlcp(1-4)[bDGlcp(1-6),aLRhap(1-3)]aDGlcp(1-3)bLRhap(1-
+9919 -3)bDGlcp(1-4)[bDGalf(1-3)]bDGlcp(1-6)aDGlcp(1-6)aDGalp(1-6)aDGlcp(1-
+9948 -4)bDGlcpA(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]bDGalp(1-4)bDGlcp(1-
+9949 -4)bDGlcpA(1-6)aDGlcp(1-4)[bDGlcpN(1-3)]bDGalp(1-4)bDGlcp(1-
+12634 
+12870
+26879
+26910
+26431 FAILS P-3)aDHepp(1-5)[P-4)]aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcp

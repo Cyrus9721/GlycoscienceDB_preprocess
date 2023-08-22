@@ -1,0 +1,13 @@
+P-6)aDGlcp(1-1)aDGlcp
+P-2)aDGlcp(1-1)aDGlcp
+P-4)aDGlcp(1-1)aDGlcp
+P-3)aDGlcp(1-1)aDGlcp
+aXKdop(2-8)aXKdop(2-4)aXKdop(2-6)[P-4)]bDGlcpN(1-6)[P-1)]aDGlcpN
+aXKdop(2-8)aXKdop(2-4)aXKdop(2-6)bDGlcpN(1-6)[P-1)]aDGlcpN
+S-4)[S-2)]aLFucp(1-4)[S-2)]aLFucp
+S-2)[S-3),S-4)]aLFucp(1-2)[S-3),S-4)]aLFucp(1-1)Pr
+-6)aDGlcp(1-4)bDGlcpA(1-4)bDGlcpA(1-4)[Ac(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+bDGlcpA(1-4)bDGlcpA(1-3)[S-)]aDGalpA(1-4)aDGalp
+bDGlcpA(1-4)bDGlcpA(1-3)[S-)]aDGalpA(1-4)bDGalp
+bDGlcp(1-4)bDGlcpA(1-3)[S-2)]aDGalpA(1-4)bDGalp
+DOESN'T WORK -4)[Ac(1-2)]aL6dGlcpN(1-3)[Ac(1-2)bD6dGlcpN(1-3)[Ac(1-4)]aDFucpN(1-

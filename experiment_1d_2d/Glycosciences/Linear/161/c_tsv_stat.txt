@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Idop	48%	103.7	72.9	?	69.6	67.1	62.2

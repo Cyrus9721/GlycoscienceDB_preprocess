@@ -1,0 +1,387 @@
+Nonlinear glycan preprocessing docs
+Based on: FullyAnnotatedPDB_V2
+
+1, Missing .pdb in the folder: FullyAnnotatedPDB_V2
+DB9155.pdb were found in FullyAnnotatedPDB. not sure which version should be used
+1.1 DB9155.csv were corrupted
+
+
+2, Missing monosaccharide, these need to be careful for non-monosaccharide componenets
+DB9155.pdb.csv
+DB26479.pdb.csv
+DB22507.pdb.csv
+DB17331.pdb.csv
+DB26960.pdb.csv
+DB26908.pdb.csv
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc.pdb.csv
+DB26910.pdb.csv
+
+By SWEECON file:
+
+DB9155 contain PROPYL, which I think is the amino acid but not monosaccharide <-
+DB26479 0 residual can be ignored
+DB22507 0 residual can be ignored
+DB17331 last residual is corrupted &LT;C9N1O2H10&GT, Tyr refer to amino monosaccharide <-
+DB26960 the last residual do not have monosaccharide should be ignored
+DB26908 need shift modification <-
+
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc
+
+SWECON correction:
+SWECON 1   1  7  A-D-GALPNAC-(1-1)-&LT;C3N1O1H6&GT;
+SWECON 2   2  1  B-D-GALP-(1-3)-A-D-GALPNAC
+SWECON 3   3  2  A-D-NEUP5AC-(2-3)-B-D-GALP
+SWECON 4   4  1  B-D-GLCPNAC-(1-6)-A-D-GALPNAC
+SWECON 5   5  4  B-D-GALP-(1-4)-B-D-GLCPNAC
+SWECON 6   6  5  A-D-NEUP5AC-(2-3)-B-D-GALP
+
+1 -> 1
+2 -> 4
+3 -> 5
+4 -> 6
+5 -> 2
+6 -> 3
+
+DB26910
+? MAN and M6P same monosaccharide?
+
+1 -> 1
+2 -> 2
+3 -> 4
+4 -> 5
+
+
+3, Some glycans not appeared in Ryan's annotations:
+
+DB27271 <-
+SWECON 1   2  1  A-L-FUCP-(1-2)-A-D-GLCP
+SWECON 2   3  1  B-D-GALP-(1-4)-A-D-GLCP
+Looks good,
+
+
+DB26306 <-
+SWECON 1   5  1  B-L-XYLP-(1-4)-A-L-RHAP
+SWECON 2   2  1  A-L-RHAP-(1-3)-A-L-RHAP
+SWECON 3   3  2  B-L-XYLP-(1-2)-A-L-RHAP
+SWECON 4   4  2  A-L-RHAP-(1-3)-A-L-RHAP
+Need shift the residue, 1 -> 5
+XYLP is D-Xylose and should be considered as monosaccharide
+
+
+Repeat-4)-a-D-Manp-(1-4)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-2)-a-D-Galp-(1-3)-a-L-Rhap2Ac-(1-
+* This one missing .pdb file
+
+
+DB26618
+The pdb files in it is completely corrupted
+
+
+DB22551 <-
+SWECON 1   2  1  B-D-GALP-(1-4)-A-D-GLCP
+SWECON 2   3  2  B-D-GLCPNAC6SO3-(1-3)-B-D-GALP
+SWECON 3   4  3  A-L-FUCP-(1-3)-B-D-GLCPNAC6SO3
+SWECON 4   5  3  B-D-GALP-(1-4)-B-D-GLCPNAC6SO3
+SWECON 5   6  5  B-D-GLCPNAC-(1-3)-B-D-GALP
+SWECON 6   7  6  B-D-GALP-(1-3)-B-D-GLCPNAC
+SWECON 7   8  7  A-L-FUCP-(1-2)-B-D-GALP
+Branched at GlcpNAc
+
+
+DB12634
+The pdb file is completely corrupted, all residual are 0
+
+DB27272 <-
+SWECON 1   2  1  &LT;C8O5H14&GT;-(3-2)-B-D-GLCPN
+SWECON 2   3  1  B-D-GALP-(1-3)-B-D-GLCPN
+Need correction
+1 - 1
+2 - 3
+Ryan's comment: I don't think DB27272 needs correction, the PDB matches the shift order except they wrote CSC for Fucp for some reason.
+
+
+
+Repeat-4)-b-D-GlcpA-(1-6)-a-D-Glcp-(1-4)-b-D-Galp-(1-4)-b-D-Glcp-(1-
+Missing pdb file, should skip
+
+
+DB26654
+The pdb file is completely corrupted, all residual are 0
+
+
+DB12744 <-
+SWECON 1   2  1  B-D-GALF-(1-6)-A-D-GLCP
+SWECON 2   3  2  A-D-GLCPNAC-(1-2)-B-D-GALF
+SWECON 3   4  3  A-L-FUCPNAC-(1-3)-A-D-GLCPNAC
+SWECON 4   5  3  A-D-GLCP-(1-6)-A-D-GLCPNAC
+Need correction
+1 - 1
+2 - 2
+3 - 3
+4 - 5
+5 - 4
+
+
+DB26994
+Missing .pdb file
+
+
+DB26553 <-
+SWECON 1   2  1  A-L-RHAP-(1-2)-A-D-GALP
+SWECON 2   3  2  A-L-RHAP-(1-2)-A-L-RHAP
+SWECON 3   4  3  A-D-GALP-(1-3)-A-L-RHAP
+SWECON 4   5  4  B-D-GALP-(1-3)-A-D-GALP
+SWECON 5   6  4  B-D-GALF-(1-6)-A-D-GALP
+Branched at 4: GALP, looks good
+
+
+Galb3(Fuca4)GlcNAcb <-
+SWECON 1   2  1  B-D-GALP-(1-3)-B-D-GLCPNAC
+SWECON 2   3  1  A-L-FUCP-(1-4)-B-D-GLCPNAC
+Branched at GlcpNAc, looks good
+
+
+DB12745 <-
+SWECON 1   2  1  A-L-RHAP-(1-6)-A-D-GLCP
+SWECON 2   3  2  B-D-GLCPNAC-(1-2)-A-L-RHAP
+SWECON 3   4  3  A-L-FUCPNAC-(1-3)-B-D-GLCPNAC
+SWECON 4   5  3  A-D-GLCP-(1-6)-B-D-GLCPNAC
+Branched at GlcpNAc
+1 - 1
+2 - 2
+3 - 3
+4 - 5
+5 - 4
+
+
+DB3501 <-
+looks good! Linear glycans.
+
+
+DB26682 <-
+SWECON 1   2  1  B-D-MANP-(1-4)-B-D-GLCP
+SWECON 2   3  2  B-D-GLCP2AC-(1-4)-B-D-MANP
+SWECON 3   4  3  B-D-MANP-(1-4)-B-D-GLCP2AC
+SWECON 4   5  4  B-D-MANP-(1-4)-B-D-MANP
+SWECON 5   6  5  B-D-MANP2AC-(1-4)-B-D-MANP
+SWECON 6   7  4  B-D-MANP-(1-6)-B-D-MANP
+SWECON 7   8  7  B-D-MANP-(1-3)-B-D-MANP
+SWECON 8   9  8  B-D-MANP-(1-3)-B-D-MANP
+SWECON 9  10  1  B-D-GLCP-(1-6)-B-D-GLCP
+SWECON10  11 10  A-D-ARAF-(1-3)-B-D-GLCP
+The csv file missing residual number: 1, 2, 5, 9, 10, 11
+(csv - pdb)
+1 - 3
+2 - 4
+3 - 6
+4 - 7
+5 - 8
+
+
+DB26810 <-
+SWECON 1   2  1  A-L-6-DEOXY-TALP-(1-3)-B-D-GLCPNAC
+SWECON 2   3  2  A-D-GLCP-(1-3)-A-L-6-DEOXY-TALP
+SWECON 3   4  3  B-L-RHAPNAC3NAC-(1-3)-A-D-GLCP
+SWECON 4   5  3  B-D-GLCPNAC-(1-4)-A-D-GLCP
+Looks good, but deoxy-Talp rarely appears, yet still should considered as a monosaccharide
+Ryan's comment: Yep we do need a A-L-6-DEOXY-TALP but it is a rare residue
+
+
+DB26991
+Missing pdb file, should be ignored
+
+
+Gala1-3(Fuca1-2)Galb <-
+SWECON 1   2  1  A-L-FUCP-(1-2)-B-D-GALP
+SWECON 2   3  1  A-D-GALP-(1-3)-B-D-GALP
+looks good, Branched at GALP
+
+
+DB26636
+corrupted pdb files, all residual number are 0
+
+
+DB13039
+corrupted pdb files, all residual number are 0
+
+
+DB3758
+SWECON 1   1  7  B-D-GLCP-(1-1)-&LT;C6O5H13&GT;
+SWECON 2   2  1  B-D-GLCP-(1-4)-B-D-GLCP
+SWECON 3   3  2  B-D-GLCP-(1-4)-B-D-GLCP
+SWECON 4   4  3  A-D-XYLP-(1-6)-B-D-GLCP
+SWECON 5   5  2  A-D-XYLP-(1-6)-B-D-GLCP
+SWECON 6   6  1  A-D-XYLP-(1-6)-B-D-GLCP
+This glycan contain 2 branches rooted at GLCP-1 and GLCP-2
+
+Ryan's comment: DB3758 is complicated. 7 -> 1, 1->2, 2->4, 4->3, 5->5, 3->6, 6->7 in the PDB I think? This will at least match the residues correctly.
+Re: By connections, I think it should be
+(Res -PDB)
+1 - 7 /999
+2 - 1
+3 - 6
+4 - 2
+5 - 5
+6 - 3
+7 - 4
+
+DB26992
+This glycan missing all .pdb glycan
+
+
+DB26874
+This glycan missing all residual components in .pdb file
+
+
+DB14011
+This glycan missing all residual componenets in .pdb file
+
+
+DB4717 <-
+SWECON 1   2  1  A-L-RHAP-(1-3)-A-D-FUCP
+SWECON 2   3  2  A-D-GLCP-(1-3)-A-L-RHAP
+SWECON 3   4  2  B-L-RHAP-(1-4)-A-L-RHAP
+Branched at RHAP
+1 - 1
+2 - 2
+3 - 4
+4 - 3
+
+
+DB26993
+Missing .pdb file
+
+
+DB26502 <-
+SWECON 1   1 10  A-D-MANP1SH2AC-(1-1)-ETHYL
+SWECON 2   2  1  A-D-MANP3AC-(1-3)-A-D-MANP1SH2AC
+SWECON 3   3  2  A-D-MANP2AC-(1-6)-A-D-MANP3AC
+SWECON 4   4  3  A-D-MANP4AC-(1-3)-A-D-MANP2AC
+SWECON 5   5  3  A-D-MANP4AC-(1-6)-A-D-MANP2AC
+SWECON 6   6  1  A-D-MANP3AC-(1-6)-A-D-MANP1SH2AC
+SWECON 7   7  6  A-D-MANP2AC-(1-6)-A-D-MANP3AC
+SWECON 8   8  7  A-D-MANP4AC-(1-3)-A-D-MANP2AC
+SWECON 9   9  7  A-D-MANP4AC-(1-6)-A-D-MANP2AC
+This glycan contain 3 branches, Branched at MANP1SH2AC, MANP2AC, MANP2AC
+since, A-D-MANP3AC-(1-3)-A-D-MANP1SH2AC, therefore the 2nd component in csv corresponds to the 2nd in pdb
+since, A-D-MANP4AC-(1-3)-A-D-MANP2AC, therefore the 4th component in csv corresponds to the 4th in pdb
+since, A-D-MANP4AC-(1-3)-A-D-MANP2AC, therefore the 8th component in csv corresponds to the 8th in pdb
+1 - 1... 9-9
+
+
+DB27042 <-
+Branched at GLCP, looks good
+
+
+DB27270 <-
+looks quite similar as DB27042
+
+
+DB4853 <-
+SWECON 1   2  1  A-D-GLCP-(1-3)-A-L-FUCPNAC
+SWECON 2   3  2  A-L-RHAP-(1-6)-A-D-GLCP
+SWECON 3   4  3  B-D-GLCPNAC-(1-2)-A-L-RHAP
+SWECON 4   5  3  A-D-GLCP-(1-3)-A-L-RHAP
+This looks wierd, RHAP seems to be the precursor, PLEASE check this,
+(res - pdb)
+1 - 3
+2 - 5
+3 - 4
+The rest are inconsistent between .pdb and .csv file. if the .csv were generate in a incorrect way and we use the SWECON, we should have:
+4 - 2
+5 - 1
+Ryan's comment:
+For 4853, the PDB order looks right while the shift order looks totally random. To make the shift correct, I think it is (top-to-bottom shift file order, with the PDB matching):
+
+3 a-L-Rhap
+5 a-D-Glcp
+4 b-D-GlcpNAc
+1 a-L-FucpNAc
+2 a-D-Glcp
+
+
+
+DB27097 <-
+SWECON 1   2  1  A-D-GALPA2SO3-(1-4)-A-D-GALP
+SWECON 2   3  2  B-D-GLCPA-(1-3)-A-D-GALPA2SO3
+SWECON 3   4  3  A-D-GLCP-(1-3)-B-D-GLCPA
+SWECON 4   5  3  B-D-GLCPA-(1-4)-B-D-GLCPA
+SWECON 5   6  5  A-D-GLCP-(1-2)-B-D-GLCPA
+SWECON 6   7  5  A-D-GALP-(1-4)-B-D-GLCPA
+SWECON 7   8  7  B-D-GLCP-(1-6)-A-D-GALP
+SWECON 8   9  2  B-D-GLCP-(1-4)-A-D-GALPA2SO3
+This looks really good, 1-1, 2-2... 9-9
+
+DB12870 <-
+This looks really complicated,
+SWECON 1   1  9  B-D-GLCPNAC-(1-1)-&LT;C8N1O5H16&GT;
+SWECON 2   2  1  A-D-KDOP-(2-6)-B-D-GLCPNAC
+SWECON 3   3  2  A-D-MANP-(1-5)-A-D-KDOP
+SWECON 4   4  3  A-D-MANP-(1-3)-A-D-MANP
+SWECON 5   5  4  A-D-MANP-(1-2)-A-D-MANP
+SWECON 6   6  5  B-D-GALP-(1-3)-A-D-MANP
+SWECON 7   0  5  -(1-7)-A-D-MANP
+SWECON 8   7  3  B-D-GLCP-(1-4)-A-D-MANP
+SWECON 9   8  3  A-D-GLCP-(1-6)-A-D-MANP
+The correction should be:
+(res - pdb)
+1 - 999
+2 - 1
+3 - 2
+4 - 3
+5 - 8
+6 - 7
+7 - 4
+8 - 5
+9 - 999
+10 - 6
+After all the corrections we need to apply the shift.
+
+
+DB26963 <-
+SWECON 1   2  1  A-D-GALP-(1-3)-B-D-GALP
+SWECON 2   3  2  A-L-RHAP-(1-2)-A-D-GALP
+SWECON 3   4  3  A-L-RHAP-(1-2)-A-L-RHAP
+SWECON 4   5  4  A-D-GALP-(1-3)-A-L-RHAP
+SWECON 5   6  5  B-D-GALP-(1-3)-A-D-GALP
+SWECON 6   7  5  B-D-GALF2AC-(1-6)-A-D-GALP
+This looks good, 1-1, ... 7-7
+
+
+
+LFucpa1-3[DGalpb1-4]DGlcpNAcb1-3DGalpb1-4DGlc <-
+SWECON 1   2  1  B-D-GALP-(1-4)-A-D-GLCP
+SWECON 2   3  2  B-D-GLCPNAC-(1-3)-B-D-GALP
+SWECON 3   4  3  A-L-FUCP-(1-3)-B-D-GLCPNAC
+SWECON 4   5  3  B-D-GALP-(1-4)-B-D-GLCPNAC
+1 - 1
+2 - 2
+3 - 3
+4 - 5
+5 - 4
+Ryan's comment:
+For LFucpa1-3[DGalpb1-4]DGlcpNAcb1-3DGalpb1-4DGlc, the switch of 4 and 5 is right, but just ignore residue 1 in the PDB file and shift actually, this is a "mixed" sample with a and b states. Just in this file, H1A for example, means "H1 for a-D-Glcp", H1B means "H1 for b-D-Glcp". So you make the A and B version of this glycan and make 2 sets of files. But this is a distinctively different residue nomenclature, it's why they wrote D-Glc instead of a-D-Glc or b-D-Glc, because it symbolizes both.
+
+
+
+DB27099 <-
+SWECON 1   2  1  A-L-RHAP-(1-3)-B-D-GLCPNAC
+SWECON 2   3  2  A-L-RHAP-(1-3)-A-L-RHAP
+SWECON 3   4  3  A-L-RHAP-(1-2)-A-L-RHAP
+SWECON 4   5  3  A-D-GLCP-(1-3)-A-L-RHAP
+This looks good
+
+
+4, Summary of Ryan's email with annotations
+
+4.1 corrupted no used
+DB26878
+DB26874
+
+4.2 excluded PO3 from the PDB
+DB22505
+DB22506
+DB26370
+DB26378
+...
+
+See Ryan email.txt

@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-L-Rhap	82%	94.8	71.6	71.1	73.1	73.2	17.7

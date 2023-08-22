@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	b-D-Idop	61%	4.97	3.53	3.73	3.81	4	3.75-3.78

@@ -1,0 +1,3 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Fruf	42%	64.7	102.8	77.5	76.9	81.9	65.1
+6	b-D-Fruf	92%	60.4	104.7	77.7	75.9	82.0	63.7

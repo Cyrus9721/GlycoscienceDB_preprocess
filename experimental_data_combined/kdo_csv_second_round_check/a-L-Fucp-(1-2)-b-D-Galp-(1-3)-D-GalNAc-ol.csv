@@ -1,0 +1,35 @@
+Residual,Connection,Atom,Shift,Residual Num
+D-GalNAc-ol, ,H1,3.73,999
+D-GalNAc-ol, ,H12,3.75,999
+D-GalNAc-ol, ,H2,4.399,999
+D-GalNAc-ol, ,H3,4.091,999
+D-GalNAc-ol, ,H4,3.522,999
+D-GalNAc-ol, ,H5,4.163,999
+D-GalNAc-ol, ,H61,3.68,999
+D-GalNAc-ol, ,H62,3.63,999
+D-GalNAc-ol, ,NAC,2.046,999
+b-D-Galp,3,H1,4.584,1
+b-D-Galp,3,H2,3.688,1
+b-D-Galp,3,H3,3.88,1
+b-D-Galp,3,H4,3.926,1
+a-L-Fucp," 2,3",H1,5.256,2
+a-L-Fucp," 2,3",H5,4.279,2
+a-L-Fucp," 2,3",CH3,1.243,2
+D-GalNAc-ol, ,C1,61.1,999
+D-GalNAc-ol, ,C2,52.2,999
+D-GalNAc-ol, ,C3,75.3,999
+D-GalNAc-ol, ,C4,70.1,999
+D-GalNAc-ol, ,C5,69.6,999
+D-GalNAc-ol, ,C6,63.4,999
+b-D-Galp,3,C1,102.9,1
+b-D-Galp,3,C2,79.9,1
+b-D-Galp,3,C3,72.5,1
+b-D-Galp,3,C4,69.3,1
+b-D-Galp,3,C5,75.6,1
+b-D-Galp,3,C6,61.6,1
+a-L-Fucp," 2,3",C1,101.9,2
+a-L-Fucp," 2,3",C2,70.1,2
+a-L-Fucp," 2,3",C3,70.3,2
+a-L-Fucp," 2,3",C4,72.9,2
+a-L-Fucp," 2,3",C5,69.1,2
+a-L-Fucp," 2,3",C6,16.2,2

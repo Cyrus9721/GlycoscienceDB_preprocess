@@ -1,0 +1,189 @@
+DB22505 and DB22506 excluded PO3
+
+DB22507 So the first 3 PDB residues match the first 3 shift residues in this molecule.
+
+a-D-Galp was missing the PDB, added it
+
+DB26370 is another phosphorous one where the PO3 groups in the PDB can
+be skipped, and then the residue order (but not absolute number)
+matches between PDB and shift.
+
+DB26378  is another phosphorous one where the PO3 groups in the PDB can
+
+DB26379 is another phosphorous one where the PO3 groups in the PDB can
+
+DB26380 is another phosphorous one where the PO3 groups in the PDB
+
+DB26378 the shift order matches the residue number order in the PDB if
+PO3 is removed
+
+DB26403 the shift order matches the residue number order in the PDB if
+PO3 is removed
+
+DB26404 the shift order matches the residue number order in the PDB if
+PO3 is removed
+
+DB26405 the shift order matches the residue number order in the PDB if
+PO3 is removed---But one note the PO3 atoms needs to be in the graph
+
+DB26431  the shift order matches the residue number order in the PDB
+if PO3 is removed, but Hepp is another name for MAN in bacteria
+(Man-hepp).
+
+DB26467  the shift order matches the residue number order in the PDB
+if PO3 is removed,
+
+DB26476 the shift order matches the residue number order in the PDB,
+but the second last residue is missing all but 1 and 5 carbons /
+hydrogens.
+
+DB26479  the shift order matches the residue number order in the PDB,
+but ME has to be removed from the shifts as it is a functional group
+not carbohydrate residue.
+
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc can be corrected
+by SWECOM but it's more complicated than others.
+
+DB26511  the shift order should match the residue number order in the
+PDB if it follows the template of the molecules uploaded around the
+same time, some ambiguity but consistent overall
+
+DB26521 is another phosphorous one where the PO3 group in the PDB can
+be skipped (last residue), and then the residue order (but not absolute number)
+matches between PDB and shift. The quip4n is equivalent to
+deoxy-Glcp4n in nomenclature
+
+DB4762 can be used, but PDB residue 5 -> csv shift residue 6, and 6 ->
+5 respectively.
+
+DB4858 can be used, residue 5 in the PDB is residue 3 in the shift
+file. Residue 3 and 4 in the PDB are residues 4 and 5 in the shift
+file. 1 and 2 match.
+
+DB8939 can be used, residue 5 in the PDB is residue 3 in the shift
+
+DB9023 can be used, but residue 3 ->4 and 4-> 3 between the PDB and shift csv..
+
+DB9078 can be used but residue 5 ->6 and 6-> 5 between the PDB and
+shift csv. Other residues have the csv order match the PDB order
+
+DB9188 can be used but residue 3->4and 4-> 3between the PDB and
+
+DB9490 can be used but residue 3 ->4 and 4-> 3 between the PDB and
+
+DB9507 can be used, residue 5 in the PDB is residue 3 in the shift
+
+DB9697can be used but residue 3 ->4 and 4-> 3 between the PDB and
+
+DB9708 can be used but residue 4 ->5 and 5-> 4 between the PDB and
+
+DB9917 can be used but 5, 4, 3 in the PDB map to 3, 4, 5 in the csv
+(so 1,2,4 match but 3 and 5 flipped).
+
+DB9919 can be used but residue 5 ->6 and 6-> 5 between the PDB and
+
+DB9948 can be used, residue 5 in the shift is residue 3 in the pdb
+file. Residue 3 and 4 in the shift are residues 4 and 5 in the pdb. 1
+and 2 match.
+
+DB9949 can be used, residue 5 in the shift is residue 3 in the pdb
+
+DB26715 pdb order matches shift order, but last PDB residue is PO3
+(shouldn't affect shifts).
+
+DB26722 pdb order matches shift order, there are two PO3 groups but
+they are the last PDB residues.
+
+DB26881 pdb order matches shift order, but one PO3 group needs to be
+ignored in the residue order counting in the PDB (not in shift)
+
+DB26907 the relative PDB and shift order matches. But residue 2 and 7
+in the PDB should be skipped in matching (CSC and PO3), and the first
+choline residue in the shifts should be skipped since these aren't
+carbohydrates.
+
+In DB26908, res 5 is actually res 1 in the PDB, and all other res need
++1 added to them (e.g. 1 -> 2 ). Then Choline needs to be ignored in
+the shift, the one at the top of the shift, it's not a residue. The
+high C numbers in the PDB correspond to Choline like C8, C9, C10, C11
+etc. Just fit the C's in the shift list.
+
+DB26909 relative residue order matches PDB and csv, but residue 2 and
+7 need to be ignored in the PDB for shift matching since they are PO3
+and CSC.
+
+DB26910 relative residue order matches PDB and csv, but residue 3 and
+6, and 7 need to be ignored in the PDB for shift matching since they are PO3
+
+DB26960 there are two residues, and the PDB order is flipped. 1->2,
+2->1 needs to be done in the PDB.
+
+I just replaced DB8939.csv, it had a formatting issue
+
+DB9155.pdb was missing and added, DB9155.csv already there
+
+b-D-Manp has two different C6 shifts actually, C6 should possibly be
+omitted for this glycan:
+
+DB26510 was missing, added it (meaning the PDB of 26510 was missing in last)
+
+a-L-Rhap-(1-4)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(3-1)-a-L-Rhap
+has an issue, the PDB and csv is offset by 1 in order.
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp(1-4)-b-D-Galp-(1-2)-b-D-Rhap.pdb
+had an issue, replaced it
+
+For a-D-Galp-(1-2)-a-L-Rhap-(1-3)-b-D-Manp-(1-4)-b-D-Manp-(1-4)-a-D-Galp-(1-3)-b-D-Galp-(2-1)-a-D-Glcp
+, the pdb only has an error in it that needs to be corrected. Residue
+1 and 2 are flipped and need to be swapped back. GLC should be 1.
+
+b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-a-L-Galp-(2-1)-b-D-Xylp the pdb only has
+an error in it that needs to be corrected. Residue 1 and 2 are flipped
+and need to be swapped back. GAL should be 1 not 2..
+
+b-D-Fruf-(2-1)-b-D-Fruf-(2-1)-b-D-Fruf-(2-1)-b-D-Fruf-(2-1)-a-D-Glcp
+PDB is missing too much and 1st and 2nd residue is swapped.
+
+Corrected a-D-Manp-(1-2)-b-D-manp-(1-3)-a-D-GlcpNAc-(1-6)-a-D-Manp.pdb,
+H1o should be H62. Redownload the online data
+
+In b-D-Galf-(1-3)-b-D-GalpNAc-(1-3)-b-D-Galp-(4-1)-a-D-Glcp-(6-1)-b-D-Glcp,
+the shift order matches the name. The PDB top to bottom order matches
+the shift, but the residue number is all jumbled. So just take the
+residue order in the PDB relatively, rather than the number column.
+
+DB26874 is too corrupted, unusable for atom-level prediction.
+
+DB26878  is too corrupted, unusable for atom-level prediction.
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4
+the last residue in the PDB is PO3 and thus has no shifts, just note
+that
+
+b-D-Galp-(3-1)-a-D-Manp has the order flipped between PDB and csv,
+(e.g. Manp is 2 in PDB and 1 in shift).
+
+a-L-Rhap-(1-2)-b-D-Glcp1OMe has a 3rd residue in the PDB which is
+basically the Me group, that corresponds to the "B-D-GLCP1OME  OMe
+58.30 "   row in the C list in the shifts.
+
+a-L-Rhap-(1-3)-b-D-Galp-(1-4)-b-D-GalpNAc-(3-1)-b-D-Galp residue 1 and
+2 in the PDB are reversed, need to be flipped to match the csv.
+
+a-D-Glcp-(1-3)-a-L-Galp and a-D-Glcp-(1-3)-b-L-Galp might have the
+Glcp residues mislabeled, possibly should be GlcpA, just a note to
+check later. When the residues end with A that makes it an acid and
+those are more likely high C6 ppm
+
+a-D-Apif is unusable, both the PDB and csv are super weird
+
+
+
+
+
+
+
+
+
+
+

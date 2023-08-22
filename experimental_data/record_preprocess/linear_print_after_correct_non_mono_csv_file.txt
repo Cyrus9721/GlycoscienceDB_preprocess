@@ -1,0 +1,1451 @@
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0         allyl             H11    4.28           999
+1         allyl             H12    4.13           999
+2         allyl              H2    5.92           999
+3         allyl             H31    5.25           999
+4         allyl             H32    5.31           999
+5   b-D-GlcpNAc          1   H1    4.57             1
+6   b-D-GlcpNAc          1   H2    3.70             1
+7   b-D-GlcpNAc          1   H3    3.52             1
+8   b-D-GlcpNAc          1   H4    3.37             1
+9   b-D-GlcpNAc          1   H5    3.56             1
+10  b-D-GlcpNAc          1  H61    3.48             1
+11  b-D-GlcpNAc          1  H62    3.60             1
+12  b-D-GlcpNAc          1  NAC    2.02             1
+13     a-D-Kdop        6,1  H31    1.88             2
+14     a-D-Kdop        6,1  H32    2.02             2
+15     a-D-Kdop        6,1   H4    4.04             2
+16     a-D-Kdop        6,1   H5    4.11             2
+17     a-D-Kdop        6,1   H6    3.69             2
+18     a-D-Kdop        6,1   H7    3.92             2
+19     a-D-Kdop        6,1  H81    3.61             2
+20     a-D-Kdop        6,1  H82    3.90             2
+21     a-D-Kdop      4,6,1  H31    1.79             3
+22     a-D-Kdop      4,6,1  H32    2.10             3
+23     a-D-Kdop      4,6,1   H4    4.06             3
+24     a-D-Kdop      4,6,1   H5    4.07             3
+25     a-D-Kdop      4,6,1   H6    3.78             3
+26     a-D-Kdop      4,6,1   H7    4.16             3
+27     a-D-Kdop      4,6,1  H81    3.58             3
+28     a-D-Kdop      4,6,1  H82    3.58             3
+29     a-D-Kdop    8,4,6,1  H31    1.78             4
+30     a-D-Kdop    8,4,6,1  H32    2.02             4
+31     a-D-Kdop    8,4,6,1   H4    4.08             4
+32     a-D-Kdop    8,4,6,1   H5    4.05             4
+33     a-D-Kdop    8,4,6,1   H6    3.67             4
+34     a-D-Kdop    8,4,6,1   H7    3.92             4
+35     a-D-Kdop    8,4,6,1  H81    3.71             4
+36     a-D-Kdop    8,4,6,1  H82    3.91             4
+37        allyl              C1   71.40           999
+38        allyl              C2  134.30           999
+39        allyl              C3  118.60           999
+40  b-D-GlcpNAc          1   C1  101.00             1
+41  b-D-GlcpNAc          1   C2   56.40             1
+42  b-D-GlcpNAc          1   C3   74.80             1
+43  b-D-GlcpNAc          1   C4   71.70             1
+44  b-D-GlcpNAc          1   C5   75.10             1
+45  b-D-GlcpNAc          1   C6   63.20             1
+46  b-D-GlcpNAc          1   CO  175.40             1
+47  b-D-GlcpNAc          1  CH3   23.00             1
+48     a-D-Kdop        6,1   C1  175.40             2
+49     a-D-Kdop        6,1   C2  100.70             2
+50     a-D-Kdop        6,1   C3   34.30             2
+51     a-D-Kdop        6,1   C4   70.50             2
+52     a-D-Kdop        6,1   C5   65.60             2
+53     a-D-Kdop        6,1   C6   72.10             2
+54     a-D-Kdop        6,1   C7   70.40             2
+55     a-D-Kdop        6,1   C8   64.10             2
+56     a-D-Kdop      4,6,1   C1  175.90             3
+57     a-D-Kdop      4,6,1   C2  100.60             3
+58     a-D-Kdop      4,6,1   C3   35.40             3
+59     a-D-Kdop      4,6,1   C4   66.70             3
+60     a-D-Kdop      4,6,1   C5   68.00             3
+61     a-D-Kdop      4,6,1   C6   72.60             3
+62     a-D-Kdop      4,6,1   C7   71.30             3
+63     a-D-Kdop      4,6,1   C8   64.00             3
+64     a-D-Kdop    8,4,6,1   C1  175.70             4
+65     a-D-Kdop    8,4,6,1   C2  101.40             4
+66     a-D-Kdop    8,4,6,1   C3   35.00             4
+67     a-D-Kdop    8,4,6,1   C4   66.80             4
+68     a-D-Kdop    8,4,6,1   C5   67.20             4
+69     a-D-Kdop    8,4,6,1   C6   72.10             4
+70     a-D-Kdop    8,4,6,1   C7   70.20             4
+71     a-D-Kdop    8,4,6,1   C8   63.90             4
+
+a-D-Xylp-(1-6)-b-D-Glcp-(1-4)-D-Glc-ol.csv
+    Residual Connection Atom    Shift  Residual Num
+0   D-Glc-ol             H12    3.676           999
+1   D-Glc-ol             H11    3.742           999
+2   D-Glc-ol              H2    3.922           999
+3   D-Glc-ol              H3    3.886           999
+4   D-Glc-ol              H4    3.898           999
+5   D-Glc-ol              H5    3.945           999
+6   D-Glc-ol             H61    3.744           999
+7   D-Glc-ol             H62    3.865           999
+8   b-D-Glcp          4   H1    4.614             1
+9   b-D-Glcp          4   H2    3.349             1
+10  b-D-Glcp          4   H3    3.508             1
+11  b-D-Glcp          4   H4    3.558             1
+12  b-D-Glcp          4   H5    3.644             1
+13  b-D-Glcp          4  H61    3.744             1
+14  b-D-Glcp          4  H62    3.962             1
+15  a-D-Xylp        6,4   H1    4.934             2
+16  a-D-Xylp        6,4   H2    3.541             2
+17  a-D-Xylp        6,4   H3    3.677             2
+18  a-D-Xylp        6,4   H4    3.623             2
+19  a-D-Xylp        6,4  H51    3.544             2
+20  a-D-Xylp        6,4  H52    3.711             2
+21  D-Glc-ol              C1   63.500           999
+22  D-Glc-ol              C2   73.400           999
+23  D-Glc-ol              C3   70.500           999
+24  D-Glc-ol              C4   81.000           999
+25  D-Glc-ol              C5   72.400           999
+26  D-Glc-ol              C6   63.200           999
+27  b-D-Glcp          4   C1  103.900             1
+28  b-D-Glcp          4   C2   74.400             1
+29  b-D-Glcp          4   C3   76.900             1
+30  b-D-Glcp          4   C4   70.500             1
+31  b-D-Glcp          4   C5   75.500             1
+32  b-D-Glcp          4   C6   67.000             1
+33  a-D-Xylp        6,4   C1   99.600             2
+34  a-D-Xylp        6,4   C2   72.700             2
+35  a-D-Xylp        6,4   C3   74.300             2
+36  a-D-Xylp        6,4   C4   70.500             2
+37  a-D-Xylp        6,4   C5   62.400             2
+
+a-L-Rhap-(1-3)-a-L-Rhap-(1-2)-Groal.csv
+    Residual Connection Atom   Shift  Residual Num
+0      GROAL              H1    5.12           999
+1      GROAL              H2    3.64           999
+2      GROAL             H31    3.74           999
+3      GROAL             H32    3.86           999
+4   A-L-RHAP          2   H1    4.97             1
+5   A-L-RHAP          2   H2    4.10             1
+6   A-L-RHAP          2   H3    3.88             1
+7   A-L-RHAP          2   H4    3.55             1
+8   A-L-RHAP          2   H5    3.97             1
+9   A-L-RHAP          2   H6    1.28             1
+10  A-L-RHAP       2, 3   H1    5.05             2
+11  A-L-RHAP       2, 3   H2    4.07             2
+12  A-L-RHAP       2, 3   H3    3.84             2
+13  A-L-RHAP       2, 3   H4    3.46             2
+14  A-L-RHAP       2, 3   H5    3.84             2
+15  A-L-RHAP       2, 3   H6    1.29             2
+16     GROAL              C1   90.60           999
+17     GROAL              C2   81.30           999
+18     GROAL              C3   61.00           999
+19  A-L-RHAP          2   C1  100.80             1
+20  A-L-RHAP          2   C2   71.60             1
+21  A-L-RHAP          2   C3   79.80             1
+22  A-L-RHAP          2   C4   72.70             1
+23  A-L-RHAP          2   C5   70.50             1
+24  A-L-RHAP          2   C6   18.00             1
+25  A-L-RHAP       2, 3   C1  103.70             2
+26  A-L-RHAP       2, 3   C2   71.60             2
+27  A-L-RHAP       2, 3   C3   71.60             2
+28  A-L-RHAP       2, 3   C4   73.50             2
+29  A-L-RHAP       2, 3   C5   70.50             2
+30  A-L-RHAP       2, 3   C6   18.00             2
+
+b-D-Fruf-(2-6)-b-D-Fruf.csv
+    Residual Connection  Atom   Shift  Residual Num
+0   B-D-FRUF             H1 a    3.67           999
+1   B-D-FRUF             H1 b    3.77           999
+2   B-D-FRUF               H3    4.19           999
+3   B-D-FRUF               H4    4.09           999
+4   B-D-FRUF               H5    3.95           999
+5   B-D-FRUF             H6 a    3.55           999
+6   B-D-FRUF             H6 b    3.90           999
+7   B-D-FRUF          6  H1 a    3.67           999
+8   B-D-FRUF          6  H1 b    3.77           999
+9   B-D-FRUF          6    H3    4.19           999
+10  B-D-FRUF          6    H4    4.09           999
+11  B-D-FRUF          6    H5    3.95           999
+12  B-D-FRUF          6  H6 a    3.55           999
+13  B-D-FRUF          6  H6 b    3.90           999
+14  B-D-FRUF               C1   60.75           999
+15  B-D-FRUF               C2  105.02           999
+16  B-D-FRUF               C3   77.13           999
+17  B-D-FRUF               C4   76.02           999
+18  B-D-FRUF               C5   81.10           999
+19  B-D-FRUF               C6   64.21           999
+20  B-D-FRUF          6    C1   60.75           999
+21  B-D-FRUF          6    C2  105.02           999
+22  B-D-FRUF          6    C3   77.13           999
+23  B-D-FRUF          6    C4   76.02           999
+24  B-D-FRUF          6    C5   81.10           999
+25  B-D-FRUF          6    C6   64.21           999
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+    Residual   Connection Atom   Shift  Residual Num
+0   B-D-FRUF               H11    3.79           999
+1   B-D-FRUF               H12    3.70           999
+2   B-D-FRUF                H3    4.20           999
+3   B-D-FRUF                H4    4.08           999
+4   B-D-FRUF               H61    3.84           999
+5   B-D-FRUF               H62    3.81           999
+6   B-D-FRUF            2  H11    3.98           999
+7   B-D-FRUF            2  H12    3.73           999
+8   B-D-FRUF            2   H3    4.34           999
+9   B-D-FRUF            2   H4    4.04           999
+10  B-D-FRUF            2   H6    3.08           999
+11  A-D-GLCP         2, 2   H1    5.67             1
+12  A-D-GLCP         2, 2   H2    3.61             1
+13  A-D-GLCP         2, 2   H3    3.90             1
+14  A-D-GLCP         2, 2   H4    3.49             1
+15  A-D-GLCP         2, 2   H5    3.90             1
+16  A-D-GLCP         2, 2   H6    3.81             1
+17  A-D-GLCP      2, 2, 2   H1    5.31             2
+18  A-D-GLCP      2, 2, 2   H2    3.69             2
+19  A-D-GLCP      2, 2, 2   H3    3.83             2
+20  A-D-GLCP      2, 2, 2   H4    3.47             2
+21  A-D-GLCP      2, 2, 2   H5    3.83             2
+22  A-D-GLCP      2, 2, 2   H6    3.88             2
+23  A-D-GLCP   2, 2, 2, 2   H1    5.08             3
+24  A-D-GLCP   2, 2, 2, 2   H2    3.59             3
+25  A-D-GLCP   2, 2, 2, 2   H3    3.91             3
+26  A-D-GLCP   2, 2, 2, 2   H4    3.45             3
+27  A-D-GLCP   2, 2, 2, 2   H5    3.96             3
+28  A-D-GLCP   2, 2, 2, 2  H61    3.84             3
+29  A-D-GLCP   2, 2, 2, 2  H62    3.78             3
+30  B-D-FRUF                C1   61.50           999
+31  B-D-FRUF                C2  104.71           999
+32  B-D-FRUF                C3   77.33           999
+33  B-D-FRUF                C4   75.14           999
+34  B-D-FRUF                C5   81.93           999
+35  B-D-FRUF                C6   63.14           999
+36  B-D-FRUF            2   C1   61.79           999
+37  B-D-FRUF            2   C2  104.53           999
+38  B-D-FRUF            2   C3   76.74           999
+39  B-D-FRUF            2   C4   74.48           999
+40  B-D-FRUF            2   C5   82.10           999
+41  B-D-FRUF            2   C6   62.98           999
+42  A-D-GLCP         2, 2   C1   91.82             1
+43  A-D-GLCP         2, 2   C2   80.91             1
+44  A-D-GLCP         2, 2   C3   72.74             1
+45  A-D-GLCP         2, 2   C4   69.78             1
+46  A-D-GLCP         2, 2   C5   72.95             1
+47  A-D-GLCP         2, 2   C6   60.97             1
+48  A-D-GLCP      2, 2, 2   C1   96.96             2
+49  A-D-GLCP      2, 2, 2   C2   76.81             2
+50  A-D-GLCP      2, 2, 2   C3   72.38             2
+51  A-D-GLCP      2, 2, 2   C4   70.52             2
+52  A-D-GLCP      2, 2, 2   C5   73.33             2
+53  A-D-GLCP      2, 2, 2   C6   61.29             2
+54  A-D-GLCP   2, 2, 2, 2   C1   97.56             3
+55  A-D-GLCP   2, 2, 2, 2   C2   72.03             3
+56  A-D-GLCP   2, 2, 2, 2   C3   73.38             3
+57  A-D-GLCP   2, 2, 2, 2   C4   70.27             3
+58  A-D-GLCP   2, 2, 2, 2   C5   72.63             3
+59  A-D-GLCP   2, 2, 2, 2   C6   61.20             3
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.csv
+    Residual Connection Atom   Shift  Residual Num
+0      allyl             H11    3.93           999
+1      allyl             H12    3.83           999
+2      allyl              H2    5.98           999
+3      allyl             H31    5.23           999
+4      allyl             H32    5.35           999
+5   a-D-Kdop          1  H31    1.92             1
+6   a-D-Kdop          1  H32    2.02             1
+7   a-D-Kdop          1   H4    4.15             1
+8   a-D-Kdop          1   H5    4.08             1
+9   a-D-Kdop          1   H6    3.56             1
+10  a-D-Kdop          1   H7    3.95             1
+11  a-D-Kdop          1  H81    3.61             1
+12  a-D-Kdop          1  H82    3.93             1
+13  a-D-Kdop          1  NaN    0.00             1
+14  a-D-Kdop        4,1  H31    1.78             2
+15  a-D-Kdop        4,1  H32    2.14             2
+16  a-D-Kdop        4,1   H4    4.10             2
+17  a-D-Kdop        4,1   H5    4.05             2
+18  a-D-Kdop        4,1   H6    3.62             2
+19  a-D-Kdop        4,1   H7    4.00             2
+20  a-D-Kdop        4,1  H81    3.74             2
+21  a-D-Kdop        4,1  H82    3.96             2
+22     allyl              C1   65.00           999
+23     allyl              C2  135.00           999
+24     allyl              C3  118.20           999
+25  a-D-Kdop          1   C1  176.00             1
+26  a-D-Kdop          1   C2  101.00             1
+27  a-D-Kdop          1   C3   34.20             1
+28  a-D-Kdop          1   C4   69.50             1
+29  a-D-Kdop          1   C5   65.20             1
+30  a-D-Kdop          1   C6   72.40             1
+31  a-D-Kdop          1   C7   70.50             1
+32  a-D-Kdop          1   C8   64.00             1
+33  a-D-Kdop        4,1   C1  176.80             2
+34  a-D-Kdop        4,1   C2  110.20             2
+35  a-D-Kdop        4,1   C3   35.40             2
+36  a-D-Kdop        4,1   C4   66.80             2
+37  a-D-Kdop        4,1   C5   67.20             2
+38  a-D-Kdop        4,1   C6   73.30             2
+39  a-D-Kdop        4,1   C7   70.90             2
+40  a-D-Kdop        4,1   C8   64.00             2
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+    Residual Connection Atom   Shift  Residual Num
+0   B-D-FRUF              H1    3.76           999
+1   B-D-FRUF              H1    3.69           999
+2   B-D-FRUF              H3    4.18           999
+3   B-D-FRUF              H4    4.09           999
+4   B-D-FRUF              H5    3.87           999
+5   B-D-FRUF             H61    3.88           999
+6   B-D-FRUF             H62    3.83           999
+7   B-D-FRUF          2   H1    3.88           999
+8   B-D-FRUF          2   H1    3.80           999
+9   B-D-FRUF          2   H3    4.30           999
+10  B-D-FRUF          2   H4    4.09           999
+11  B-D-FRUF          2   H5    3.81           999
+12  B-D-FRUF          2  H61    3.84           999
+13  B-D-FRUF          2  H62    3.77           999
+14  A-D-GLCP       2, 2   H1    5.71             1
+15  A-D-GLCP       2, 2   H2    3.66             1
+16  A-D-GLCP       2, 2   H3    3.85             1
+17  A-D-GLCP       2, 2   H4    3.50             1
+18  A-D-GLCP       2, 2   H5    3.94             1
+19  A-D-GLCP       2, 2  H61    3.83             1
+20  A-D-GLCP       2, 2  H62    3.78             1
+21  A-D-GLCP    2, 2, 2   H1    5.13             2
+22  A-D-GLCP    2, 2, 2   H2    3.57             2
+23  A-D-GLCP    2, 2, 2   H3    3.76             2
+24  A-D-GLCP    2, 2, 2   H4    3.44             2
+25  A-D-GLCP    2, 2, 2   H5    3.91             2
+26  A-D-GLCP    2, 2, 2  H61    3.84             2
+27  A-D-GLCP    2, 2, 2  H62    3.77             2
+28  B-D-FRUF              C1   62.01           999
+29  B-D-FRUF              C2  104.53           999
+30  B-D-FRUF              C3   77.54           999
+31  B-D-FRUF              C4   74.54           999
+32  B-D-FRUF              C5   81.77           999
+33  B-D-FRUF              C6   62.73           999
+34  B-D-FRUF          2   C1   61.11           999
+35  B-D-FRUF          2   C2  104.50           999
+36  B-D-FRUF          2   C3   77.58           999
+37  B-D-FRUF          2   C4   75.33           999
+38  B-D-FRUF          2   C5   81.99           999
+39  B-D-FRUF          2   C6   63.29           999
+40  A-D-GLCP       2, 2   C1   90.57             1
+41  A-D-GLCP       2, 2   C2   75.85             1
+42  A-D-GLCP       2, 2   C3   72.01             1
+43  A-D-GLCP       2, 2   C4   70.06             1
+44  A-D-GLCP       2, 2   C5   73.04             1
+45  A-D-GLCP       2, 2   C6   61.07             1
+46  A-D-GLCP    2, 2, 2   C1   96.77             2
+47  A-D-GLCP    2, 2, 2   C2   72.13             2
+48  A-D-GLCP    2, 2, 2   C3   73.73             2
+49  A-D-GLCP    2, 2, 2   C4   70.19             2
+50  A-D-GLCP    2, 2, 2   C5   72.65             2
+51  A-D-GLCP    2, 2, 2   C6    3.84             2
+
+a-L-Fucp2SO33SO34SO3-(1-2)-a-L-Fucp3SO34SO3-(1-1)-propyl.csv
+                Residual Connection Atom  Shift  Residual Num
+0       A-L-FUCP3SO34SO3          1   H1   5.14             1
+1       A-L-FUCP3SO34SO3          1   H2   4.04             1
+2       A-L-FUCP3SO34SO3          1   H3   4.72             1
+3       A-L-FUCP3SO34SO3          1   H4   4.98             1
+4       A-L-FUCP3SO34SO3          1   H5   4.30             1
+5       A-L-FUCP3SO34SO3          1   H6   1.34             1
+6   A-L-FUCP2SO33SO34SO3       1, 2   H1   5.36             2
+7   A-L-FUCP2SO33SO34SO3       1, 2   H2   4.56             2
+8   A-L-FUCP2SO33SO34SO3       1, 2   H3   4.75             2
+9   A-L-FUCP2SO33SO34SO3       1, 2   H4   4.96             2
+10  A-L-FUCP2SO33SO34SO3       1, 2   H5   4.66             2
+11  A-L-FUCP2SO33SO34SO3       1, 2   H6   1.32             2
+12      A-L-FUCP3SO34SO3          1   C1  97.70             1
+13      A-L-FUCP3SO34SO3          1   C2  74.70             1
+14      A-L-FUCP3SO34SO3          1   C3  74.30             1
+15      A-L-FUCP3SO34SO3          1   C4  80.50             1
+16      A-L-FUCP3SO34SO3          1   C5  67.10             1
+17      A-L-FUCP3SO34SO3          1   C6  17.00             1
+18  A-L-FUCP2SO33SO34SO3       1, 2   C1  98.30             2
+19  A-L-FUCP2SO33SO34SO3       1, 2   C2  73.10             2
+20  A-L-FUCP2SO33SO34SO3       1, 2   C3  73.50             2
+21  A-L-FUCP2SO33SO34SO3       1, 2   C4  80.60             2
+22  A-L-FUCP2SO33SO34SO3       1, 2   C5  67.90             2
+23  A-L-FUCP2SO33SO34SO3       1, 2   C6  17.00             2
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+    Residual   Connection Atom   Shift  Residual Num
+0   B-D-FRUF               H11    3.75           999
+1   B-D-FRUF               H12    3.68           999
+2   B-D-FRUF                H3    4.18           999
+3   B-D-FRUF                H4    4.10           999
+4   B-D-FRUF                H5    3.85           999
+5   B-D-FRUF               H61    3.82           999
+6   B-D-FRUF               H62    3.85           999
+7   B-D-FRUF            2  H11    3.87           999
+8   B-D-FRUF            2  H12    3.72           999
+9   B-D-FRUF            2   H3    4.21           999
+10  B-D-FRUF            2   H4    4.06           999
+11  B-D-FRUF            2   H5    3.85           999
+12  B-D-FRUF            2  H61    3.82           999
+13  B-D-FRUF            2  H62    3.75           999
+14  B-D-FRUF         2, 2  H11    3.89           999
+15  B-D-FRUF         2, 2  H12    3.82           999
+16  B-D-FRUF         2, 2   H3    4.27           999
+17  B-D-FRUF         2, 2   H4    4.08           999
+18  B-D-FRUF         2, 2   H5    3.79           999
+19  B-D-FRUF         2, 2  H61    3.82           999
+20  B-D-FRUF         2, 2  H62    3.75           999
+21  A-D-GLCP      2, 2, 2   H1    5.71             1
+22  A-D-GLCP      2, 2, 2   H2    3.65             1
+23  A-D-GLCP      2, 2, 2   H3    3.85             1
+24  A-D-GLCP      2, 2, 2   H4    3.48             1
+25  A-D-GLCP      2, 2, 2   H5    3.94             1
+26  A-D-GLCP      2, 2, 2  H61    4.04             1
+27  A-D-GLCP      2, 2, 2  H62    3.80             1
+28  A-D-GLCP   2, 2, 2, 2   H1    5.12             2
+29  A-D-GLCP   2, 2, 2, 2   H2    3.54             2
+30  A-D-GLCP   2, 2, 2, 2   H3    3.76             2
+31  A-D-GLCP   2, 2, 2, 2   H4    3.43             2
+32  A-D-GLCP   2, 2, 2, 2   H5    3.90             2
+33  A-D-GLCP   2, 2, 2, 2  H61    3.83             2
+34  A-D-GLCP   2, 2, 2, 2  H62    3.77             2
+35  B-D-FRUF                C1   61.46           999
+36  B-D-FRUF                C2  104.65           999
+37  B-D-FRUF                C3   77.60           999
+38  B-D-FRUF                C4   75.21           999
+39  B-D-FRUF                C5   82.02           999
+40  B-D-FRUF                C6   63.13           999
+41  B-D-FRUF            2   C1   61.52           999
+42  B-D-FRUF            2   C2  103.97           999
+43  B-D-FRUF            2   C3   78.25           999
+44  B-D-FRUF            2   C4   75.34           999
+45  B-D-FRUF            2   C5   82.06           999
+46  B-D-FRUF            2   C6   63.32           999
+47  B-D-FRUF         2, 2   C1   62.15           999
+48  B-D-FRUF         2, 2   C2  104.63           999
+49  B-D-FRUF         2, 2   C3   77.83           999
+50  B-D-FRUF         2, 2   C4   74.70           999
+51  B-D-FRUF         2, 2   C5   81.86           999
+52  B-D-FRUF         2, 2   C6   62.85           999
+53  A-D-GLCP      2, 2, 2   C1   90.71             1
+54  A-D-GLCP      2, 2, 2   C2   75.82             1
+55  A-D-GLCP      2, 2, 2   C3   72.12             1
+56  A-D-GLCP      2, 2, 2   C4   70.19             1
+57  A-D-GLCP      2, 2, 2   C5   73.16             1
+58  A-D-GLCP      2, 2, 2   C6   61.20             1
+59  A-D-GLCP   2, 2, 2, 2   C1   96.77             2
+60  A-D-GLCP   2, 2, 2, 2   C2   72.28             2
+61  A-D-GLCP   2, 2, 2, 2   C3   73.83             2
+62  A-D-GLCP   2, 2, 2, 2   C4   70.28             2
+63  A-D-GLCP   2, 2, 2, 2   C5   72.74             2
+64  A-D-GLCP   2, 2, 2, 2   C6   61.30             2
+
+b-D-Apif.csv
+         Residual Connection Atom   Shift  Residual Num
+0   Monosaccharid              H1    5.28           999
+1   Monosaccharid              H2    3.88           999
+2   Monosaccharid             H41    3.85           999
+3   Monosaccharid             H42    4.13           999
+4   Monosaccharid             H31    3.65           999
+5   Monosaccharid             H32    3.65           999
+6   Monosaccharid              C1  102.84           999
+7   Monosaccharid              C2   78.34           999
+8   Monosaccharid              C3   79.94           999
+9   Monosaccharid              C4   74.04           999
+10  Monosaccharid              C5   64.64           999
+
+b-D-Xylp-(1-3)-L-Ara-ol.csv
+    Residual Connection Atom   Shift  Residual Num
+0   L-ARA-OL              H1    3.73           999
+1   L-ARA-OL              H2    3.97           999
+2   L-ARA-OL              H3    3.81           999
+3   L-ARA-OL              H4    3.83           999
+4   L-ARA-OL             H51    3.77           999
+5   L-ARA-OL             H52    3.69           999
+6   B-D-XYLP          3   H1    4.40             1
+7   B-D-XYLP          3   H2    3.31             1
+8   B-D-XYLP          3   H3    3.42             1
+9   B-D-XYLP          3   H4    3.61             1
+10  B-D-XYLP          3  H51    3.95             1
+11  B-D-XYLP          3  H52    3.28             1
+12  L-ARA-OL              C1   63.00           999
+13  L-ARA-OL              C2   71.74           999
+14  L-ARA-OL              C3   79.60           999
+15  L-ARA-OL              C4   71.70           999
+16  L-ARA-OL              C5   63.40           999
+17  B-D-XYLP          3   C1  104.40             1
+18  B-D-XYLP          3   C2   73.90             1
+19  B-D-XYLP          3   C3   76.00             1
+20  B-D-XYLP          3   C4   69.70             1
+21  B-D-XYLP          3   C5   65.60             1
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0         allyl             H11    4.29           999
+1         allyl             H12    4.14           999
+2         allyl              H2    5.98           999
+3         allyl             H31    5.24           999
+4         allyl             H32    5.35           999
+5   b-D-GlcpNAc          1   H1    4.53             1
+6   b-D-GlcpNAc          1   H2    3.70             1
+7   b-D-GlcpNAc          1   H3    3.49             1
+8   b-D-GlcpNAc          1   H4    3.43             1
+9   b-D-GlcpNAc          1   H5    3.56             1
+10  b-D-GlcpNAc          1  H61    3.58             1
+11  b-D-GlcpNAc          1  H62    3.60             1
+12  b-D-GlcpNAc          1  NAC    2.01             1
+13     a-D-Kdop        6,1  H31    1.79             2
+14     a-D-Kdop        6,1  H32    2.06             2
+15     a-D-Kdop        6,1   H4    4.07             2
+16     a-D-Kdop        6,1   H5    4.01             2
+17     a-D-Kdop        6,1   H6    3.66             2
+18     a-D-Kdop        6,1   H7    3.94             2
+19     a-D-Kdop        6,1  H81    3.63             2
+20     a-D-Kdop        6,1  H82    3.92             2
+21        allyl              C1   71.40           999
+22        allyl              C2  134.30           999
+23        allyl              C3  118.70           999
+24  b-D-GlcpNAc          1   C1  101.00             1
+25  b-D-GlcpNAc          1   C2   56.30             1
+26  b-D-GlcpNAc          1   C3   74.80             1
+27  b-D-GlcpNAc          1   C4   71.30             1
+28  b-D-GlcpNAc          1   C5   75.00             1
+29  b-D-GlcpNAc          1   C6   62.80             1
+30  b-D-GlcpNAc          1   CO  176.00             1
+31  b-D-GlcpNAc          1  CH3   23.00             1
+32     a-D-Kdop        6,1   C1  175.70             2
+33     a-D-Kdop        6,1   C2  100.70             2
+34     a-D-Kdop        6,1   C3   34.90             2
+35     a-D-Kdop        6,1   C4   66.90             2
+36     a-D-Kdop        6,1   C5   67.10             2
+37     a-D-Kdop        6,1   C6   72.40             2
+38     a-D-Kdop        6,1   C7   70.30             2
+39     a-D-Kdop        6,1   C8   64.10             2
+
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+       Residual Connection Atom    Shift  Residual Num
+0   D-GalNAc-ol              H1    3.730           999
+1   D-GalNAc-ol             H12    3.750           999
+2   D-GalNAc-ol              H2    4.399           999
+3   D-GalNAc-ol              H3    4.091           999
+4   D-GalNAc-ol              H4    3.522           999
+5   D-GalNAc-ol              H5    4.163           999
+6   D-GalNAc-ol             H61    3.680           999
+7   D-GalNAc-ol             H62    3.630           999
+8   D-GalNAc-ol             NAC    2.046           999
+9      b-D-Galp          3   H1    4.584             1
+10     b-D-Galp          3   H2    3.688             1
+11     b-D-Galp          3   H3    3.880             1
+12     b-D-Galp          3   H4    3.926             1
+13     a-L-Fucp        2,3   H1    5.256             2
+14     a-L-Fucp        2,3   H5    4.279             2
+15     a-L-Fucp        2,3  CH3    1.243             2
+16  D-GalNAc-ol              C1   61.100           999
+17  D-GalNAc-ol              C2   52.200           999
+18  D-GalNAc-ol              C3   75.300           999
+19  D-GalNAc-ol              C4   70.100           999
+20  D-GalNAc-ol              C5   69.600           999
+21  D-GalNAc-ol              C6   63.400           999
+22     b-D-Galp          3   C1  102.900             1
+23     b-D-Galp          3   C2   79.900             1
+24     b-D-Galp          3   C3   72.500             1
+25     b-D-Galp          3   C4   69.300             1
+26     b-D-Galp          3   C5   75.600             1
+27     b-D-Galp          3   C6   61.600             1
+28     a-L-Fucp        2,3   C1  101.900             2
+29     a-L-Fucp        2,3   C2   70.100             2
+30     a-L-Fucp        2,3   C3   70.300             2
+31     a-L-Fucp        2,3   C4   72.900             2
+32     a-L-Fucp        2,3   C5   69.100             2
+33     a-L-Fucp        2,3   C6   16.200             2
+
+a-D-GalpNAc-(1-6)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+       Residual Connection Atom   Shift  Residual Num
+0      D-GAL-OL              H1    3.75           999
+1      D-GAL-OL              H2    4.05           999
+2      D-GAL-OL              H3    3.79           999
+3      D-GAL-OL              H4    3.87           999
+4      D-GAL-OL              H5    4.04           999
+5      D-GAL-OL             H61    3.65           999
+6      D-GAL-OL             H62    3.64           999
+7      A-D-GALP          3   H1    5.10             1
+8      A-D-GALP          3   H2    3.82             1
+9      A-D-GALP          3   H3    3.86             1
+10     A-D-GALP          3   H4    4.02             1
+11     A-D-GALP          3   H5    4.18             1
+12     A-D-GALP          3  H61    3.87             1
+13     A-D-GALP          3  H62    3.68             1
+14     A-D-GALP       3, 6   H1    4.99             2
+15     A-D-GALP       3, 6   H2    3.92             2
+16     A-D-GALP       3, 6   H3    3.99             2
+17     A-D-GALP       3, 6   H4    4.21             2
+18     A-D-GALP       3, 6   H5    3.87             2
+19     A-D-GALP       3, 6  H61    4.12             2
+20     A-D-GALP       3, 6  H62    3.99             2
+21  A-D-GALPNAC    3, 6, 6   H1    4.85             3
+22  A-D-GALPNAC    3, 6, 6   H2    4.32             3
+23  A-D-GALPNAC    3, 6, 6   H3    4.11             3
+24  A-D-GALPNAC    3, 6, 6   H4    3.34             3
+25  A-D-GALPNAC    3, 6, 6   H5    3.90             3
+26  A-D-GALPNAC    3, 6, 6  H61    3.64             3
+27  A-D-GALPNAC    3, 6, 6  H62    3.61             3
+28     D-GAL-OL              C1   64.20           999
+29     D-GAL-OL              C2   73.00           999
+30     D-GAL-OL              C3   79.80           999
+31     D-GAL-OL              C4   71.00           999
+32     D-GAL-OL              C5   71.30           999
+33     D-GAL-OL              C6   64.20           999
+34     A-D-GALP          3   C1  101.20             1
+35     A-D-GALP          3   C2   69.50             1
+36     A-D-GALP          3   C3   70.20             1
+37     A-D-GALP          3   C4   70.50             1
+38     A-D-GALP          3   C5   71.10             1
+39     A-D-GALP          3   C6   68.60             1
+40     A-D-GALP       3, 6   C1  100.30             2
+41     A-D-GALP       3, 6   C2   69.20             2
+42     A-D-GALP       3, 6   C3   69.20             2
+43     A-D-GALP       3, 6   C4   77.00             2
+44     A-D-GALP       3, 6   C5   64.50             2
+45     A-D-GALP       3, 6   C6   69.80             2
+46  A-D-GALPNAC    3, 6, 6   C1  101.40             3
+47  A-D-GALPNAC    3, 6, 6   C2   52.90             3
+48  A-D-GALPNAC    3, 6, 6   C3   68.80             3
+49  A-D-GALPNAC    3, 6, 6   C5   71.10             3
+50  A-D-GALPNAC    3, 6, 6   C6   64.40             3
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0         allyl             H11    4.31           999
+1         allyl             H12    4.12           999
+2         allyl              H2    5.90           999
+3         allyl             H31    5.24           999
+4         allyl             H32    5.30           999
+5   b-D-GlcpNAc          1   H1    4.56             1
+6   b-D-GlcpNAc          1   H2    3.74             1
+7   b-D-GlcpNAc          1   H3    3.49             1
+8   b-D-GlcpNAc          1   H4    3.47             1
+9   b-D-GlcpNAc          1   H5    3.55             1
+10  b-D-GlcpNAc          1  H61    3.57             1
+11  b-D-GlcpNAc          1  H62    3.57             1
+12  b-D-GlcpNAc          1  NAC    2.02             1
+13     a-D-Kdop        6,1  H31    1.90             2
+14     a-D-Kdop        6,1  H32    2.01             2
+15     a-D-Kdop        6,1   H4    4.12             2
+16     a-D-Kdop        6,1   H5    4.09             2
+17     a-D-Kdop        6,1   H6    3.61             2
+18     a-D-Kdop        6,1   H7    3.91             2
+19     a-D-Kdop        6,1  H81    3.58             2
+20     a-D-Kdop        6,1  H82    3.90             2
+21     a-D-Kdop      4,6,1  H31    1.74             3
+22     a-D-Kdop      4,6,1  H32    2.13             3
+23     a-D-Kdop      4,6,1   H4    4.05             3
+24     a-D-Kdop      4,6,1   H5    4.02             3
+25     a-D-Kdop      4,6,1   H6    3.59             3
+26     a-D-Kdop      4,6,1   H7    3.96             3
+27     a-D-Kdop      4,6,1  H81    3.72             3
+28     a-D-Kdop      4,6,1  H82    3.99             3
+29        allyl              C1   71.20           999
+30        allyl              C2  134.20           999
+31        allyl              C3  118.70           999
+32  b-D-GlcpNAc          1   C1  101.10             1
+33  b-D-GlcpNAc          1   C2   56.40             1
+34  b-D-GlcpNAc          1   C3   75.00             1
+35  b-D-GlcpNAc          1   C4   71.10             1
+36  b-D-GlcpNAc          1   C5   75.10             1
+37  b-D-GlcpNAc          1   C6   62.40             1
+38  b-D-GlcpNAc          1   CO  175.70             1
+39  b-D-GlcpNAc          1  CH3   23.00             1
+40     a-D-Kdop        6,1   C1  175.40             2
+41     a-D-Kdop        6,1   C2  100.60             2
+42     a-D-Kdop        6,1   C3   34.10             2
+43     a-D-Kdop        6,1   C4   69.20             2
+44     a-D-Kdop        6,1   C5   65.00             2
+45     a-D-Kdop        6,1   C6   72.30             2
+46     a-D-Kdop        6,1   C7   70.40             2
+47     a-D-Kdop        6,1   C8   64.20             2
+48     a-D-Kdop      4,6,1   C1  176.40             3
+49     a-D-Kdop      4,6,1   C2  100.10             3
+50     a-D-Kdop      4,6,1   C3   35.30             3
+51     a-D-Kdop      4,6,1   C4   66.70             3
+52     a-D-Kdop      4,6,1   C5   67.00             3
+53     a-D-Kdop      4,6,1   C6   73.30             3
+54     a-D-Kdop      4,6,1   C7   70.50             3
+55     a-D-Kdop      4,6,1   C8   64.20             3
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+    Residual      Connection Atom   Shift  Residual Num
+0   B-D-FRUF                  H11    3.65           999
+1   B-D-FRUF                  H12    3.74           999
+2   B-D-FRUF                   H3    4.20           999
+3   B-D-FRUF                   H4    4.06           999
+4   B-D-FRUF                   H5    3.83           999
+5   B-D-FRUF                  H61    3.84           999
+6   B-D-FRUF                  H62    3.82           999
+7   B-D-FRUF               2  H11    3.89           999
+8   B-D-FRUF               2  H12    3.72           999
+9   B-D-FRUF               2   H3    4.32           999
+10  B-D-FRUF               2   H4    4.02           999
+11  B-D-FRUF               2   H5    3.83           999
+12  B-D-FRUF               2   H6    3.80           999
+13  A-D-GLCP            2, 2   H1    5.61             1
+14  A-D-GLCP            2, 2   H2    3.83             1
+15  A-D-GLCP            2, 2   H3    3.87             1
+16  A-D-GLCP            2, 2   H4    3.54             1
+17  A-D-GLCP            2, 2   H5    3.90             1
+18  A-D-GLCP            2, 2  H61    3.81             1
+19  A-D-GLCP            2, 2  H62    3.79             1
+20  A-D-GLCP         2, 2, 2   H1    5.36             2
+21  A-D-GLCP         2, 2, 2   H2    3.64             2
+22  A-D-GLCP         2, 2, 2   H3    3.82             2
+23  A-D-GLCP         2, 2, 2   H4    3.44             2
+24  A-D-GLCP         2, 2, 2   H5    3.80             2
+25  A-D-GLCP         2, 2, 2  H61    3.85             2
+26  A-D-GLCP         2, 2, 2  H62    3.74             2
+27  A-D-GLCP      2, 2, 2, 2   H1    5.27             3
+28  A-D-GLCP      2, 2, 2, 2   H2    3.59             3
+29  A-D-GLCP      2, 2, 2, 2   H3    4.03             3
+30  A-D-GLCP      2, 2, 2, 2   H4    3.49             3
+31  A-D-GLCP      2, 2, 2, 2   H5    3.98             3
+32  A-D-GLCP      2, 2, 2, 2   H6    3.79             3
+33  A-D-GLCP   2, 2, 2, 2, 2   H1    5.09             4
+34  A-D-GLCP   2, 2, 2, 2, 2   H2    3.57             4
+35  A-D-GLCP   2, 2, 2, 2, 2   H3    3.78             4
+36  A-D-GLCP   2, 2, 2, 2, 2   H4    3.45             4
+37  A-D-GLCP   2, 2, 2, 2, 2   H5    3.92             4
+38  A-D-GLCP   2, 2, 2, 2, 2   H6    3.80             4
+39  B-D-FRUF                   C1   61.49           999
+40  B-D-FRUF                   C2  104.76           999
+41  B-D-FRUF                   C3   77.09           999
+42  B-D-FRUF                   C4   75.19           999
+43  B-D-FRUF                   C5   81.79           999
+44  B-D-FRUF                   C6   63.04           999
+45  B-D-FRUF               2   C1   61.83           999
+46  B-D-FRUF               2   C2  104.32           999
+47  B-D-FRUF               2   C3   76.59           999
+48  B-D-FRUF               2   C4   74.29           999
+49  B-D-FRUF               2   C5   82.13           999
+50  B-D-FRUF               2   C6   63.10           999
+51  A-D-GLCP            2, 2   C1   92.04             1
+52  A-D-GLCP            2, 2   C2   79.51             1
+53  A-D-GLCP            2, 2   C3   72.79             1
+54  A-D-GLCP            2, 2   C4   69.48             1
+55  A-D-GLCP            2, 2   C5   72.96             1
+56  A-D-GLCP            2, 2   C6   60.78             1
+57  A-D-GLCP         2, 2, 2   C1   97.17             2
+58  A-D-GLCP         2, 2, 2   C2   78.67             2
+59  A-D-GLCP         2, 2, 2   C3   72.68             2
+60  A-D-GLCP         2, 2, 2   C4   70.55             2
+61  A-D-GLCP         2, 2, 2   C5   73.36             2
+62  A-D-GLCP         2, 2, 2   C6   61.24             2
+63  A-D-GLCP      2, 2, 2, 2   C1   96.78             3
+64  A-D-GLCP      2, 2, 2, 2   C2   77.66             3
+65  A-D-GLCP      2, 2, 2, 2   C3   71.82             3
+66  A-D-GLCP      2, 2, 2, 2   C4   70.36             3
+67  A-D-GLCP      2, 2, 2, 2   C5   72.59             3
+68  A-D-GLCP      2, 2, 2, 2   C6   61.05             3
+69  A-D-GLCP   2, 2, 2, 2, 2   C1   98.28             4
+70  A-D-GLCP   2, 2, 2, 2, 2   C2   72.08             4
+71  A-D-GLCP   2, 2, 2, 2, 2   C3   73.53             4
+72  A-D-GLCP   2, 2, 2, 2, 2   C4   70.13             4
+73  A-D-GLCP   2, 2, 2, 2, 2   C5   72.62             4
+74  A-D-GLCP   2, 2, 2, 2, 2   C6   61.00             4
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+    Residual Connection Atom   Shift  Residual Num
+0   D-GAL-OL              H1    3.72           999
+1   D-GAL-OL              H2    4.05           999
+2   D-GAL-OL              H3    3.79           999
+3   D-GAL-OL              H4    3.87           999
+4   D-GAL-OL              H5    4.04           999
+5   D-GAL-OL             H61    3.65           999
+6   D-GAL-OL             H62    3.65           999
+7   A-D-GALP          3   H1    5.10             1
+8   A-D-GALP          3   H2    3.82             1
+9   A-D-GALP          3   H3    3.68             1
+10  A-D-GALP          3   H4    4.02             1
+11  A-D-GALP          3   H5    4.18             1
+12  A-D-GALP          3  H61    3.87             1
+13  A-D-GALP          3  H62    3.68             1
+14  A-D-GALP       3, 6   H1    4.99             2
+15  A-D-GALP       3, 6   H2    3.92             2
+16  A-D-GALP       3, 6   H3    3.99             2
+17  A-D-GALP       3, 6   H4    4.21             2
+18  A-D-GALP       3, 6   H5    3.87             2
+19  A-D-GALP       3, 6  H61    4.12             2
+20  A-D-GALP       3, 6  H62    3.99             2
+21  D-GAL-OL              C1   64.20           999
+22  D-GAL-OL              C2   73.00           999
+23  D-GAL-OL              C3   79.80           999
+24  D-GAL-OL              C4   71.00           999
+25  D-GAL-OL              C5   71.30           999
+26  D-GAL-OL              C6   64.20           999
+27  A-D-GALP          3   C1  101.20             1
+28  A-D-GALP          3   C2   69.50             1
+29  A-D-GALP          3   C3   70.20             1
+30  A-D-GALP          3   C4   70.50             1
+31  A-D-GALP          3   C5   71.10             1
+32  A-D-GALP          3   C6   68.60             1
+33  A-D-GALP       3, 6   C1  100.30             2
+34  A-D-GALP       3, 6   C2   69.20             2
+35  A-D-GALP       3, 6   C3   69.20             2
+36  A-D-GALP       3, 6   C4   77.00             2
+37  A-D-GALP       3, 6   C5   64.50             2
+38  A-D-GALP       3, 6   C6   69.80             2
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual  Connection Atom   Shift  Residual Num
+0   a-D-GlcpNAc               H1    4.90             1
+1   a-D-GlcpNAc               H2    3.94             1
+2   a-D-GlcpNAc               H3    3.69             1
+3   a-D-GlcpNAc               H4    3.51             1
+4   a-D-GlcpNAc               H5    3.83             1
+5   b-D-GlcpNAc           6   H1    4.59             2
+6   b-D-GlcpNAc           6   H2    3.74             2
+7   b-D-GlcpNAc           6   H3    3.56             2
+8   b-D-GlcpNAc           6   H4    3.32             2
+9   b-D-GlcpNAc           6   H5    3.61             2
+10  b-D-GlcpNAc           6   H6    3.74             2
+11     a-D-Kdop         6,6  H31    1.89             3
+12     a-D-Kdop         6,6  H32    2.00             3
+13     a-D-Kdop         6,6   H4    4.08             3
+14     a-D-Kdop         6,6   H5    4.09             3
+15     a-D-Kdop         6,6   H6    3.71             3
+16     a-D-Kdop         6,6   H7    3.94             3
+17     a-D-Kdop         6,6  H81    3.89             3
+18     a-D-Kdop         6,6  H82    3.68             3
+19     a-D-Kdop       4,6,6  H31    1.79             4
+20     a-D-Kdop       4,6,6  H32    2.14             4
+21     a-D-Kdop       4,6,6   H4    4.09             4
+22     a-D-Kdop       4,6,6   H5    4.08             4
+23     a-D-Kdop       4,6,6   H6    3.76             4
+24     a-D-Kdop       4,6,6   H7    4.19             4
+25     a-D-Kdop     8,4,6,6  H31    1.80             5
+26     a-D-Kdop     8,4,6,6  H32    2.03             5
+27     a-D-Kdop     8,4,6,6   H4    4.08             5
+28     a-D-Kdop     8,4,6,6   H5    4.08             5
+29     a-D-Kdop     8,4,6,6   H6    3.71             5
+30     a-D-Kdop     8,4,6,6   H7    3.96             5
+31        Allyl               C1   69.10           999
+32        Allyl               C2  134.60           999
+33        Allyl               C3  119.10           999
+34  a-D-GlcpNAc           1   C1   96.80             1
+35  a-D-GlcpNAc           1   C2   54.70             1
+36  a-D-GlcpNAc           1   C3   72.10             1
+37  a-D-GlcpNAc           1   C4   71.00             1
+38  a-D-GlcpNAc           1   C5   72.00             1
+39  a-D-GlcpNAc           1   C6   70.50             1
+40  a-D-GlcpNAc           1   CO  175.40             1
+41  a-D-GlcpNAc           1  CH3   22.90             1
+42  b-D-GlcpNAc         6,1   C1  102.40             2
+43  b-D-GlcpNAc         6,1   C2   56.60             2
+44  b-D-GlcpNAc         6,1   C3   75.00             2
+45  b-D-GlcpNAc         6,1   C4   72.30             2
+46  b-D-GlcpNAc         6,1   C5   75.40             2
+47  b-D-GlcpNAc         6,1   C6   63.70             2
+48  b-D-GlcpNAc         6,1   CO  175.20             2
+49  b-D-GlcpNAc         6,1  CH3   23.30             2
+50     a-D-Kdop       6,6,1   C1  176.00             3
+51     a-D-Kdop       6,6,1   C2  101.60             3
+52     a-D-Kdop       6,6,1   C3   34.60             3
+53     a-D-Kdop       6,6,1   C4   70.70             3
+54     a-D-Kdop       6,6,1   C5   66.10             3
+55     a-D-Kdop       6,6,1   C6   72.30             3
+56     a-D-Kdop       6,6,1   C7   70.80             3
+57     a-D-Kdop       6,6,1   C8   64.40             3
+58     a-D-Kdop     4,6,6,1   C1  176.40             4
+59     a-D-Kdop     4,6,6,1   C2  100.90             4
+60     a-D-Kdop     4,6,6,1   C3   35.50             4
+61     a-D-Kdop     4,6,6,1   C4   66.90             4
+62     a-D-Kdop     4,6,6,1   C5   68.10             4
+63     a-D-Kdop     4,6,6,1   C6   72.80             4
+64     a-D-Kdop     4,6,6,1   C7   71.40             4
+65     a-D-Kdop     4,6,6,1   C8   64.40             4
+66     a-D-Kdop   8,4,6,6,1   C1  176.80             5
+67     a-D-Kdop   8,4,6,6,1   C2  100.70             5
+68     a-D-Kdop   8,4,6,6,1   C3   35.30             5
+69     a-D-Kdop   8,4,6,6,1   C4   67.00             5
+70     a-D-Kdop   8,4,6,6,1   C5   67.50             5
+71     a-D-Kdop   8,4,6,6,1   C6   72.30             5
+72     a-D-Kdop   8,4,6,6,1   C7   70.40             5
+73     a-D-Kdop   8,4,6,6,1   C8   64.10             5
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual  Connection Atom   Shift  Residual Num
+0   b-D-GlcpNAc               H1    4.57             1
+1   b-D-GlcpNAc               H2    3.76             1
+2   b-D-GlcpNAc               H3    3.57             1
+3   b-D-GlcpNAc               H4    3.49             1
+4   b-D-GlcpNAc              H61    4.20             1
+5   b-D-GlcpNAc              H62    3.69             1
+6   b-D-GlcpNAc           6   H1    4.65             2
+7   b-D-GlcpNAc           6   H2    3.77             2
+8   b-D-GlcpNAc           6   H3    3.61             2
+9   b-D-GlcpNAc           6   H4    3.36             2
+10  b-D-GlcpNAc           6   H5    3.68             2
+11     a-D-Kdop         6,6  H31    1.93             3
+12     a-D-Kdop         6,6  H32    2.07             3
+13     a-D-Kdop         6,6   H4    4.12             3
+14     a-D-Kdop         6,6   H5    4.13             3
+15     a-D-Kdop         6,6   H6    3.73             3
+16     a-D-Kdop         6,6   H7    3.93             3
+17     a-D-Kdop         6,6   H8    3.97             3
+18     a-D-Kdop       4,6,6  H31    1.84             4
+19     a-D-Kdop       4,6,6  H32    2.18             4
+20     a-D-Kdop       4,6,6   H4    4.12             4
+21     a-D-Kdop       4,6,6   H5    4.11             4
+22     a-D-Kdop       4,6,6   H6    3.81             4
+23     a-D-Kdop       4,6,6   H7    4.21             4
+24     a-D-Kdop     8,4,6,6  H31    1.85             5
+25     a-D-Kdop     8,4,6,6  H32    2.04             5
+26     a-D-Kdop     8,4,6,6   H4    4.13             5
+27     a-D-Kdop     8,4,6,6   H5    4.11             5
+28     a-D-Kdop     8,4,6,6   H6    3.73             5
+29     a-D-Kdop     8,4,6,6   H7    3.99             5
+30        Allyl               C1   71.10           999
+31        Allyl               C2  134.30           999
+32        Allyl               C3  119.30           999
+33  b-D-GlcpNAc           1   C1  100.90             1
+34  b-D-GlcpNAc           1   C2   56.40             1
+35  b-D-GlcpNAc           1   C3   75.00             1
+36  b-D-GlcpNAc           1   C4   70.80             1
+37  b-D-GlcpNAc           1   C5   75.80             1
+38  b-D-GlcpNAc           1   C6   70.30             1
+39  b-D-GlcpNAc           1   CO  175.60             1
+40  b-D-GlcpNAc           1  CH3   23.20             1
+41  b-D-GlcpNAc         6,1   C1  102.20             2
+42  b-D-GlcpNAc         6,1   C2   56.60             2
+43  b-D-GlcpNAc         6,1   C3   74.90             2
+44  b-D-GlcpNAc         6,1   C4   72.10             2
+45  b-D-GlcpNAc         6,1   C5   75.50             2
+46  b-D-GlcpNAc         6,1   C6   63.60             2
+47  b-D-GlcpNAc         6,1   CO  175.30             2
+48  b-D-GlcpNAc         6,1  CH3   23.30             2
+49     a-D-Kdop       6,6,1   C1  176.00             3
+50     a-D-Kdop       6,6,1   C2  101.40             3
+51     a-D-Kdop       6,6,1   C3   34.50             3
+52     a-D-Kdop       6,6,1   C4   70.60             3
+53     a-D-Kdop       6,6,1   C5   66.00             3
+54     a-D-Kdop       6,6,1   C6   72.20             3
+55     a-D-Kdop       6,6,1   C7   70.80             3
+56     a-D-Kdop       6,6,1   C8   64.30             3
+57     a-D-Kdop     4,6,6,1   C1  176.50             4
+58     a-D-Kdop     4,6,6,1   C2  100.90             4
+59     a-D-Kdop     4,6,6,1   C3   35.50             4
+60     a-D-Kdop     4,6,6,1   C4   66.90             4
+61     a-D-Kdop     4,6,6,1   C5   68.00             4
+62     a-D-Kdop     4,6,6,1   C6   72.80             4
+63     a-D-Kdop     4,6,6,1   C7   71.30             4
+64     a-D-Kdop     4,6,6,1   C8   64.30             4
+65     a-D-Kdop   8,4,6,6,1   C1  175.70             5
+66     a-D-Kdop   8,4,6,6,1   C2  100.60             5
+67     a-D-Kdop   8,4,6,6,1   C3   35.30             5
+68     a-D-Kdop   8,4,6,6,1   C4   67.00             5
+69     a-D-Kdop   8,4,6,6,1   C5   67.50             5
+70     a-D-Kdop   8,4,6,6,1   C6   72.20             5
+71     a-D-Kdop   8,4,6,6,1   C7   70.30             5
+72     a-D-Kdop   8,4,6,6,1   C8   64.10             5
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0   b-D-GlcpNAc              H1    4.58             1
+1   b-D-GlcpNAc              H2    3.75             1
+2   b-D-GlcpNAc              H3    3.57             1
+3   b-D-GlcpNAc              H4    3.48             1
+4   b-D-GlcpNAc              H5    3.61             1
+5   b-D-GlcpNAc              H6    4.24             1
+6   b-D-GlcpNAc              H6    3.69             1
+7   b-D-GlcpNAc          6   H1    4.58             2
+8   b-D-GlcpNAc          6   H2    3.78             2
+9   b-D-GlcpNAc          6   H3    3.57             2
+10  b-D-GlcpNAc          6   H4    3.43             2
+11  b-D-GlcpNAc          6   H5    3.61             2
+12  b-D-GlcpNAc          6   H6    3.67             2
+13     a-D-Kdop        6,6  H31    1.97             3
+14     a-D-Kdop        6,6  H32    2.06             3
+15     a-D-Kdop        6,6   H4    4.18             3
+16     a-D-Kdop        6,6   H5    4.12             3
+17     a-D-Kdop        6,6   H6    3.67             3
+18     a-D-Kdop        6,6   H7    3.97             3
+19     a-D-Kdop        6,6  H81    3.94             3
+20     a-D-Kdop        6,6  H82    3.77             3
+21     a-D-Kdop      4,6,6  H31    1.80             4
+22     a-D-Kdop      4,6,6  H32    2.19             4
+23     a-D-Kdop      4,6,6   H4    4.12             4
+24     a-D-Kdop      4,6,6   H5    4.08             4
+25     a-D-Kdop      4,6,6   H6    3.65             4
+26     a-D-Kdop      4,6,6   H7    4.04             4
+27     a-D-Kdop      4,6,6   H8    3.81             4
+28        Allyl              C1   71.20           999
+29        Allyl              C2  134.30           999
+30        Allyl              C3  119.30           999
+31  b-D-GlcpNAc          1   C1  101.00             1
+32  b-D-GlcpNAc          1   C2   56.50             1
+33  b-D-GlcpNAc          1   C3   75.10             1
+34  b-D-GlcpNAc          1   C4   71.10             1
+35  b-D-GlcpNAc          1   C5   75.80             1
+36  b-D-GlcpNAc          1   C6   70.10             1
+37  b-D-GlcpNAc          1   CO  175.60             1
+38  b-D-GlcpNAc          1  CH3   23.20             1
+39  b-D-GlcpNAc        6,1   C1  102.50             2
+40  b-D-GlcpNAc        6,1   C2   56.60             2
+41  b-D-GlcpNAc        6,1   C3   75.00             2
+42  b-D-GlcpNAc        6,1   C4   71.60             2
+43  b-D-GlcpNAc        6,1   C5   75.50             2
+44  b-D-GlcpNAc        6,1   C6   63.20             2
+45  b-D-GlcpNAc        6,1   CO  175.30             2
+46  b-D-GlcpNAc        6,1  CH3   23.40             2
+47     a-D-Kdop      6,6,1   C1  175.70             3
+48     a-D-Kdop      6,6,1   C2  100.90             3
+49     a-D-Kdop      6,6,1   C3   34.30             3
+50     a-D-Kdop      6,6,1   C4   69.50             3
+51     a-D-Kdop      6,6,1   C5   65.50             3
+52     a-D-Kdop      6,6,1   C6   72.60             3
+53     a-D-Kdop      6,6,1   C7   70.80             3
+54     a-D-Kdop      6,6,1   C8   64.40             3
+55     a-D-Kdop    4,6,6,1   C1  176.70             4
+56     a-D-Kdop    4,6,6,1   C2  100.40             4
+57     a-D-Kdop    4,6,6,1   C3   35.50             4
+58     a-D-Kdop    4,6,6,1   C4   67.00             4
+59     a-D-Kdop    4,6,6,1   C5   67.30             4
+60     a-D-Kdop    4,6,6,1   C6   73.60             4
+61     a-D-Kdop    4,6,6,1   C7   70.90             4
+62     a-D-Kdop    4,6,6,1   C8   64.50             4
+
+a-D-FucpNAc-(1-4)-a-D-GalpNac-(1-3)-b-D-Manp-(1-2)-erythritol.csv
+       Residual Connection    Atom   Shift  Residual Num
+0    ERYTHRITOL                H11    3.74           999
+1    ERYTHRITOL                H12    3.82           999
+2    ERYTHRITOL                 H2    3.84           999
+3    ERYTHRITOL                 H3    3.82           999
+4    ERYTHRITOL                H41    4.61           999
+5    ERYTHRITOL                H42    3.73           999
+6      B-D-MANP          2      H1    4.77             1
+7      B-D-MANP          2      H2    4.23             1
+8      B-D-MANP          2      H3    3.69             1
+9      B-D-MANP          2      H4    3.71             1
+10  A-D-GALPNAC       2, 3      H1    5.19             2
+11  A-D-GALPNAC       2, 3      H2    4.22             2
+12  A-D-GALPNAC       2, 3      H3    4.08             2
+13  A-D-GALPNAC       2, 3      H4    4.01             2
+14  A-D-GALPNAC       2, 3      H5    4.16             2
+15  A-D-GALPNAC       2, 3     H61    3.73             2
+16  A-D-GALPNAC       2, 3     H52    3.73             2
+17  A-D-GALPNAC       2, 3  Ch3CON    2.08             2
+18  A-D-FUCPNAC    2, 3, 4      H1    4.87             3
+19  A-D-FUCPNAC    2, 3, 4      H2    4.15             3
+20  A-D-FUCPNAC    2, 3, 4      H3    4.02             3
+21  A-D-FUCPNAC    2, 3, 4      H4    3.83             3
+22  A-D-FUCPNAC    2, 3, 4      H5    4.43             3
+23  A-D-FUCPNAC    2, 3, 4      H6    1.17             3
+24  A-D-FUCPNAC    2, 3, 4  Ch3CON    2.02             3
+25   ERYTHRITOL                 C1   62.80           999
+26   ERYTHRITOL                 C2   82.60           999
+27   ERYTHRITOL                 C3   72.30           999
+28   ERYTHRITOL                 C4   63.70           999
+29     B-D-MANP          2      C1  101.30             1
+30     B-D-MANP          2      C2   72.10             1
+31     B-D-MANP          2      C3   82.50             1
+32     B-D-MANP          2      C4   67.40             1
+33     B-D-MANP          2      C5   77.60             1
+34     B-D-MANP          2      C6   62.40             1
+35  A-D-GALPNAC       2, 3      C1  101.20             2
+36  A-D-GALPNAC       2, 3      C2   51.50             2
+37  A-D-GALPNAC       2, 3      C3   68.50             2
+38  A-D-GALPNAC       2, 3      C4   78.80             2
+39  A-D-GALPNAC       2, 3      C5   73.80             2
+40  A-D-GALPNAC       2, 3      C6   62.30             2
+41  A-D-GALPNAC       2, 3      C7   23.30             2
+42  A-D-GALPNAC       2, 3  Ch3CON  175.90             2
+43  A-D-FUCPNAC    2, 3, 4      C1   99.90             3
+44  A-D-FUCPNAC    2, 3, 4      C2   51.30             3
+45  A-D-FUCPNAC    2, 3, 4      C3   68.70             3
+46  A-D-FUCPNAC    2, 3, 4      C4   72.60             3
+47  A-D-FUCPNAC    2, 3, 4      C5   68.80             3
+48  A-D-FUCPNAC    2, 3, 4      C6   16.70             3
+49  A-D-FUCPNAC    2, 3, 4  Ch3CON   23.30             3
+50  A-D-FUCPNAC    2, 3, 4  Ch3CON  175.80             3
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-1)-Allyl.csv
+    Residual Connection Atom   Shift  Residual Num
+0      allyl             H11    3.97           999
+1      allyl             H12    3.87           999
+2      allyl              H2    5.98           999
+3      allyl             H31    5.26           999
+4      allyl             H32    5.36           999
+5   a-D-Kdop          1  H31    1.81             1
+6   a-D-Kdop          1  H32    2.06             1
+7   a-D-Kdop          1   H4    4.11             1
+8   a-D-Kdop          1   H5    4.05             1
+9   a-D-Kdop          1   H6    3.67             1
+10  a-D-Kdop          1   H7    4.00             1
+11  a-D-Kdop          1  H81    3.63             1
+12  a-D-Kdop          1  H82    3.63             1
+13  a-D-Kdop        8,1  H31    1.81             2
+14  a-D-Kdop        8,1  H32    2.05             2
+15  a-D-Kdop        8,1   H4    4.06             2
+16  a-D-Kdop        8,1   H5    3.99             2
+17  a-D-Kdop        8,1   H6    3.59             2
+18  a-D-Kdop        8,1   H7    3.93             2
+19  a-D-Kdop        8,1  H81    3.65             2
+20  a-D-Kdop        8,1  H82    3.91             2
+21     allyl              C1   65.10           999
+22     allyl              C2  134.60           999
+23     allyl              C3  118.30           999
+24  a-D-Kdop          1   C1  176.70             1
+25  a-D-Kdop          1   C2  100.90             1
+26  a-D-Kdop          1   C3   34.90             1
+27  a-D-Kdop          1   C4   66.80             1
+28  a-D-Kdop          1   C5   67.10             1
+29  a-D-Kdop          1   C6   72.20             1
+30  a-D-Kdop          1   C7   68.50             1
+31  a-D-Kdop          1   C8   65.70             1
+32  a-D-Kdop        8,1   C1  176.10             2
+33  a-D-Kdop        8,1   C2  101.40             2
+34  a-D-Kdop        8,1   C3   34.70             2
+35  a-D-Kdop        8,1   C4   66.70             2
+36  a-D-Kdop        8,1   C5   67.00             2
+37  a-D-Kdop        8,1   C6   72.50             2
+38  a-D-Kdop        8,1   C7   70.10             2
+39  a-D-Kdop        8,1   C8   63.90             2
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+    Residual      Connection Atom   Shift  Residual Num
+0   B-D-FRUF                  H11    3.74           999
+1   B-D-FRUF                  H12    3.68           999
+2   B-D-FRUF                   H3    4.18           999
+3   B-D-FRUF                   H4    4.09           999
+4   B-D-FRUF                   H5    3.84           999
+5   B-D-FRUF                  H61    3.83           999
+6   B-D-FRUF                  H62    3.75           999
+7   B-D-FRUF               2  H11    3.85           999
+8   B-D-FRUF               2  H12    3.75           999
+9   B-D-FRUF               2   H3    4.26           999
+10  B-D-FRUF               2   H4    4.11           999
+11  B-D-FRUF               2   H5    3.81           999
+12  B-D-FRUF               2  H61    3.85           999
+13  B-D-FRUF               2  H62    3.75           999
+14  B-D-FRUF            2, 2  H11    3.95           999
+15  B-D-FRUF            2, 2  H12    3.84           999
+16  B-D-FRUF            2, 2   H3    4.31           999
+17  B-D-FRUF            2, 2   H4    4.04           999
+18  B-D-FRUF            2, 2   H5    3.82           999
+19  B-D-FRUF            2, 2  H61    3.81           999
+20  B-D-FRUF            2, 2  H62    3.77           999
+21  A-D-GLCP         2, 2, 2   H1    5.69             1
+22  A-D-GLCP         2, 2, 2   H2    3.62             1
+23  A-D-GLCP         2, 2, 2   H3    3.88             1
+24  A-D-GLCP         2, 2, 2   H4    3.48             1
+25  A-D-GLCP         2, 2, 2   H5    3.94             1
+26  A-D-GLCP         2, 2, 2   H6    3.79             1
+27  A-D-GLCP      2, 2, 2, 2   H1    5.36             2
+28  A-D-GLCP      2, 2, 2, 2   H2    3.67             2
+29  A-D-GLCP      2, 2, 2, 2   H3    3.87             2
+30  A-D-GLCP      2, 2, 2, 2   H4    3.48             2
+31  A-D-GLCP      2, 2, 2, 2   H5    3.79             2
+32  A-D-GLCP      2, 2, 2, 2  H61    3.86             2
+33  A-D-GLCP      2, 2, 2, 2  H62    3.75             2
+34  A-D-GLCP   2, 2, 2, 2, 2   H1    5.10             3
+35  A-D-GLCP   2, 2, 2, 2, 2   H2    3.57             3
+36  A-D-GLCP   2, 2, 2, 2, 2   H3    3.81             3
+37  A-D-GLCP   2, 2, 2, 2, 2   H4    3.44             3
+38  A-D-GLCP   2, 2, 2, 2, 2   H5    3.92             3
+39  A-D-GLCP   2, 2, 2, 2, 2  H61    3.84             3
+40  A-D-GLCP   2, 2, 2, 2, 2  H62    3.79             3
+41  B-D-FRUF                   C1   61.47           999
+42  B-D-FRUF                   C2  104.54           999
+43  B-D-FRUF                   C3   77.53           999
+44  B-D-FRUF                   C4   75.12           999
+45  B-D-FRUF                   C5   81.79           999
+46  B-D-FRUF                   C6   62.92           999
+47  B-D-FRUF               2   C1   62.50           999
+48  B-D-FRUF               2   C2  104.20           999
+49  B-D-FRUF               2   C3   78.05           999
+50  B-D-FRUF               2   C4   74.85           999
+51  B-D-FRUF               2   C5   81.56           999
+52  B-D-FRUF               2   C6   62.38           999
+53  B-D-FRUF            2, 2   C1   61.47           999
+54  B-D-FRUF            2, 2   C2  104.54           999
+55  B-D-FRUF            2, 2   C3   77.53           999
+56  B-D-FRUF            2, 2   C4   75.12           999
+57  B-D-FRUF            2, 2   C5   81.79           999
+58  B-D-FRUF            2, 2   C6   62.92           999
+59  A-D-GLCP         2, 2, 2   C1   91.52             1
+60  A-D-GLCP         2, 2, 2   C2   78.39             1
+61  A-D-GLCP         2, 2, 2   C3   72.52             1
+62  A-D-GLCP         2, 2, 2   C4   69.96             1
+63  A-D-GLCP         2, 2, 2   C5   73.00             1
+64  A-D-GLCP         2, 2, 2   C6   61.01             1
+65  A-D-GLCP      2, 2, 2, 2   C1   95.72             2
+66  A-D-GLCP      2, 2, 2, 2   C2   76.39             2
+67  A-D-GLCP      2, 2, 2, 2   C3   72.18             2
+68  A-D-GLCP      2, 2, 2, 2   C4   70.13             2
+69  A-D-GLCP      2, 2, 2, 2   C5   73.33             2
+70  A-D-GLCP      2, 2, 2, 2   C6   61.24             2
+71  A-D-GLCP   2, 2, 2, 2, 2   C1   97.05             3
+72  A-D-GLCP   2, 2, 2, 2, 2   C2   72.08             3
+73  A-D-GLCP   2, 2, 2, 2, 2   C3   73.43             3
+74  A-D-GLCP   2, 2, 2, 2, 2   C4   70.22             3
+75  A-D-GLCP   2, 2, 2, 2, 2   C5   72.65             3
+76  A-D-GLCP   2, 2, 2, 2, 2   C6   61.19             3
+
+a-D-Apif.csv
+         Residual Connection Atom  Shift  Residual Num
+0   Monosaccharid              H1   5.34           999
+1   Monosaccharid              H2   3.99           999
+2   Monosaccharid             H41   3.91           999
+3   Monosaccharid             H42   4.06           999
+4   Monosaccharid             H31   3.62           999
+5   Monosaccharid             H32   3.62           999
+6   Monosaccharid              C1  97.34           999
+7   Monosaccharid              C2  72.44           999
+8   Monosaccharid             C31  78.54           999
+9   Monosaccharid              C4  73.84           999
+10  Monosaccharid             C32  65.24           999
+
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+       Residual Connection Atom    Shift  Residual Num
+0   D-GalNAc-ol              H2    4.404           999
+1   D-GalNAc-ol              H3    4.081           999
+2   D-GalNAc-ol              H4    3.541           999
+3   D-GalNAc-ol              H5    4.193           999
+4   D-GalNAc-ol              H6    3.760           999
+5   D-GalNAc-ol             NAC    2.058           999
+6      b-D-Galp          3   H1    4.525             1
+7      b-D-Galp          3   H4    3.971             1
+8   a-D-GlcpNAc        4,3   H1    4.869             2
+9   a-D-GlcpNAc        4,3   H4    3.542             2
+10  a-D-GlcpNAc        4,3   H5    4.183             2
+11  a-D-GlcpNAc        4,3  NAC    2.089             2
+12  D-GalNAc-ol              C1   61.300           999
+13  D-GalNAc-ol              C2   52.100           999
+14  D-GalNAc-ol              C3   77.100           999
+15  D-GalNAc-ol              C4   70.200           999
+16  D-GalNAc-ol              C5   69.800           999
+17  D-GalNAc-ol              C6   63.400           999
+18     b-D-Galp          3   C1  104.900             1
+19     b-D-Galp          3   C2   70.400             1
+20     b-D-Galp          3   C3   72.700             1
+21     b-D-Galp          3   C4   77.600             1
+22     b-D-Galp          3   C5   76.100             1
+23     b-D-Galp          3   C6   61.100             1
+24  a-D-GlcpNAc        4,3   C1   98.600             2
+25  a-D-GlcpNAc        4,3   C2   54.800             2
+26  a-D-GlcpNAc        4,3   C3   71.600             2
+27  a-D-GlcpNAc        4,3   C4   71.000             2
+28  a-D-GlcpNAc        4,3   C5   72.700             2
+29  a-D-GlcpNAc        4,3   C6   60.800             2
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom  Shift  Residual Num
+0   b-D-GlcpNAc              H1   4.56             1
+1   b-D-GlcpNAc              H2   3.71             1
+2   b-D-GlcpNAc              H3   3.54             1
+3   b-D-GlcpNAc              H4   3.37             1
+4   b-D-GlcpNAc              H5   3.60             1
+5   b-D-GlcpNAc             H61   4.22             1
+6   b-D-GlcpNAc             H62   3.69             1
+7   b-D-GlcpNAc          6   H1   4.55             2
+8   b-D-GlcpNAc          6   H2   3.76             2
+9   b-D-GlcpNAc          6   H3   3.55             2
+10  b-D-GlcpNAc          6   H4   3.46             2
+11  b-D-GlcpNAc          6   H5   3.59             2
+12  b-D-GlcpNAc          6  H61   3.67             2
+13  b-D-GlcpNAc          6  H62   3.61             2
+14     a-D-Kdop        6,6  H31   1.83             3
+15     a-D-Kdop        6,6  H32   2.11             3
+16     a-D-Kdop        6,6   H4   4.10             3
+17     a-D-Kdop        6,6   H5   4.05             3
+18     a-D-Kdop        6,6   H6   3.68             3
+19     a-D-Kdop        6,6   H7   3.97             3
+20     a-D-Kdop        6,6  H81   3.96             3
+21     a-D-Kdop        6,6  H82   3.69             3
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0   a-D-GlcpNAc              H1    4.92             1
+1   a-D-GlcpNAc              H2    3.93             1
+2   a-D-GlcpNAc              H3    3.77             1
+3   a-D-GlcpNAc              H4    3.47             1
+4   a-D-GlcpNAc              H5    3.87             1
+5   a-D-GlcpNAc             H61    4.18             1
+6   a-D-GlcpNAc             H62    3.71             1
+7   b-D-GlcpNAc          6   H1    4.55             2
+8   b-D-GlcpNAc          6   H2    3.78             2
+9   b-D-GlcpNAc          6   H3    3.57             2
+10  b-D-GlcpNAc          6   H4    3.45             2
+11  b-D-GlcpNAc          6   H5    3.63             2
+12  b-D-GlcpNAc          6  H61    3.69             2
+13  b-D-GlcpNAc          6  H62    3.64             2
+14     a-D-Kdop        6,6  H31    1.84             3
+15     a-D-Kdop        6,6  H32    2.11             3
+16     a-D-Kdop        6,6   H4    4.11             3
+17     a-D-Kdop        6,6   H5    4.06             3
+18     a-D-Kdop        6,6   H6    3.71             3
+19     a-D-Kdop        6,6   H7    3.99             3
+20     a-D-Kdop        6,6  H81    3.98             3
+21     a-D-Kdop        6,6  H82    3.73             3
+22        Allyl              C1   69.40           999
+23        Allyl              C2  134.70           999
+24        Allyl              C3  119.20           999
+25  a-D-GlcpNAc          1   C1   97.10             1
+26  a-D-GlcpNAc          1   C2   54.70             1
+27  a-D-GlcpNAc          1   C3   72.30             1
+28  a-D-GlcpNAc          1   C4   71.40             1
+29  a-D-GlcpNAc          1   C5   71.90             1
+30  a-D-GlcpNAc          1   C6   69.80             1
+31  a-D-GlcpNAc          1   CO  175.50             1
+32  a-D-GlcpNAc          1  CH3   23.00             1
+33  b-D-GlcpNAc        6,1   C1  102.70             2
+34  b-D-GlcpNAc        6,1   C2   56.60             2
+35  b-D-GlcpNAc        6,1   C3   75.00             2
+36  b-D-GlcpNAc        6,1   C4   71.90             2
+37  b-D-GlcpNAc        6,1   C5   75.30             2
+38  b-D-GlcpNAc        6,1   C6   63.40             2
+39  b-D-GlcpNAc        6,1   CO  175.50             2
+40  b-D-GlcpNAc        6,1  CH3   23.40             2
+41     a-D-Kdop      6,6,1   C1  176.00             3
+42     a-D-Kdop      6,6,1   C2  101.00             3
+43     a-D-Kdop      6,6,1   C3   35.20             3
+44     a-D-Kdop      6,6,1   C4   67.20             3
+45     a-D-Kdop      6,6,1   C5   67.50             3
+46     a-D-Kdop      6,6,1   C6   72.70             3
+47     a-D-Kdop      6,6,1   C7   70.70             3
+48     a-D-Kdop      6,6,1   C8   64.50             3
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-ononitol.csv
+    Residual Connection Atom    Shift  Residual Num
+0   ONONITOL              H1    3.440             1
+1   ONONITOL              H2    4.296             1
+2   ONONITOL              H3    3.733             1
+3   ONONITOL              H4    3.523             1
+4   ONONITOL              H5    3.368             1
+5   ONONITOL              H6    3.700             1
+6   ONONITOL             CH3    3.619             1
+7   A-D-GALP          3   H1    5.171             2
+8   A-D-GALP          3   H2    3.892             2
+9   A-D-GALP          3   H3    3.951             2
+10  A-D-GALP          3   H4    4.106             2
+11  A-D-GALP          3   H5    4.300             2
+12  A-D-GALP          3  H61    3.882             2
+13  A-D-GALP          3  H62    3.752             2
+14  A-D-GALP       3, 6   H1    5.039             3
+15  A-D-GALP       3, 6   H2    3.833             3
+16  A-D-GALP       3, 6   H3    3.827             3
+17  A-D-GALP       3, 6   H4    3.995             3
+18  A-D-GALP       3, 6   H5    3.990             3
+19  A-D-GALP       3, 6   H6    3.757             3
+20  ONONITOL              C1   73.540             1
+21  ONONITOL              C2   70.200             1
+22  ONONITOL              C3   77.050             1
+23  ONONITOL              C4   83.780             1
+24  ONONITOL              C5   76.560             1
+25  ONONITOL              C6   74.930             1
+26  A-D-GALP          3   C1   97.290             2
+27  A-D-GALP          3   C2   70.720             2
+28  A-D-GALP          3   C3   72.190             2
+29  A-D-GALP          3   C4   71.870             2
+30  A-D-GALP          3   C5   71.380             2
+31  A-D-GALP          3   C6   68.910             2
+32  A-D-GALP       3, 6   C1  100.460             3
+33  A-D-GALP       3, 6   C2   70.910             3
+34  A-D-GALP       3, 6   C3   72.300             3
+35  A-D-GALP       3, 6   C4   71.800             3
+36  A-D-GALP       3, 6   C5   73.580             3
+37  A-D-GALP       3, 6   C6   63.630             3
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+       Residual Connection Atom   Shift  Residual Num
+0   a-D-GlcpNAc              H1    4.88             1
+1   a-D-GlcpNAc              H2    3.90             1
+2   a-D-GlcpNAc              H3    3.74             1
+3   a-D-GlcpNAc              H4    3.41             1
+4   a-D-GlcpNAc              H5    3.83             1
+5   a-D-GlcpNAc             H61    4.17             1
+6   a-D-GlcpNAc             H62    3.67             1
+7   b-D-GlcpNAc          6   H1    4.52             2
+8   b-D-GlcpNAc          6   H2    3.76             2
+9   b-D-GlcpNAc          6   H3    3.51             2
+10  b-D-GlcpNAc          6   H4    3.44             2
+11  b-D-GlcpNAc          6   H5    3.58             2
+12  b-D-GlcpNAc          6  H61    3.63             2
+13  b-D-GlcpNAc          6  H62    3.51             2
+14     a-D-Kdop        6,6  H31    1.91             3
+15     a-D-Kdop        6,6  H32    2.01             3
+16     a-D-Kdop        6,6   H4    4.14             3
+17     a-D-Kdop        6,6   H5    4.08             3
+18     a-D-Kdop        6,6   H6    3.63             3
+19     a-D-Kdop        6,6   H7    3.91             3
+20     a-D-Kdop        6,6  H81    3.89             3
+21     a-D-Kdop        6,6  H82    3.56             3
+22     a-D-Kdop      4,6,6  H31    1.75             4
+23     a-D-Kdop      4,6,6  H32    2.13             4
+24     a-D-Kdop      4,6,6   H4    4.06             4
+25     a-D-Kdop      4,6,6   H5    4.03             4
+26     a-D-Kdop      4,6,6   H6    3.61             4
+27     a-D-Kdop      4,6,6   H7    3.97             4
+28     a-D-Kdop      4,6,6  H81    4.00             4
+29     a-D-Kdop      4,6,6  H82    3.74             4
+30        Allyl              C1   69.10           999
+31        Allyl              C2  134.50           999
+32        Allyl              C3  119.10           999
+33  a-D-GlcpNAc          1   C1   96.80             1
+34  a-D-GlcpNAc          1   C2   54.60             1
+35  a-D-GlcpNAc          1   C3   72.00             1
+36  a-D-GlcpNAc          1   C4   71.10             1
+37  a-D-GlcpNAc          1   C5   71.90             1
+38  a-D-GlcpNAc          1   C6   70.00             1
+39  a-D-GlcpNAc          1   CO  175.20             1
+40  a-D-GlcpNAc          1  CH3   22.90             1
+41  b-D-GlcpNAc        6,1   C1  102.60             2
+42  b-D-GlcpNAc        6,1   C2   56.50             2
+43  b-D-GlcpNAc        6,1   C3   75.00             2
+44  b-D-GlcpNAc        6,1   C4   71.60             2
+45  b-D-GlcpNAc        6,1   C5   75.40             2
+46  b-D-GlcpNAc        6,1   C6   63.10             2
+47  b-D-GlcpNAc        6,1   CO  175.30             2
+48  b-D-GlcpNAc        6,1  CH3   23.30             2
+49     a-D-Kdop      6,6,1   C1  175.70             3
+50     a-D-Kdop      6,6,1   C2  100.90             3
+51     a-D-Kdop      6,6,1   C3   34.30             3
+52     a-D-Kdop      6,6,1   C4   69.60             3
+53     a-D-Kdop      6,6,1   C5   65.50             3
+54     a-D-Kdop      6,6,1   C6   72.50             3
+55     a-D-Kdop      6,6,1   C7   70.80             3
+56     a-D-Kdop      6,6,1   C8   64.30             3
+57     a-D-Kdop    4,6,6,1   C1  176.60             4
+58     a-D-Kdop    4,6,6,1   C2  100.50             4
+59     a-D-Kdop    4,6,6,1   C3   35.50             4
+60     a-D-Kdop    4,6,6,1   C4   66.90             4
+61     a-D-Kdop    4,6,6,1   C5   67.20             4
+62     a-D-Kdop    4,6,6,1   C6   73.50             4
+63     a-D-Kdop    4,6,6,1   C7   70.90             4
+64     a-D-Kdop    4,6,6,1   C8   64.30             4
+
+a-D-Manp-(1-2)-a-D-Manp-(1-3)-Ser.csv
+    Residual Connection Atom   Shift  Residual Num
+0        Ser              HA    3.97           999
+1        Ser             HB1    4.12           999
+2        Ser             HB2    3.88           999
+3   a-D-Manp          3   H1    5.12             1
+4   a-D-Manp          3   H2    4.00             1
+5   a-D-Manp          3   H3    3.95             1
+6   a-D-Manp          3   H4    3.69             1
+7   a-D-Manp          3   H5    3.64             1
+8   a-D-Manp          3  H61    3.91             1
+9   a-D-Manp          3  H62    3.77             1
+10  a-D-Manp        2,3   H1    5.02             2
+11  a-D-Manp        2,3   H2    4.06             2
+12  a-D-Manp        2,3   H3    3.83             2
+13  a-D-Manp        2,3   H4    3.62             2
+14  a-D-Manp        2,3   H5    3.76             2
+15  a-D-Manp        2,3  H61    3.90             2
+16  a-D-Manp        2,3  H62    3.72             2
+17       Ser              CO  172.69           999
+18       Ser              CA   55.43           999
+19       Ser              CB   67.40           999
+20  a-D-Manp          3   C1   99.73             1
+21  a-D-Manp          3   C2   79.07             1
+22  a-D-Manp          3   C3   70.80             1
+23  a-D-Manp          3   C4   67.72             1
+24  a-D-Manp          3   C5   73.98             1
+25  a-D-Manp          3   C6   61.81             1
+26  a-D-Manp        2,3   C1  102.96             2
+27  a-D-Manp        2,3   C2   70.80             2
+28  a-D-Manp        2,3   C3   71.17             2
+29  a-D-Manp        2,3   C4   67.72             2
+30  a-D-Manp        2,3   C5   74.10             2
+31  a-D-Manp        2,3   C6   61.97             2

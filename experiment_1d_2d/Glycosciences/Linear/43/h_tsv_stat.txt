@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-D-Galp	81%	5.25	3.81	3.91	4	4.12	3.73

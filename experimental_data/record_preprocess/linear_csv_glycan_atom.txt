@@ -1,0 +1,923 @@
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H11' 'H12' 'H2' 'H31' 'H32' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6'
+ 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'C1' 'C2'
+ 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C7' 'C8']
+
+repeat-2)-b-D-GlcpA-(1-3)-a-D-GalpNAc-(1-3)-a-D-GalpNAc-(1-2)-a-L-Fucp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Xylp-(1-6)-b-D-Glcp-(1-4)-D-Glc-ol.csv
+['H12' 'H11' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-GalpNAc-(1-4)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-6)-b-D-Glcp-(1-6)-b-D-GlcpNAc-(1-2)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'GlyH11' 'GlyH12' 'GlyH2' 'GlyH3'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'NAc' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-D-Rhap4NAc-(1-3)-a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-2)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Idop.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-4)-a-D-GlcpNAc-(1-4)-a-D-GlcpA-(1-3)-a-D-Galp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-GalpA-(1-3)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-4)-a-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+P-(O-4)-a-D-Glcp-(1-1)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-4)-a-D-GlcpA-(1-3)-a-D-Glcp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-4)-a-D-GlcpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3'
+ 'C4' 'C5']
+
+a-D-Araf.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-GlcpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-6)-b-D-Glcp-(1-3)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-3)-a-L-Rhap-(1-2)-Groal.csv
+['H1' 'H2' 'H31' 'H32' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H6' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-3)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Ribp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-D-Fruf-(2-6)-b-D-Fruf.csv
+['H1 a' 'H1 b' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1 a' 'H1 b' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-b-D-Galp-(1-4)-a-D-GlcpNAc-(1-4)-b-D-Glcp-(1-3)-b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C24' 'C25' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN4PO4-(1-6)-a-D-GlcpN1PO4.csv
+['H1' 'H2' 'H31' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H31' 'H4' 'H5' 'H61'
+ 'H62' 'H31' 'H32' 'H4' 'H5' 'H61' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5'
+ 'H61' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H61' 'H7' 'H81' 'H82' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Galp-(1-3)-b-D-GalpNAc-(1-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-4)-b-D-GalpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Manp-(1-2)-a-D-Manp-(1-2)-b-D-Manp-(1-3)-a-D-GalpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a'
+ 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+repeat-4)-b-D-Galp-(1-4)-a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Ribf-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'NAC' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-L-Fucp-(1-2)-b-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-a-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA2SO3-(1-4)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+['H11' 'H12' 'H3' 'H4' 'H61' 'H62' 'H11' 'H12' 'H3' 'H4' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.csv
+['H11' 'H12' 'H2' 'H31' 'H32' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82'
+ nan 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Ribp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+Repeat-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-6)-b-D-Galp-(1-4)-b-D-Galp-(1-4)-b-D-GlcpNAc-(1-.csv
+['H1' 'H2' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+VERSION2_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+['H1' 'H1' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H1' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galf-(1-3)-b-D-GalpNAc-(1-3)-b-D-Galp-(4-1)-a-D-Glcp-(6-1)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Manp-(1-2)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Galp-(1-6)-D-GlcpN-(1-4)-D-glcpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-L-Rhap-(1-4)-a-D-Glcp-(1-3)-b-L-Rhap-(1-4)-b-D-Glcp-(1-4)-a-D-Glcp-(3-1)-a-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Manp-(1-3)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Manp-(1-2)-b-D-manp-(1-3)-a-D-GlcpNAc-(1-6)-a-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp2SO33SO34SO3-(1-2)-a-L-Fucp3SO34SO3-(1-1)-propyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+['H11' 'H12' 'H3' 'H4' 'H5' 'H61' 'H62' 'H11' 'H12' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'H11' 'H12' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-b-L-Galp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-a-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-GlcpNac-(1-4)-a-D-GlcpNac.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H81' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Glcp-(1-3)-b-L-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Apif.csv
+['H1' 'H2' 'H41' 'H42' 'H31' 'H32' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GalpANAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H31' 'H32' 'H4' 'H5' 'H61' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H61'
+ 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H61' 'H7' 'H81' 'H82' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C3' 'C4' 'C5' 'C6'
+ 'C7' 'C8' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+Repeat-2)-a-L-Rhap-(1-3)-a-D-Galp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-a-L-Rhap-(1-3)-b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-3)-b-D-GlcpA-(1-3)-a-L-Rhap-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Xylp-(1-3)-L-Ara-ol.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-D-Galp-(1-3)-b-D-Glcp-(1-3)-b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-a-L-Galp-(2-1)-b-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-2)-b-D-Glc1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Araf.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-L-Rhap-(1-3)-b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Kdop-(2-3)-b-D-Galp-(1-4)-a-D-Galp-(1-3)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H3 a' 'H3 b' 'H4' 'H5' 'H6' 'H7' 'H8' 'C1' 'C2' 'C3' 'C4'
+ 'C1' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7'
+ 'C8']
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H11' 'H12' 'H2' 'H31' 'H32' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+b-D-GlcpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+repeat-4)-a-D-Glcp-(1-4)-a-D-GlcpA-(1-3)-a-D-Galp-(1-3)-b-D-ManpNAc-(1-4)-b-D-Glcp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-L-Fucp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA2SO3-(1-4)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-4)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(3-1)-a-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-b-D-Glcp-(1-4)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'C1' 'C2' 'C3' 'C4' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+['H1' 'H12' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H1'
+ 'H5' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GalpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GalpNAc-(1-6)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C5' 'C6']
+
+b-D-GalpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-a-L-Galp-(2-1)-b-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2'
+ 'C3' 'C4' 'C5']
+
+a-D-Manp-(1-2)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpA-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-b-D-Galp-(1-2)-a-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5']
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H11' 'H12' 'H2' 'H31' 'H32' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6'
+ 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C7' 'C8']
+
+a-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']
+
+VERSION1_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+['H11' 'H12' 'H3' 'H4' 'H5' 'H61' 'H62' 'H11' 'H12' 'H3' 'H4' 'H5' 'H6'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-b-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H31' 'H32' 'H4'
+ 'H5' 'H6' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H31' 'H32'
+ 'H4' 'H5' 'H6' 'H7' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO'
+ 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C7' 'C8']
+
+b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']
+
+b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-b-L-Galp-(2-1)-b-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H5 ax' 'H5 eq' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5 ax' 'H5 eq' 'H1' 'H2' 'H3' 'H4' 'H5 ax' 'H5 eq' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H31' 'H32' 'H4'
+ 'H5' 'H6' 'H7' 'H8' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H31' 'H32' 'H4' 'H5'
+ 'H6' 'H7' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7'
+ 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C7' 'C8']
+
+b-D-Manp-(1-2)-b-D-Manp-(1-2)-b-D-Manp-(1-2)-b-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+P-(O-2)-a-D-Glcp-(1-1)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H31'
+ 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7'
+ 'H8' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-FucpNAc-(1-4)-a-D-GalpNac-(1-3)-b-D-Manp-(1-2)-erythritol.csv
+['H11' 'H12' 'H2' 'H3' 'H41' 'H42' 'H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H61' 'H52' 'Ch3CON' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'Ch3CON' 'C1'
+ 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C7' 'Ch3CON' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'Ch3CON' 'Ch3CON']
+
+Repeat-6)-a-D-Glcp-(1-2)-a-D-Galp-(1-6)-a-D-Galp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-3)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-1)-Allyl.csv
+['H11' 'H12' 'H2' 'H31' 'H32' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+repeat-4)-a-D-GalpA-(1-3)-a-D-Manp-(1-4)-b-D-Glcp-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Manp-(1-3)-b-D-ManpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-4)-a-L-IdopA-(1-4)-a-D-GlcpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'NH' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6PS'
+ 'H6PR' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6']
+
+b-D-Lyxp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-Lyxp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-D-Glcp-(1-4)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp2SO34SO3-(1-4)-a-L-Fucp2SO3.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Galp-(1-2)-a-L-Rhap-(1-3)-b-D-Manp-(1-4)-b-D-Manp-(1-4)-a-D-Galp-(1-3)-b-D-Galp-(2-1)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-3)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-2)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-2)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'Ome' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GalpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']
+
+Repeat-3)-a-L-Rhap-(1-2)-a-L-Rhap-(1-4)-a-D-GlcpA-(1-2)-a-D-Manp-(1-2)-a-D-Manp-(1-3)-a-D-Galp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-3)-b-D-Galp-(1-3)-b-D-GalpNAc-(1-4)-b-D-Galp-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-3)-b-D-Galp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-3)-a-L-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-3)-b-D-Galp-(1-3)-b-D-GalpNAc-(1-3)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Xylp-(1-3)-a-L-Arap.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-L-Rhap-(1-2)-b-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+['H11' 'H12' 'H3' 'H4' 'H5' 'H61' 'H62' 'H11' 'H12' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'H11' 'H12' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Apif.csv
+['H1' 'H2' 'H41' 'H42' 'H31' 'H32' 'C1' 'C2' 'C31' 'C4' 'C32']
+
+a-L-Rhap-(1-3)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-ManpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAc' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']
+
+b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-2)-b-D-GalpA-(1-3)-a-D-GalpNAc-(1-4)-a-D-GalpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H8' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAc' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CH3' 'CO' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CH3' 'CO']
+
+Repeat-6)-a-D-Glcp-(1-4)-b-D-GlcpA-(1-4)-b-D-GalpNAc3Ac-(1-3)-a-D-Galp-(1-3)-b-D-GalpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' '3ACCH3' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-2)-b-D-Galp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-b-D-Glcp-(1-4)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'C1' 'C4' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-4)-a-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'Me' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'Me' 'C1' 'C2' 'C3' 'C4' 'C5' 'CH3' 'CO' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'CH3' 'CO']
+
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+['H2' 'H3' 'H4' 'H5' 'H6' 'NAC' 'H1' 'H4' 'H1' 'H4' 'H5' 'NAC' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6']
+
+b-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-6)-b-D-Galf-(1-5)-b-D-Galf-(1-5)-b-D-Galf-(1-5)-b-D-Galf-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Ribf.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H11' 'H12' 'H2' 'H3' 'H4' 'H5' 'H6'
+ 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'NAc' 'CO' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'NAc' 'CO' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'NAc' 'CO' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-a-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-3)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b'
+ 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CH3'
+ 'CO']
+
+b-D-Glcp-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpA-(1-4)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(3-1)-a-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-6)-b-D-Galp-(1-3)-a-D-GalpNac.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'CH3' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C-O' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C-O' 'CH3']
+
+a-D-Glcp-(1-4)-b-D-ManpA1NAc3NAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-ManpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-2)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82']
+
+a-L-Fucp-(1-2)-a-D-Manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-3)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'NAc' 'CO' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'NAc' 'CO' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C23' 'C24' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+repeat-4)-b-D-ManpNAc-(1-4)-a-D-GlcpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' nan 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3']
+
+a-D-GalpNAc-(1-4)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpA-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpASo3-(1-4)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+P-(O-3)-a-D-Glcp-(1-1)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-6)-a-D-Glcp-(1-3)-a-L-Rhap2Ac-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Galf-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-2)-a-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-L-Fucp-(1-2)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-GlcpNAc-(1-4)-b-D-GlcpNAc.csv
+['H1' 'H3' 'H4' 'H4' 'H5' 'H6 a' 'H6 b' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CH3' 'CO' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'CH3' 'CO']
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-a-D-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4'
+ 'C5']
+
+b-D-Quip3Nac-(1-6)-a-D-GlcpNAc-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-6)-a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Idop.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Glcp-(1-4)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-b-D-Rhap.csv
+['H1' 'H2' 'H3' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1'
+ 'C2' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-L-Fucp-(1-2)-b-L-Rhap.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+Repeat-3)-a-D-Rhap-(1-3)-a-D-Rhap-(1-4)-a-D-GalpNAc-(1-.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'CH3' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+P-(O-6)-a-D-Glcp-(1-1)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Manp-(1-3)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-GlcpNAc-(1-4)-a-D-GlcpNAc-(1-4)-a-D-Kdop.csv
+['H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H6' 'H81' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-GlcpNAc-(1-4)-b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H61' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-ononitol.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Glcp-(1-6)-a-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-2)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-d-manp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-Ribf.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Quip-(1-6)-b-D-Galp-(1-6)-b-D-GlcpNAc-(1-6)-b-D-Galp-(1-3)-b-D-GlcpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3CO' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H8' 'CH3CO' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6 a' 'C6 b' 'CH3CO' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H31' 'H32' 'H4' 'H5' 'H6'
+ 'H7' 'H81' 'H82' 'C1' 'C2' 'C3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8']
+
+a-D-Manp-(1-2)-a-D-Manp-(1-3)-Ser.csv
+['HA' 'HB1' 'HB2' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H61' 'H62' 'CO' 'CA' 'CB' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-3)-a-D-GalpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C-O' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6']
+
+a-D-Glcp-(1-2)-b-D-Glcp-(1-3)-b-D-GlcpNAc-(1-3)-b-D-Glcp.csv
+['H1' 'H2' 'H3' 'H4' 'H1' 'H2' 'H3' 'H4' 'NAc' 'H1' 'H2' 'H3' 'H4' 'H1'
+ 'H2' 'H3' 'H4' 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4' 'NAc-CH3' 'NAc-CO'
+ 'C1' 'C2' 'C3' 'C4' 'C1' 'C2' 'C3' 'C4']
+
+a-L-Fucp-(1-2)-a-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Fucp-(1-3)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Galp-(1-3)-b-D-Glcp-(1-3)-b-D-Xylp-(1-4)-b-D-Xylp-(1-4)-b-L-Galp-(2-1)-b-D-Xylp.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-3)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-Ribf-(1-4)-b-D-Galp-(1-3)-a-D-GlcpNac-(1-4)-a-D-GalpA.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2'
+ 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-D-Galp-(1-3)-b-D-GlcpNAc.csv
+['H1' 'H3' 'H4' 'H4' 'H5' 'H61' 'H62' 'CH3' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61'
+ 'H62' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CH3' 'CO' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C6']
+
+b-D-Xylp-(1-3)-b-L-Arap.csv
+['H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'H1' 'H2' 'H3' 'H4' 'H51' 'H52' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C1' 'C2' 'C3' 'C4' 'C5']
+
+b-L-Fucp-(1-3)-b-D-Glcp1OMe.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6a' 'H6b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'OMe' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-a-D-FucpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3'
+ 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6']
+
+a-L-Rhap-(1-3)-b-D-Galp-(1-4)-b-D-GalpNAc-(3-1)-b-D-Galp.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+b-D-ManpNAc.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAc' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'CH3' 'CO']

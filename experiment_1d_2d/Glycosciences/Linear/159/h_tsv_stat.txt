@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	a-D-Apif	12%	?	?	-	3.76-4.08	3.53

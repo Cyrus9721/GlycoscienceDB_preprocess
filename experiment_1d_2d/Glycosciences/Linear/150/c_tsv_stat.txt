@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-GalpNA	73%	96.2	53.7	72.1	70.5	75.9	174.6
+2	Ac	88%	175.3	23.3

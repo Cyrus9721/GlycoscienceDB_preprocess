@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-L-Rhap	100%	95.2	72.1	71.3	73.5	69.5	18.0

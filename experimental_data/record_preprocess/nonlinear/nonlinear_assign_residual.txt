@@ -1,0 +1,94 @@
+1, Assign residue number to Nonlinear glycans
+
+1.1, two 'H1' in one residue:
+DB26476.csv
+Correction: all carbon and hydrogen looks good, just miss lots of atoms
+
+1.2, Missing H1 in residuals, the initial atom is H31 in some residual
+DB26370.csv
+DB9023.csv
+DB26431.csv
+DB22507.csv
+DB26959.csv
+DB12870.csv
+
+1.3, The carbon and hydrogen looks both wierd
+DB26479.csv
+['H1' 'H2' 'H3' 'H4' 'H5' 'H6 a' 'H6 b' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H6' 'H1' 'H2' 'H3' 'H4' 'H5' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H1' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H22' 'H1' 'C1' 'C2' 'C3' 'C4'
+ 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C1' 'C2' 'C3' 'C4' 'C5'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C1']
+ It seems that the .csv file contain ME, ignore this shift when preprocessing
+
+1.4, Missing H1 in residuals, the initial atom is H3 ax in some residual
+DB26475.csv
+DB26378.csv
+
+1.5, Missing H1 in residual, the initial atom is H3, H3 ax in some residual
+DB26467.csv
+
+1.6, Missing H1 in residual, the initial atom is H3ax in some residual
+DB26928.csv
+
+1.7 Both Carbon and hydrogen loos wierd:
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc.csv
+6 residuals intotal,
+Missing two C1 carbon
+Missing one hydrogen, the 4th residual initial is H31
+
+['H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H8' 'H91' 'H92'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H8'
+ 'H11' 'H12' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C9'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C9']
+
+1.8 Wierd glycan:
+it contain 10 residual,
+The thrid residual seems inital with H31
+['H11' 'H12' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4'
+ 'H5' 'H61' 'H62' 'NAC' 'H31' 'H32' 'H4' 'H5' 'H6' 'H7' 'H81' 'H82' 'H1'
+ 'H2' 'H3' 'H4' 'H5' 'H6' 'H71' 'H72' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62'
+ 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H71'
+ 'H72' 'H1' 'H2' 'H3' 'H4' 'H5' 'H6' 'H71' 'H72' 'H1' 'H2' 'H3' 'H4' 'H5'
+ 'H61' 'H62' 'NAC' 'H1' 'H2' 'H3' 'H4' 'H5' 'H61' 'H62' 'C1' 'C2' 'C3'
+ 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1'
+ 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C8' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7'
+ 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'C7' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6' 'C7' 'C1' 'C2'
+ 'C3' 'C4' 'C5' 'C6' 'CO' 'CH3' 'C1' 'C2' 'C3' 'C4' 'C5' 'C6']
+
+1.9 Wierd glycan
+DB26879.csv
+The third, fourth and fifth residual initial as H31.
+
+1.10 Wierd glycan
+DB26910
+First residual miss H1
+First residual miss C1
+
+2, The assigned residual number is inconsistent with the maximum number of residuals from the SWECON file.
+
+DB26370.csv
+DB26379.csv
+DB26510.csv
+DB26431.csv
+DB26378.csv
+DB22507.csv
+DB26682.csv
+DB17331.csv
+DB26380.csv
+DB26467.csv
+DB26502.csv
+DB26908.csv
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc.csv
+DB12870.csv
+DB22506.csv
+LFucpa1-3[DGalpb1-4]DGlcpNAcb1-3DGalpb1-4DGlc.csv
+DB22505.csv
+DB26879.csv
+DB26910.csv
+
+3, Some records for linear glycans

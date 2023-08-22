@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-ManpN	84%	94.0	54.3	73.1	67.9	77.2	61.7
+2	Ac	80%	175.9	23.2

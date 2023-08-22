@@ -1,0 +1,111 @@
+07/15/2022 13:47:27
+bDGlcNAc(1->3)bDGal(1->4)bDGlcNAc(1->3)aDGalNAcOMe
+ATOM      1  C1  DGalNAc    1       1.374  -0.843   0.163  0.00  0.00  C1 
+ATOM      2  C2  DGalNAc    1       0.732  -0.633   1.531  0.00  0.00  C2 
+ATOM      3  C3  DGalNAc    1      -0.774  -0.827   1.489  0.00  0.00  C3 
+ATOM      4  C4  DGalNAc    1      -1.383  -0.008   0.373  0.00  0.00  C4 
+ATOM      5  C5  DGalNAc    1      -0.678  -0.325  -0.946  0.00  0.00  C5 
+ATOM      6  C6  DGalNAc    1      -1.184   0.452  -2.142  0.00  0.00  C6 
+ATOM      7  O3  DGalNAc    1      -1.327  -0.399   2.740  0.00  0.00 OH3 
+ATOM      8  O5  DGalNAc    1       0.712   0.002  -0.787  0.00  0.00 O9  
+ATOM      9  O6  DGalNAc    1      -1.053   1.853  -1.957  0.00  0.00 OH6 
+ATOM     11  HO6 DGalNAc    1      -0.537   2.574  -2.590  0.00  0.00 HH6 
+ATOM     12  O1  DGalNAc    1       1.334  -2.177  -0.328  0.00  0.00 OH1 
+ATOM     13  O4  DGalNAc    1      -1.232   1.349   0.769  0.00  0.00 OH4 
+ATOM     14  HO4 DGalNAc    1      -1.746   1.512   1.716  0.00  0.00 HH4 
+ATOM     15  H5  DGalNAc    1      -0.817  -1.344  -1.181  0.00  0.00 H5  
+ATOM     16  H61 DGalNAc    1      -1.016   0.327  -3.117  0.00  0.00 H6  
+ATOM     17  H62 DGalNAc    1      -2.205   0.241  -2.273  0.00  0.00 H20 
+ATOM     18  H1  DGalNAc    1       2.439  -0.615   0.222  0.00  0.00 H1  
+ATOM     19  H2  DGalNAc    1       0.959   0.386   1.842  0.00  0.00 H2  
+ATOM     20  H3  DGalNAc    1      -0.989  -1.883   1.324  0.00  0.00 H3  
+ATOM     21  H4  DGalNAc    1      -2.439  -0.224   0.209  0.00  0.00 H4  
+ATOM     22  NM  DGalNAc    1       1.310  -1.554   2.447  0.00  0.00 NAc
+ATOM     23  CM  DGalNAc    1       2.024  -1.094   3.523  0.00  0.00 NAc
+ATOM     24  CM2 DGalNAc    1       2.585  -2.191   4.407  0.00  0.00 NAc
+ATOM     25  OM  DGalNAc    1       2.212   0.083   3.768  0.00  0.00 NAc
+ATOM     26  HM1 DGalNAc    1       1.192  -2.567   2.302  0.00  0.00 NAc
+ATOM     27  HM2 DGalNAc    1       3.146  -1.760   5.268  0.00  0.00 NAc
+ATOM     28  HM3 DGalNAc    1       3.286  -2.834   3.826  0.00  0.00 NAc
+ATOM     29  HM4 DGalNAc    1       1.762  -2.822   4.813  0.00  0.00 NAc
+ATOM     30  CM  DGalNAc    1       1.958  -2.282  -1.609  0.00  0.00 OMe
+ATOM     31  HM1 DGalNAc    1       1.797  -3.264  -2.006  0.00  0.00 OMe
+ATOM     32  HM2 DGalNAc    1       3.008  -2.106  -1.507  0.00  0.00 OMe
+ATOM     33  HM3 DGalNAc    1       1.538  -1.555  -2.273  0.00  0.00 OMe
+ATOM     34  C1  DGlcNAc    2      -1.990  -1.457   3.402  0.00  0.00  C1 
+ATOM     35  C2  DGlcNAc    2      -2.385  -1.008   4.828  0.00  0.00  C2 
+ATOM     36  C3  DGlcNAc    2      -3.271  -2.087   5.486  0.00  0.00  C3 
+ATOM     37  C4  DGlcNAc    2      -4.496  -2.433   4.608  0.00  0.00  C4 
+ATOM     38  C5  DGlcNAc    2      -4.058  -2.787   3.154  0.00  0.00  C5 
+ATOM     39  C6  DGlcNAc    2      -5.243  -2.943   2.185  0.00  0.00  C6 
+ATOM     41  O3  DGlcNAc    2      -3.709  -1.605   6.750  0.00  0.00 OH3 
+ATOM     42  O4  DGlcNAc    2      -5.171  -3.530   5.216  0.00  0.00 OH4 
+ATOM     43  O5  DGlcNAc    2      -3.176  -1.747   2.620  0.00  0.00 O11 
+ATOM     44  O6  DGlcNAc    2      -5.872  -1.683   1.960  0.00  0.00 OH6 
+ATOM     46  HO3 DGlcNAc    2      -2.944  -1.140   7.105  0.00  0.00 HH3 
+ATOM     48  HO6 DGlcNAc    2      -5.160  -1.036   2.007  0.00  0.00 HH6 
+ATOM     49  H1  DGlcNAc    2      -1.328  -2.347   3.440  0.00  0.00 H1  
+ATOM     50  H2  DGlcNAc    2      -2.958  -0.062   4.754  0.00  0.00 H2  
+ATOM     51  H3  DGlcNAc    2      -2.666  -3.003   5.641  0.00  0.00 H3  
+ATOM     52  H4  DGlcNAc    2      -5.175  -1.558   4.578  0.00  0.00 H4  
+ATOM     53  H5  DGlcNAc    2      -3.511  -3.750   3.182  0.00  0.00 H5  
+ATOM     54  H61 DGlcNAc    2      -4.885  -3.353   1.221  0.00  0.00 H6  
+ATOM     55  H62 DGlcNAc    2      -5.978  -3.672   2.574  0.00  0.00 H24 
+ATOM     56  NM  DGlcNAc    2      -1.216  -0.793   5.612  0.00  0.00 NAc
+ATOM     57  CM  DGlcNAc    2      -0.961   0.447   6.137  0.00  0.00 NAc
+ATOM     58  CM2 DGlcNAc    2       0.320   0.525   6.944  0.00  0.00 NAc
+ATOM     59  OM  DGlcNAc    2      -1.679   1.417   5.982  0.00  0.00 NAc
+ATOM     60  HM1 DGlcNAc    2      -0.563  -1.571   5.785  0.00  0.00 NAc
+ATOM     61  HM2 DGlcNAc    2       0.471   1.551   7.353  0.00  0.00 NAc
+ATOM     62  HM3 DGlcNAc    2       1.196   0.278   6.300  0.00  0.00 NAc
+ATOM     63  HM4 DGlcNAc    2       0.284  -0.186   7.800  0.00  0.00 NAc
+ATOM     64  C5  BGAL    3      -7.669  -1.779   7.228  1.00  0.00              
+ATOM     65  H5  BGAL    3      -8.223  -1.254   6.427  1.00  0.00              
+ATOM     66  O5  BGAL    3      -6.402  -2.242   6.694  1.00  0.00              
+ATOM     67  C1  BGAL    3      -6.465  -3.188   5.589  1.00  0.00              
+ATOM     68  H1  BGAL    3      -6.975  -2.711   4.734  1.00  0.00              
+ATOM     71  C2  BGAL    3      -7.247  -4.450   6.023  1.00  0.00              
+ATOM     72  H2  BGAL    3      -6.662  -4.984   6.799  1.00  0.00              
+ATOM     73  O2  BGAL    3      -7.418  -5.308   4.920  1.00  0.00              
+ATOM     74  HO2 BGAL    3      -7.897  -6.095   5.241  1.00  0.00              
+ATOM     75  C3  BGAL    3      -8.626  -4.075   6.618  1.00  0.00              
+ATOM     76  H3  BGAL    3      -9.260  -3.674   5.803  1.00  0.00              
+ATOM     77  O3  BGAL    3      -9.247  -5.222   7.142  1.00  0.00              
+ATOM     79  C4  BGAL    3      -8.518  -2.991   7.721  1.00  0.00              
+ATOM     80  H4  BGAL    3      -9.536  -2.666   8.016  1.00  0.00              
+ATOM     81  O4  BGAL    3      -7.884  -3.556   8.844  1.00  0.00              
+ATOM     82  HO4 BGAL    3      -8.423  -4.318   9.125  1.00  0.00              
+ATOM     83  C6  BGAL    3      -7.359  -0.740   8.343  1.00  0.00              
+ATOM     84  H61 BGAL    3      -6.666   0.014   7.954  1.00  0.00              
+ATOM     85  O6  BGAL    3      -8.533  -0.093   8.784  1.00  0.00              
+ATOM     86  HO6 BGAL    3      -8.265   0.534   9.458  1.00  0.00              
+ATOM     87  H62 BGAL    3      -6.860  -1.226   9.187  1.00  0.00              
+ATOM     88  C1  DGlcNAc    4     -10.463  -5.501   6.478  0.00  0.00  C1 
+ATOM     89  C2  DGlcNAc    4     -11.000  -6.875   6.941  0.00  0.00  C2 
+ATOM     90  C3  DGlcNAc    4     -12.415  -7.100   6.366  0.00  0.00  C3 
+ATOM     91  C4  DGlcNAc    4     -13.368  -5.935   6.722  0.00  0.00  C4 
+ATOM     92  C5  DGlcNAc    4     -12.744  -4.563   6.325  0.00  0.00  C5 
+ATOM     93  C6  DGlcNAc    4     -13.553  -3.358   6.837  0.00  0.00  C6 
+ATOM     95  O3  DGlcNAc    4     -12.930  -8.317   6.890  0.00  0.00 OH3 
+ATOM     96  O4  DGlcNAc    4     -14.596  -6.151   6.035  0.00  0.00 OH4 
+ATOM     97  O5  DGlcNAc    4     -11.384  -4.448   6.857  0.00  0.00 O11 
+ATOM     98  O6  DGlcNAc    4     -13.473  -3.271   8.258  0.00  0.00 OH6 
+ATOM    100  HO3 DGlcNAc    4     -12.172  -8.911   6.901  0.00  0.00 HH3 
+ATOM    101  HO4 DGlcNAc    4     -14.787  -7.086   6.173  0.00  0.00 HH4 
+ATOM    102  HO6 DGlcNAc    4     -12.593  -3.595   8.480  0.00  0.00 HH6 
+ATOM    103  H1  DGlcNAc    4     -10.300  -5.492   5.381  0.00  0.00 H1  
+ATOM    104  H2  DGlcNAc    4     -11.053  -6.880   8.048  0.00  0.00 H2  
+ATOM    105  H3  DGlcNAc    4     -12.345  -7.186   5.262  0.00  0.00 H3  
+ATOM    106  H4  DGlcNAc    4     -13.554  -5.945   7.815  0.00  0.00 H4  
+ATOM    107  H5  DGlcNAc    4     -12.708  -4.505   5.219  0.00  0.00 H5  
+ATOM    108  H61 DGlcNAc    4     -13.159  -2.426   6.388  0.00  0.00 H6  
+ATOM    109  H62 DGlcNAc    4     -14.610  -3.428   6.518  0.00  0.00 H24 
+ATOM    110  NM  DGlcNAc    4     -10.128  -7.912   6.504  0.00  0.00 NAc
+ATOM    111  CM  DGlcNAc    4      -9.511  -8.721   7.422  0.00  0.00 NAc
+ATOM    112  CM2 DGlcNAc    4      -8.608  -9.774   6.810  0.00  0.00 NAc
+ATOM    113  OM  DGlcNAc    4      -9.653  -8.623   8.626  0.00  0.00 NAc
+ATOM    114  HM1 DGlcNAc    4      -9.960  -8.053   5.497  0.00  0.00 NAc
+ATOM    115  HM2 DGlcNAc    4      -8.142 -10.408   7.600  0.00  0.00 NAc
+ATOM    116  HM3 DGlcNAc    4      -7.790  -9.290   6.229  0.00  0.00 NAc
+ATOM    117  HM4 DGlcNAc    4      -9.191 -10.440   6.133  0.00  0.00 NAc
+END

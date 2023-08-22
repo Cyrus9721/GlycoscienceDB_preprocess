@@ -1,0 +1,198 @@
+Inspect_glycan:
+DB9948.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 4, 5, 3]
+
+DB26476.csv
+No need correction, missing bunch of atoms
+
+DB26405.csv
+No need correction
+
+DB26521.csv
+No need correction
+
+DB4858.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 5, 3, 4]
+
+DB26370.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 5]
+
+DB26404.csv
+No need correction
+
+DB26379.csv
+Res = [1, 2, 3, 4, 5, 6, 7]
+pdb = [1, 2, 4, 5, 6, 7, 8]
+
+DB9023.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 3]
+
+DB9490.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 3]
+
+DB26907.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [999, 1, 3, 4, 5, 6]
+
+DB9949.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 4, 5, 3]
+
+DB26479.csv
+No need correction
+
+DB26510.csv
+No need correction
+
+DB8939.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 5, 3, 4]
+
+
+DB26722.csv
+No need correction
+
+DB26431.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 6]
+
+DB26715.csv
+No need correction
+
+DB26378.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [1, 2, 4, 5, 6, 7]
+
+DB22507.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 3, 999]
+
+DB26682.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [3, 4, 6, 7, 8]
+
+DB17331.csv
+Res = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+pdb = [999, 1, 2, 3, 4, 5, 6, 7, 8]
+
+DB26380.csv
+Res = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+pdb = [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+DB9188.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 3]
+
+DB26467.csv
+Res = [1, 2, 3, 4, 5, 6, 7, 8]
+pdb = [1, 2, 4, 5, 6, 7, 8, 9]
+
+DB26960.csv
+Res = [1, 2]
+pdb = [999, 1]
+
+DB9697.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 3]
+
+DB9708.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 3, 5, 4]
+
+DB26502.csv
+No need correction
+
+DB26908.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [999, 999, 1, 2, 3, 4]
+
+DB26511.csv
+No need correction
+
+DB9917.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 5, 4, 3]
+
+DB4762.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [1, 2, 3, 4, 6, 5]
+
+DB9507.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 5, 3, 4]
+
+DB9078.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [1, 2, 3, 4, 6, 5]
+
+NeuAca2-3Galb1-3( NeuAca2-3Galb1-4GlcNAc b1-6)GalNAc.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [1, 4, 5, 6, 2, 3]
+
+DB26909.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [999, 1, 3, 4, 5, 6]
+
+DB12870.csv
+Res = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+pdb = [999, 1, 2, 3, 8, 7, 4, 5, 999, 6]
+
+DB22506.csv
+Res = [1, 2, 3]
+pdb = [1, 2, 4]
+
+LFucpa1-3[DGalpb1-4]DGlcpNAcb1-3DGalpb1-4DGlc.csv
+Res = [0, 1, 2, 3, 4]
+pdb = [999, 2, 3, 5, 4]
+
+DB22505.csv
+Res = [1, 2, 3]
+pdb = [1, 2, 4]
+
+DB26879.csv
+Res = [1, 2, 3, 4, 5, 6, 7]
+pdb = [1, 2, 4, 5, 6, 7, 8]
+
+DB26910.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 5]
+
+DB9919.csv
+Res = [1, 2, 3, 4, 5, 6]
+pdb = [1, 2, 3, 4, 6, 5]
+
+DB26403.csv
+No need correction
+
+
+
+Added: not_inspect_glycan
+
+DB26306.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [5, 1, 2, 3, 4]
+
+DB12744.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 3, 5, 4]
+
+DB12745.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [1, 2, 3, 5, 4]
+
+DB3758.csv
+Res = [0, 1, 2, 3, 4, 5, 6, 7]
+pdb = [999, 999, 1, 6, 2, 5, 3, 4]
+
+DB4717.csv
+Res = [1, 2, 3, 4]
+pdb = [1, 2, 4, 3]
+
+DB4853.csv
+Res = [1, 2, 3, 4, 5]
+pdb = [3, 5, 4, 1, 2]

@@ -1,0 +1,85 @@
+07/15/2022 06:34:08
+aLFuc(1->2)bDGal6SO3(1->3)bDGlcNAcOMe6SO3
+ATOM      1  C1  DGlcNAcOMe6SO    1      -1.286   1.938  -0.094  0.00  0.00  C1 
+ATOM      2  C2  DGlcNAcOMe6SO    1      -1.944   2.300   1.257  0.00  0.00  C2 
+ATOM      3  C3  DGlcNAcOMe6SO    1      -3.472   2.102   1.161  0.00  0.00  C3 
+ATOM      4  C4  DGlcNAcOMe6SO    1      -4.076   2.887  -0.027  0.00  0.00  C4 
+ATOM      5  C5  DGlcNAcOMe6SO    1      -3.320   2.563  -1.351  0.00  0.00  C5 
+ATOM      6  C6  DGlcNAcOMe6SO    1      -3.742   3.463  -2.526  0.00  0.00  C6 
+ATOM      7  O1  DGlcNAcOMe6SO    1       0.084   2.283  -0.060  0.00  0.00 OH1 
+ATOM      8  O3  DGlcNAcOMe6SO    1      -4.064   2.542   2.376  0.00  0.00 OH3 
+ATOM      9  O4  DGlcNAcOMe6SO    1      -5.451   2.533  -0.128  0.00  0.00 OH4 
+ATOM     10  O5  DGlcNAcOMe6SO    1      -1.875   2.718  -1.165  0.00  0.00 O11 
+ATOM     11  O6  DGlcNAcOMe6SO    1      -3.020   3.114  -3.706  0.00  0.00 OH6 
+ATOM     13  HO4 DGlcNAcOMe6SO    1      -5.775   2.564   0.779  0.00  0.00 HH4 
+ATOM     14  H1  DGlcNAcOMe6SO    1      -1.393   0.854  -0.305  0.00  0.00 H1  
+ATOM     15  H2  DGlcNAcOMe6SO    1      -1.729   3.364   1.481  0.00  0.00 H2  
+ATOM     16  H3  DGlcNAcOMe6SO    1      -3.686   1.022   1.028  0.00  0.00 H3  
+ATOM     17  H4  DGlcNAcOMe6SO    1      -3.992   3.972   0.181  0.00  0.00 H4  
+ATOM     18  H5  DGlcNAcOMe6SO    1      -3.541   1.513  -1.629  0.00  0.00 H5  
+ATOM     19  H61 DGlcNAcOMe6SO    1      -4.827   3.351  -2.711  0.00  0.00 H6  
+ATOM     20  H62 DGlcNAcOMe6SO    1      -3.582   4.531  -2.283  0.00  0.00 H24 
+ATOM     21  NM  DGlcNAcOMe6SO    1      -1.412   1.481   2.293  0.00  0.00 NAc
+ATOM     22  CM  DGlcNAcOMe6SO    1      -0.755   2.054   3.351  0.00  0.00 NAc
+ATOM     23  CM2 DGlcNAcOMe6SO    1      -0.239   1.058   4.371  0.00  0.00 NAc
+ATOM     24  OM  DGlcNAcOMe6SO    1      -0.583   3.251   3.483  0.00  0.00 NAc
+ATOM     25  HM1 DGlcNAcOMe6SO    1      -1.521   0.458   2.247  0.00  0.00 NAc
+ATOM     26  HM2 DGlcNAcOMe6SO    1       0.276   1.579   5.211  0.00  0.00 NAc
+ATOM     27  HM3 DGlcNAcOMe6SO    1       0.491   0.363   3.896  0.00  0.00 NAc
+ATOM     28  HM4 DGlcNAcOMe6SO    1      -1.082   0.466   4.797  0.00  0.00 NAc
+ATOM     29  CM  DGlcNAcOMe6SO    1       0.782   1.556   0.954  0.00  0.00 OMe
+ATOM     30  HM1 DGlcNAcOMe6SO    1       0.376   0.568   1.029  0.00  0.00 OMe
+ATOM     31  HM2 DGlcNAcOMe6SO    1       0.672   2.061   1.891  0.00  0.00 OMe
+ATOM     32  HM3 DGlcNAcOMe6SO    1       1.821   1.498   0.701  0.00  0.00 OMe
+ATOM     33  SM  DGlcNAcOMe6SO    1      -3.901   2.728  -4.764  0.00  0.00 SO3
+ATOM     34  OM1 DGlcNAcOMe6SO    1      -4.830   1.754  -4.282  0.00  0.00 SO3
+ATOM     35  OM2 DGlcNAcOMe6SO    1      -4.669   3.964  -5.269  0.00  0.00 SO3
+ATOM     36  OM3 DGlcNAcOMe6SO    1      -3.140   2.170  -5.838  0.00  0.00 SO3
+ATOM     37  HM  DGlcNAcOMe6SO    1      -3.731   1.911  -6.549  0.00  0.00 SO3
+ATOM     38  C5  DGal6SO3    2      -6.726   0.072   2.786  1.00  0.00              
+ATOM     39  H5  DGal6SO3    2      -6.118  -0.851   2.850  1.00  0.00              
+ATOM     40  O5  DGal6SO3    2      -5.900   1.137   2.250  1.00  0.00              
+ATOM     41  C1  DGal6SO3    2      -4.724   1.505   3.026  1.00  0.00              
+ATOM     42  H1  DGal6SO3    2      -4.050   0.634   3.095  1.00  0.00              
+ATOM     45  C2  DGal6SO3    2      -5.150   1.949   4.445  1.00  0.00              
+ATOM     46  H2  DGal6SO3    2      -5.724   2.894   4.367  1.00  0.00              
+ATOM     47  O2  DGal6SO3    2      -4.007   2.183   5.234  1.00  0.00              
+ATOM     49  C3  DGal6SO3    2      -6.046   0.882   5.118  1.00  0.00              
+ATOM     50  H3  DGal6SO3    2      -5.426  -0.012   5.328  1.00  0.00              
+ATOM     51  O3  DGal6SO3    2      -6.540   1.376   6.338  1.00  0.00              
+ATOM     52  HO3 DGal6SO3    2      -7.072   0.663   6.739  1.00  0.00              
+ATOM     53  C4  DGal6SO3    2      -7.227   0.448   4.214  1.00  0.00              
+ATOM     54  H4  DGal6SO3    2      -7.754  -0.406   4.685  1.00  0.00              
+ATOM     55  O4  DGal6SO3    2      -8.127   1.526   4.105  1.00  0.00              
+ATOM     56  HO4 DGal6SO3    2      -8.415   1.752   5.007  1.00  0.00              
+ATOM     57  C6  DGal6SO3    2      -7.874  -0.191   1.770  1.00  0.00              
+ATOM     58  H61 DGal6SO3    2      -8.498   0.705   1.688  1.00  0.00              
+ATOM     59  O6  DGal6SO3    2      -7.366  -0.511   0.493  1.00  0.00              
+ATOM     60  H62 DGal6SO3    2      -8.519  -0.998   2.128  1.00  0.00              
+ATOM     61  SM  DGal6SO3    2      -7.816   0.418  -0.498  0.00  0.00 SO3
+ATOM     62  OM1 DGal6SO3    2      -9.236   0.569  -0.402  0.00  0.00 SO3
+ATOM     63  OM2 DGal6SO3    2      -7.140   1.782  -0.268  0.00  0.00 SO3
+ATOM     64  OM3 DGal6SO3    2      -7.476  -0.068  -1.797  0.00  0.00 SO3
+ATOM     65  HM  DGal6SO3    2      -7.778   0.555  -2.462  0.00  0.00 SO3
+ATOM     66  C1  AFL     3      -3.947   3.538   5.678  0.00  0.00  C1 
+ATOM     67  C2  AFL     3      -2.858   3.803   6.735  0.00  0.00  C2 
+ATOM     68  C3  AFL     3      -1.461   3.729   6.102  0.00  0.00  C3 
+ATOM     69  C4  AFL     3      -1.403   4.661   4.880  0.00  0.00  C4 
+ATOM     70  C5  AFL     3      -2.548   4.319   3.914  0.00  0.00  C5 
+ATOM     71  C6  AFL     3      -2.602   5.228   2.679  0.00  0.00  C6 
+ATOM     72  O5  AFL     3      -3.822   4.422   4.560  0.00  0.00 O7  
+ATOM     74  O2  AFL     3      -3.060   2.893   7.813  0.00  0.00 OH2 
+ATOM     75  O3  AFL     3      -0.480   4.031   7.090  0.00  0.00 OH3 
+ATOM     76  O4  AFL     3      -1.529   6.032   5.253  0.00  0.00 OH4 
+ATOM     77  H5  AFL     3      -2.395   3.285   3.550  0.00  0.00 H5  
+ATOM     78  H1  AFL     3      -4.934   3.747   6.107  0.00  0.00 H1  
+ATOM     80  H2  AFL     3      -3.006   4.834   7.114  0.00  0.00 H2  
+ATOM     81  HO2 AFL     3      -2.462   3.171   8.519  0.00  0.00 HH2 
+ATOM     82  H3  AFL     3      -1.300   2.689   5.759  0.00  0.00 H3  
+ATOM     83  HO3 AFL     3       0.374   3.782   6.712  0.00  0.00 HH3 
+ATOM     84  H4  AFL     3      -0.441   4.530   4.350  0.00  0.00 H4  
+ATOM     85  HO4 AFL     3      -0.744   6.247   5.775  0.00  0.00 HH4 
+ATOM     86  H6  AFL     3      -1.651   5.226   2.124  0.00  0.00 H6  
+ATOM     87  H22 AFL     3      -3.397   4.888   1.996  0.00  0.00 H22 
+ATOM     88  H23 AFL     3      -2.831   6.266   2.968  0.00  0.00 H23 
+END

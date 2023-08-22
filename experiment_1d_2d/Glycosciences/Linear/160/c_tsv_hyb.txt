@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Apif	89%	103.4	78.9	80.5	74.7	65.2

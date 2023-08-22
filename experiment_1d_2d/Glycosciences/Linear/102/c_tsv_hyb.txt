@@ -1,0 +1,3 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-L-Arap	57%	98.7	74.8	78.5	73.1	62.3
+3	b-D-Xylp	87%	100.2	76.4	76.2	70.1	66.1

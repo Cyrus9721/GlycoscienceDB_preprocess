@@ -1,0 +1,82 @@
+This file 
+1, CSV file contain missing carbon shift labels:
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C1 on residual number: 3 
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C2 on residual number: 3 
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C1 on residual number: 4 
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C2 on residual number: 4 
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C1 on residual number: 5 
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.pdb.csv is missing carbon number: C2 on residual number: 5 
+
+DB26475.pdb.csv is missing carbon number: C7 on residual number: 1 
+
+DB26475.pdb.csv is missing carbon number: C8 on residual number: 1 
+
+DB26380.pdb.csv is missing carbon number: C1 on residual number: 4 
+
+DB26380.pdb.csv is missing carbon number: C2 on residual number: 4 
+
+DB26380.pdb.csv is missing carbon number: C1 on residual number: 5 
+
+DB26380.pdb.csv is missing carbon number: C2 on residual number: 5 
+
+DB26380.pdb.csv is missing carbon number: C1 on residual number: 6 
+
+DB26380.pdb.csv is missing carbon number: C2 on residual number: 6 
+
+DB26380.pdb.csv is missing carbon number: C1 on residual number: 9 
+
+DB26380.pdb.csv is missing carbon number: C2 on residual number: 9 
+
+DB26467.pdb.csv is missing carbon number: C7 on residual number: 4 
+
+DB26467.pdb.csv is missing carbon number: C8 on residual number: 4 
+
+DB26467.pdb.csv is missing carbon number: C7 on residual number: 5 
+
+DB26467.pdb.csv is missing carbon number: C8 on residual number: 5 
+
+DB22505.pdb.csv is missing carbon number: C1 on residual number: 4 
+
+DB22505.pdb.csv is missing carbon number: C2 on residual number: 4 
+
+DB26431.pdb.csv is missing carbon number: C8 on residual number: 4 
+
+DB22506.pdb.csv is missing carbon number: C1 on residual number: 4 
+
+DB22506.pdb.csv is missing carbon number: C2 on residual number: 4 
+
+DB26928.pdb.csv is missing carbon number: C8 on residual number: 10 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C1 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C2 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C3 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C4 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C5 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C6 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C7 on residual number: 3 
+
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.pdb.csv is missing carbon number: C8 on residual number: 3 
+
+DB26379.pdb.csv is missing carbon number: C1 on residual number: 4 
+
+DB26379.pdb.csv is missing carbon number: C2 on residual number: 4 
+
+DB26379.pdb.csv is missing carbon number: C1 on residual number: 5 
+
+DB26379.pdb.csv is missing carbon number: C2 on residual number: 5 
+
+DB26379.pdb.csv is missing carbon number: C1 on residual number: 6 
+
+DB26379.pdb.csv is missing carbon number: C2 on residual number: 6 

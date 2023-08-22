@@ -1,0 +1,76 @@
+Residual,Connection,Atom,Shift
+A-L-RHAP, ,H1,5.07
+A-L-RHAP, ,H2,3.51
+A-L-RHAP, ,H3,3.59
+A-L-RHAP, ,H4,2.96
+A-L-RHAP, ,H5,4.24
+A-L-RHAP, ,H6,1.11
+A-D-GLCP,1,H1,5.02
+A-D-GLCP,1,H2,3.2
+A-D-GLCP,1,H3,3.78
+A-D-GLCP,1,H4,3.68
+A-D-GLCP,1,H5,4
+A-D-GLCP,1,H61,3.43
+A-D-GLCP,1,H62,3.6
+B-D-GLCP," 1, 4",H1,4.32
+B-D-GLCP," 1, 4",H2,2.84
+B-D-GLCP," 1, 4",H3,3.16
+B-D-GLCP," 1, 4",H4,3.26
+B-D-GLCP," 1, 4",H5,3.28
+B-D-GLCP," 1, 4",H61,3.48
+B-D-GLCP," 1, 4",H62,3.88
+B-L-RHAP," 1, 4, 4",H1,4.6
+B-L-RHAP," 1, 4, 4",H2,3.69
+B-L-RHAP," 1, 4, 4",H3,3.54
+B-L-RHAP," 1, 4, 4",H4,3.03
+B-L-RHAP," 1, 4, 4",H5,3.15
+B-L-RHAP," 1, 4, 4",H6,1.24
+A-D-GLCP," 1, 4, 4, 3",H1,5.14
+A-D-GLCP," 1, 4, 4, 3",H2,3.2
+A-D-GLCP," 1, 4, 4, 3",H3,3.41
+A-D-GLCP," 1, 4, 4, 3",H4,3.55
+A-D-GLCP," 1, 4, 4, 3",H5,3.83
+A-D-GLCP," 1, 4, 4, 3",H61,3.52
+A-D-GLCP," 1, 4, 4, 3",H62,3.69
+A-L-RHAP," 1, 4, 4, 3, 4",H1,4.83
+A-L-RHAP," 1, 4, 4, 3, 4",H2,3.91
+A-L-RHAP," 1, 4, 4, 3, 4",H3,3.38
+A-L-RHAP," 1, 4, 4, 3, 4",H4,3.04
+A-L-RHAP," 1, 4, 4, 3, 4",H5,3.76
+A-L-RHAP," 1, 4, 4, 3, 4",H6,1.18
+A-L-RHAP, ,C1,97.8
+A-L-RHAP, ,C2,78.2
+A-L-RHAP, ,C3,80.8
+A-L-RHAP, ,C4,83
+A-L-RHAP, ,C5,67.1
+A-L-RHAP, ,C6,18.7
+A-D-GLCP,1,C1,95.6
+A-D-GLCP,1,C2,83.2
+A-D-GLCP,1,C3,74.7
+A-D-GLCP,1,C4,73.5
+A-D-GLCP,1,C5,71.5
+A-D-GLCP,1,C6,72
+B-D-GLCP," 1, 4",C1,101.9
+B-D-GLCP," 1, 4",C2,84.8
+B-D-GLCP," 1, 4",C3,86.5
+B-D-GLCP," 1, 4",C4,76.8
+B-D-GLCP," 1, 4",C5,75.3
+B-D-GLCP," 1, 4",C6,72.4
+B-L-RHAP," 1, 4, 4",C1,102.2
+B-L-RHAP," 1, 4, 4",C2,77.4
+B-L-RHAP," 1, 4, 4",C3,77.7
+B-L-RHAP," 1, 4, 4",C4,81.8
+B-L-RHAP," 1, 4, 4",C5,71.9
+B-L-RHAP," 1, 4, 4",C6,18.5
+A-D-GLCP," 1, 4, 4, 3",C1,93
+A-D-GLCP," 1, 4, 4, 3",C2,82.2
+A-D-GLCP," 1, 4, 4, 3",C3,81.8
+A-D-GLCP," 1, 4, 4, 3",C4,75.8
+A-D-GLCP," 1, 4, 4, 3",C5,70.7
+A-D-GLCP," 1, 4, 4, 3",C6,70.9
+A-L-RHAP," 1, 4, 4, 3, 4",C1,98.3
+A-L-RHAP," 1, 4, 4, 3, 4",C2,74.5
+A-L-RHAP," 1, 4, 4, 3, 4",C3,80.8
+A-L-RHAP," 1, 4, 4, 3, 4",C4,82.4
+A-L-RHAP," 1, 4, 4, 3, 4",C5,68.5
+A-L-RHAP," 1, 4, 4, 3, 4",C6,18.3

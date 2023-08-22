@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6	C7	C8
+	b-D-ManpNAc	100%	94.2	55.3	73.3	67.9	77.6	61.8	175.8	23.4

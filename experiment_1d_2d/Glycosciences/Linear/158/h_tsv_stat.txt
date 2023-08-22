@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	a-D-Ribp	28%	5.16	?	?	3.84	3.62-3.89

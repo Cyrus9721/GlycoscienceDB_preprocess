@@ -1,0 +1,71 @@
+07/15/2022 07:12:16
+bDGalNAc4,6diSO3(1->4)aDGlcNAcOMe
+ATOM      1  C1  DGlcNAc    1       1.803  -0.843   0.163  0.00  0.00  C1 
+ATOM      2  C2  DGlcNAc    1       1.161  -0.633   1.531  0.00  0.00  C2 
+ATOM      3  C3  DGlcNAc    1      -0.346  -0.827   1.489  0.00  0.00  C3 
+ATOM      4  C4  DGlcNAc    1      -0.954  -0.008   0.373  0.00  0.00  C4 
+ATOM      5  C5  DGlcNAc    1      -0.250  -0.325  -0.946  0.00  0.00  C5 
+ATOM      6  C6  DGlcNAc    1      -0.755   0.452  -2.142  0.00  0.00  C6 
+ATOM      7  O3  DGlcNAc    1      -0.898  -0.399   2.740  0.00  0.00 OH3 
+ATOM      8  O4  DGlcNAc    1      -2.335  -0.300   0.221  0.00  0.00 OH4 
+ATOM      9  O5  DGlcNAc    1       1.141   0.002  -0.787  0.00  0.00 O10 
+ATOM     10  O6  DGlcNAc    1      -0.625   1.853  -1.957  0.00  0.00 OH6 
+ATOM     11  HO3 DGlcNAc    1      -1.217  -1.335   3.200  0.00  0.00 HH3 
+ATOM     13  HO6 DGlcNAc    1      -0.108   2.574  -2.590  0.00  0.00 HH6 
+ATOM     14  O1  DGlcNAc    1       1.763  -2.177  -0.328  0.00  0.00 OH1 
+ATOM     15  H5  DGlcNAc    1      -0.388  -1.344  -1.181  0.00  0.00 H5  
+ATOM     16  H61 DGlcNAc    1      -0.588   0.327  -3.117  0.00  0.00 H6  
+ATOM     17  H62 DGlcNAc    1      -1.776   0.241  -2.273  0.00  0.00 H20 
+ATOM     18  H1  DGlcNAc    1       2.867  -0.615   0.222  0.00  0.00 H1  
+ATOM     19  H3  DGlcNAc    1      -0.560  -1.883   1.324  0.00  0.00 H3  
+ATOM     20  H4  DGlcNAc    1      -0.831   1.044   0.629  0.00  0.00 H4  
+ATOM     21  H2  DGlcNAc    1       1.388   0.386   1.842  0.00  0.00 H2  
+ATOM     22  NM  DGlcNAc    1       1.739  -1.554   2.447  0.00  0.00 NAc
+ATOM     23  CM  DGlcNAc    1       2.453  -1.094   3.523  0.00  0.00 NAc
+ATOM     24  CM2 DGlcNAc    1       3.014  -2.191   4.407  0.00  0.00 NAc
+ATOM     25  OM  DGlcNAc    1       2.641   0.083   3.768  0.00  0.00 NAc
+ATOM     26  HM1 DGlcNAc    1       1.621  -2.567   2.302  0.00  0.00 NAc
+ATOM     27  HM2 DGlcNAc    1       3.575  -1.760   5.268  0.00  0.00 NAc
+ATOM     28  HM3 DGlcNAc    1       3.715  -2.834   3.826  0.00  0.00 NAc
+ATOM     29  HM4 DGlcNAc    1       2.191  -2.822   4.813  0.00  0.00 NAc
+ATOM     30  CM  DGlcNAc    1       2.387  -2.282  -1.609  0.00  0.00 OMe
+ATOM     31  HM1 DGlcNAc    1       2.111  -3.211  -2.066  0.00  0.00 OMe
+ATOM     32  HM2 DGlcNAc    1       3.450  -2.244  -1.490  0.00  0.00 OMe
+ATOM     33  HM3 DGlcNAc    1       2.070  -1.470  -2.230  0.00  0.00 OMe
+ATOM     34  C5  DGalNAc4,6diSO3    2      -3.831   2.330   2.270  1.00  0.00              
+ATOM     35  H5  DGalNAc4,6diSO3    2      -3.462   3.223   1.730  1.00  0.00              
+ATOM     36  O5  DGalNAc4,6diSO3    2      -3.056   1.178   1.851  1.00  0.00              
+ATOM     37  C1  DGalNAc4,6diSO3    2      -3.121   0.826   0.440  1.00  0.00              
+ATOM     38  H1  DGalNAc4,6diSO3    2      -2.728   1.664  -0.160  1.00  0.00              
+ATOM     41  C2  DGalNAc4,6diSO3    2      -4.587   0.540   0.038  1.00  0.00              
+ATOM     42  H2  DGalNAc4,6diSO3    2      -4.928  -0.378   0.558  1.00  0.00              
+ATOM     43  C3  DGalNAc4,6diSO3    2      -5.515   1.710   0.443  1.00  0.00              
+ATOM     44  H3  DGalNAc4,6diSO3    2      -5.265   2.588  -0.185  1.00  0.00              
+ATOM     45  O3  DGalNAc4,6diSO3    2      -6.855   1.360   0.206  1.00  0.00              
+ATOM     46  HO3 DGalNAc4,6diSO3    2      -7.399   2.134   0.446  1.00  0.00              
+ATOM     47  C4  DGalNAc4,6diSO3    2      -5.337   2.117   1.929  1.00  0.00              
+ATOM     48  H4  DGalNAc4,6diSO3    2      -5.922   3.037   2.129  1.00  0.00              
+ATOM     49  O4  DGalNAc4,6diSO3    2      -5.840   1.081   2.740  1.00  0.00              
+ATOM     50  C6  DGalNAc4,6diSO3    2      -3.560   2.554   3.786  1.00  0.00              
+ATOM     51  H61 DGalNAc4,6diSO3    2      -3.919   1.687   4.351  1.00  0.00              
+ATOM     52  O6  DGalNAc4,6diSO3    2      -2.182   2.725   4.042  1.00  0.00              
+ATOM     53  H62 DGalNAc4,6diSO3    2      -4.117   3.423   4.146  1.00  0.00              
+ATOM     54  NM  DGalNAc4,6diSO3    2      -4.667   0.324  -1.352  0.00  0.00 NAc
+ATOM     55  CM  DGalNAc4,6diSO3    2      -5.114  -0.879  -1.833  0.00  0.00 NAc
+ATOM     56  CM2 DGalNAc4,6diSO3    2      -5.140  -0.967  -3.347  0.00  0.00 NAc
+ATOM     57  OM  DGalNAc4,6diSO3    2      -5.461  -1.811  -1.133  0.00  0.00 NAc
+ATOM     58  HM1 DGalNAc4,6diSO3    2      -4.389   1.070  -2.005  0.00  0.00 NAc
+ATOM     59  HM2 DGalNAc4,6diSO3    2      -5.520  -1.961  -3.681  0.00  0.00 NAc
+ATOM     60  HM3 DGalNAc4,6diSO3    2      -4.113  -0.834  -3.758  0.00  0.00 NAc
+ATOM     61  HM4 DGalNAc4,6diSO3    2      -5.807  -0.182  -3.771  0.00  0.00 NAc
+ATOM     62  SM  DGalNAc4,6diSO3    2      -1.690   1.730   4.944  0.00  0.00 SO3
+ATOM     63  OM1 DGalNAc4,6diSO3    2      -2.541   1.662   6.091  0.00  0.00 SO3
+ATOM     64  OM2 DGalNAc4,6diSO3    2      -1.669   0.362   4.239  0.00  0.00 SO3
+ATOM     65  OM3 DGalNAc4,6diSO3    2      -0.365   2.074   5.355  0.00  0.00 SO3
+ATOM     66  HM  DGalNAc4,6diSO3    2      -0.034   1.407   5.961  0.00  0.00 SO3
+ATOM     67  SM  DGalNAc4,6diSO3    2      -6.926   1.531   3.553  0.00  0.00 SO3
+ATOM     68  OM1 DGalNAc4,6diSO3    2      -6.551   2.735   4.228  0.00  0.00 SO3
+ATOM     69  OM2 DGalNAc4,6diSO3    2      -8.154   1.803   2.664  0.00  0.00 SO3
+ATOM     70  OM3 DGalNAc4,6diSO3    2      -7.249   0.527   4.516  0.00  0.00 SO3
+ATOM     71  HM  DGalNAc4,6diSO3    2      -7.979   0.829   5.062  0.00  0.00 SO3
+END

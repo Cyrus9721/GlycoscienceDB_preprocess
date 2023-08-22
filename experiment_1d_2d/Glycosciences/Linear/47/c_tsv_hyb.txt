@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Manp	93%	95.0	72.2	73.7	67.9	77.4	62.2

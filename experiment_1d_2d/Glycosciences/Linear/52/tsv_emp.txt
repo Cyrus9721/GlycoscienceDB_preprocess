@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Araf	100%	96.0	77.1	75.0	82.2	62.0

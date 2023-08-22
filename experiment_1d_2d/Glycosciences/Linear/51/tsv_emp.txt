@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6	C7	C8
+	b-D-GlcpNAc	100%	96.2	58.0	75.1	71.2	77.2	62.1	175.6	23.5

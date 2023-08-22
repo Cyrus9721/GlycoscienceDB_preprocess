@@ -1,0 +1,39 @@
+Residual,Connection,Atom,Shift,Residual Num
+D-Glc-ol, ,H12,3.676,1
+D-Glc-ol, ,H11,3.742,1
+D-Glc-ol, ,H2,3.922,1
+D-Glc-ol, ,H3,3.886,1
+D-Glc-ol, ,H4,3.898,1
+D-Glc-ol, ,H5,3.945,1
+D-Glc-ol, ,H61,3.744,1
+D-Glc-ol, ,H62,3.865,1
+b-D-Glcp,4,H1,4.614,2
+b-D-Glcp,4,H2,3.349,2
+b-D-Glcp,4,H3,3.508,2
+b-D-Glcp,4,H4,3.558,2
+b-D-Glcp,4,H5,3.644,2
+b-D-Glcp,4,H61,3.744,2
+b-D-Glcp,4,H62,3.962,2
+a-D-Xylp," 6,4",H1,4.934,3
+a-D-Xylp," 6,4",H2,3.541,3
+a-D-Xylp," 6,4",H3,3.677,3
+a-D-Xylp," 6,4",H4,3.623,3
+a-D-Xylp," 6,4",H51,3.544,3
+a-D-Xylp," 6,4",H52,3.711,3
+D-Glc-ol, ,C1,63.5,1
+D-Glc-ol, ,C2,73.4,1
+D-Glc-ol, ,C3,70.5,1
+D-Glc-ol, ,C4,81.0,1
+D-Glc-ol, ,C5,72.4,1
+D-Glc-ol, ,C6,63.2,1
+b-D-Glcp,4,C1,103.9,2
+b-D-Glcp,4,C2,74.4,2
+b-D-Glcp,4,C3,76.9,2
+b-D-Glcp,4,C4,70.5,2
+b-D-Glcp,4,C5,75.5,2
+b-D-Glcp,4,C6,67.0,2
+a-D-Xylp," 6,4",C1,99.6,3
+a-D-Xylp," 6,4",C2,72.7,3
+a-D-Xylp," 6,4",C3,74.3,3
+a-D-Xylp," 6,4",C4,70.5,3
+a-D-Xylp," 6,4",C5,62.4,3

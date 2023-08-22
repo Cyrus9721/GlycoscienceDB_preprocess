@@ -1,0 +1,31 @@
+Residual,Connection,Atom,Shift
+D-GalNAc-ol, ,H2,4.404
+D-GalNAc-ol, ,H3,4.081
+D-GalNAc-ol, ,H4,3.541
+D-GalNAc-ol, ,H5,4.193
+D-GalNAc-ol, ,H6,3.76
+D-GalNAc-ol, ,NAC,2.058
+b-D-Galp,3,H1,4.525
+b-D-Galp,3,H4,3.971
+a-D-GlcpNAc," 4,3",H1,4.869
+a-D-GlcpNAc," 4,3",H4,3.542
+a-D-GlcpNAc," 4,3",H5,4.183
+a-D-GlcpNAc," 4,3",NAC,2.089
+D-GalNAc-ol, ,C1,61.3
+D-GalNAc-ol, ,C2,52.1
+D-GalNAc-ol, ,C3,77.1
+D-GalNAc-ol, ,C4,70.2
+D-GalNAc-ol, ,C5,69.8
+D-GalNAc-ol, ,C6,63.4
+b-D-Galp,3,C1,104.9
+b-D-Galp,3,C2,70.4
+b-D-Galp,3,C3,72.7
+b-D-Galp,3,C4,77.6
+b-D-Galp,3,C5,76.1
+b-D-Galp,3,C6,61.1
+a-D-GlcpNAc," 4,3",C1,98.6
+a-D-GlcpNAc," 4,3",C2,54.8
+a-D-GlcpNAc," 4,3",C3,71.6
+a-D-GlcpNAc," 4,3",C4,71
+a-D-GlcpNAc," 4,3",C5,72.7
+a-D-GlcpNAc," 4,3",C6,60.8

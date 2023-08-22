@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5
+	b-D-Ribf	40%	108.8	75.6	71.3	83.4	63.4

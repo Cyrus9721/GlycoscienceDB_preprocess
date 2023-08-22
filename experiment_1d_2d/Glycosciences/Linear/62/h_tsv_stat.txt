@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	b-D-Ribf	37%	5.24	4.10	4.17	4.03	3.68-3.81

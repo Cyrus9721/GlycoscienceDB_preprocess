@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-D-Glcp	83%	5.25	3.54	3.74	3.45	3.88	3.76-3.86

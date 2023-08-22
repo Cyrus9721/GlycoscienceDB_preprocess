@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Galp	100%	97.7	73.2	74.1	70.0	76.3	62.2

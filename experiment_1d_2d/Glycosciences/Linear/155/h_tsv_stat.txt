@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	b-L-Rhap	94%	4.85	3.94	3.60	3.38	3.39	1.31

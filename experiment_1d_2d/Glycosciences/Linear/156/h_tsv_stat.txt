@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	a-D-Lyxp	40%	4.54	4.04	3.85	3.44	3.67-3.76

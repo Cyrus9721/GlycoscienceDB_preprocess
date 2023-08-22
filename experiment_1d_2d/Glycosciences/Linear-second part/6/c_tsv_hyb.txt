@@ -1,0 +1,6 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-L-Fucp	66%	93.6	72.0	70.1	82.3	68.9	16.9
+2	S		
+4	a-L-Fucp	66%	101.0	72.3	70.2	82.4	68.6	16.7
+4,2	S		
+4,4	S		

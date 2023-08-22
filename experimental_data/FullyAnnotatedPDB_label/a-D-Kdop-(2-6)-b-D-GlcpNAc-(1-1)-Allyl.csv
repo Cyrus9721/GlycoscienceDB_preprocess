@@ -1,0 +1,41 @@
+Residual,Connection,Atom,Shift
+allyl, ,H11,4.29
+allyl, ,H12,4.14
+allyl, ,H2,5.98
+allyl, ,H31,5.24
+allyl, ,H32,5.35
+b-D-GlcpNAc,1,H1,4.53
+b-D-GlcpNAc,1,H2,3.7
+b-D-GlcpNAc,1,H3,3.49
+b-D-GlcpNAc,1,H4,3.43
+b-D-GlcpNAc,1,H5,3.56
+b-D-GlcpNAc,1,H61,3.58
+b-D-GlcpNAc,1,H62,3.6
+b-D-GlcpNAc,1,NAC,2.01
+a-D-Kdop," 6,1",H31,1.79
+a-D-Kdop," 6,1",H32,2.06
+a-D-Kdop," 6,1",H4,4.07
+a-D-Kdop," 6,1",H5,4.01
+a-D-Kdop," 6,1",H6,3.66
+a-D-Kdop," 6,1",H7,3.94
+a-D-Kdop," 6,1",H81,3.63
+a-D-Kdop," 6,1",H82,3.92
+allyl, ,C1,71.4
+allyl, ,C2,134.3
+allyl, ,C3,118.7
+b-D-GlcpNAc,1,C1,101
+b-D-GlcpNAc,1,C2,56.3
+b-D-GlcpNAc,1,C3,74.8
+b-D-GlcpNAc,1,C4,71.3
+b-D-GlcpNAc,1,C5,75
+b-D-GlcpNAc,1,C6,62.8
+b-D-GlcpNAc,1,CO,176
+b-D-GlcpNAc,1,CH3,23
+a-D-Kdop," 6,1",C1,175.7
+a-D-Kdop," 6,1",C2,100.7
+a-D-Kdop," 6,1",C3,34.9
+a-D-Kdop," 6,1",C4,66.9
+a-D-Kdop," 6,1",C5,67.1
+a-D-Kdop," 6,1",C6,72.4
+a-D-Kdop," 6,1",C7,70.3
+a-D-Kdop," 6,1",C8,64.1

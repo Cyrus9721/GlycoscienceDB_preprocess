@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5
+	a-D-Apif	0%	?	?	80.8	75.3	65.5

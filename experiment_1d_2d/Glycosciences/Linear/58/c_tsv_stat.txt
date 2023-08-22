@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-L-Fucp	82%	97.2	73.2	74.0	72.4	71.9	16.1

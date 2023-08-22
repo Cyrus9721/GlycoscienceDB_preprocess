@@ -1,0 +1,251 @@
+Linear Glycans (188 intotal), excluded 3 according to 4.1, consider 185 linear glycans
+
+1, Manually assign residual number to glycans. -> csv files wrong cases
+
+1.1: Missing H1/H11:
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31 
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN4PO4-(1-6)-a-D-GlcpN1PO4.csv -> initial is H31
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.csv -> initial is H31
+b-D-Kdop-(2-3)-b-D-Galp-(1-4)-a-D-Galp-(1-3)-b-D-Galp.csv -> initial is H3a in last residual
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Kdop-(2-8)-a-D-Kdop-(2-1)-Allyl.csv -> initial is H31
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.csv -> initial is H2, missing H1
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-GlcpNAc-(1-4)-a-D-GlcpNAc-(1-4)-a-D-Kdop.csv -> initial is H31
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv -> initial is H31
+a-D-Manp-(1-2)-a-D-Manp-(1-3)-Ser.csv -> initial is HA, this can be ignored
+b-D-Fruf-(2-6)-b-D-Fruf.csv -> initial with H1a and H1b
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv -> initial with H31
+
+
+
+1.2: Duplicate H1:
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+
+
+
+1.3: nan exists as atom:
+repeat-4)-b-D-ManpNAc-(1-4)-a-D-GlcpNAc-(1-.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.csv
+
+
+
+1.4 Missing C1:
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpN-(1-6)-a-D-GlcpN1PO4.csv -> initial is C3
+
+
+
+1.5 Missing all Carbons:
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+
+
+
+
+2, Manually assign residual number to glycans. -> csv files wierd cases
+
+
+2.1 H12 appears before H11
+a-D-Xylp-(1-6)-b-D-Glcp-(1-4)-D-Glc-ol.csv
+
+
+2.2 Only Carbon has Allyl: <- this is important for correcting non-monosaccharide residual
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+
+
+
+
+3, Manually correct non-monosaccharide components: incorrect formats
+
+None monosaccharide components:
+-Allyl, -ol, -Ser, -Groal, -Ol, -erythritol, -ononitol, -propyl, -Apif, -Fruf
+We should not consider the shift of the above non-monosaccharide component shift. Here the above components are considered as 'non-monosaccharide'
+
+
+
+3.1: One Non-monosaccharide component, both Carbon and Hydrogen
+
+# 1 -> 999, 
+# 2 -> 1
+# 3 -> 2 ....
+
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Xylp-(1-6)-b-D-Glcp-(1-4)-D-Glc-ol.csv
+a-L-Rhap-(1-3)-a-L-Rhap-(1-2)-Groal.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-1)-Allyl.csv
+b-D-Xylp-(1-3)-L-Ara-ol.csv
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+a-D-GalpNAc-(1-6)-a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Galp-(1-6)-a-D-Galp-(1-3)-D-Gal-Ol.csv
+a-D-FucpNAc-(1-4)-a-D-GalpNac-(1-3)-b-D-Manp-(1-2)-erythritol.csv
+a-D-Kdop-(2-8)-a-D-Kdop-(2-1)-Allyl.csv
+a-D-Manp-(1-2)-a-D-Manp-(1-3)-Ser.csv
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.csv
+
+
+
+3.2: two Non-monosaccharide component, both Carbon and Hydrogen -> for duplicate non-monosaccharide components, the first 
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+
+
+
+3.3: three None-monosaccharide component, both Carbon and Hydrogen
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.csv
+
+
+
+3.4: One Non-monosaccharide component, only for Carbon (case 5 in code)
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+
+
+
+
+4, Manually correct non-monosaccharide components: wierd formats
+
+4.1: Missing all Monosaccharide(case 4 in code):
+b-D-Fruf-(2-6)-b-D-Fruf.csv <- in .pdb file residual 1 and 2 are exactly the same
+b-D-Apif.csv <- no monosaccharide in this file 
+a-D-Apif.csv <- no monosaccharide in this file
+I think we should not even consider the above three glycans(?)
+
+
+
+4.2: Connection component format is not consistent for carbon and hydrogen:
+a-D-Kdop-(2-8)-a-D-Kdop-(2-4)-a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-a-D-GlcpNAc-(1-1)-Allyl.csv
+
+
+
+4.3: The non-monosaccharide component is attached with a monosaccharide: -> no need preprocessing
+a-D-GlcpNAc-(1-4)-b-D-Galp-(1-3)-D-GalNAc-ol.csv <- this is included in 3.1 since the monosaccharide in the pdb is missing
+
+
+
+4.4: Missing the shift for non-monosaccharide components: -> no need preprocessing
+a-D-Kdop-(2-6)-b-D-GlcpNAc-(1-6)-b-D-GlcpNAc-(1-1)-Allyl.csv
+
+
+5, Description of the .txt file:
+linear_csv_glycan_atom.txt: all atoms of the linear glycans
+linear_pdb_glycan_name_monosaccharide.txt: monosaccharides from the pdb file 
+linear_print_after_correct_non_mono_csv_file.txt: all wierd .csv file corrected for non-monosaccharide
+*linear_print_all_final.txt: all linear glycan .csv files after all preprocessing steps * check this for all 
+linear_print_normal_before_correct_component_csv_file_all.txt: all normal glycans without wierd formatting from 1-4
+linear_print_wierd_before_correct_component_csv_file_all: all normal glycans with wierd formatting from 1-4, may have overlap
+temp_exclude_linear.txt: ignore this 
+
+6, For double check:
+
+Read through 'linear_print_all_final.txt' for 
+	1, whether the residual is assigned in a correct way, some vague glycans may need to look into the .pdbs. 
+	2, whether the glycan has no monosaccharide.
+
+
+7, Simplifying the monosaccharide -> pdb files 
+
+7.1 Glycans contain 1H6, 2H6 or 3H6: 
+
+a-L-Rhap-(1-3)-b-D-Glcp1OMe.pdb.csv
+b-L-Rhap-(1-2)-b-L-Rhap.pdb.csv
+b-L-Fucp-(1-2)-b-L-Rhap.pdb.csv
+a-L-Fucp-(1-2)-b-D-Glcp1OMe.pdb.csv
+b-L-Fucp-(1-2)-b-D-Glcp1OMe.pdb.csv
+Repeat-6)-a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(1-.pdb.csv
+a-L-Rhap-(1-3)-a-L-Rhap-(1-2)-Groal.pdb.csv
+a-L-Fucp-(1-2)-a-D-Galp.pdb.csv
+a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.pdb.csv
+a-L-Rhap-(1-3)-b-D-Galp-(1-4)-b-D-GalpNAc-(3-1)-b-D-Galp.pdb.csv
+b-L-Fucp-(1-2)-b-L-Galp1OMe.pdb.csv
+a-L-Rhap-(1-3)-b-D-Glcp.pdb.csv
+a-L-Fucp-(1-2)-b-D-Manp.pdb.csv
+a-L-Fucp2SO33SO34SO3-(1-2)-a-L-Fucp3SO34SO3-(1-1)-propyl.pdb.csv
+a-L-Rhap-(1-4)-a-D-Glcp-(1-3)-b-L-Rhap-(1-4)-b-D-Glcp-(1-4)-a-D-Glcp-(3-1)-a-L-Rhap.pdb.csv
+a-L-Fucp-(1-2)-a-D-Glcp1OMe.pdb.csv
+a-L-Fucp.pdb.csv
+VERSION1_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.pdb.csv
+a-L-Rhap-(1-3)-b-D-GlcpNAc.pdb.csv
+a-D-Galp-(1-2)-a-L-Rhap-(1-3)-b-D-Manp-(1-4)-b-D-Manp-(1-4)-a-D-Galp-(1-3)-b-D-Galp-(2-1)-a-D-Glcp.pdb.csv
+a-L-Rhap.pdb.csv
+b-D-GlcpA-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-b-D-Galp-(1-2)-a-L-Rhap.pdb.csv
+b-D-Quip-(1-6)-b-D-Galp-(1-6)-b-D-GlcpNAc-(1-6)-b-D-Galp-(1-3)-b-D-GlcpNAc.pdb.csv
+b-L-Fucp-(1-2)-a-L-Rhap.pdb.csv
+a-L-Fucp-(1-2)-b-D-Galp.pdb.csv
+Repeat-3)-a-L-Rhap-(1-2)-a-L-Rhap-(1-4)-a-D-GlcpA-(1-2)-a-D-Manp-(1-2)-a-D-Manp-(1-3)-a-D-Galp-(1-.pdb.csv
+b-L-Fucp-(1-3)-b-D-Galp1OMe.pdb.csv
+a-L-Fucp-(1-2)-b-D-Galp1OMe.pdb.csv
+b-L-Fucp-(1-3)-a-D-Glcp1OMe.pdb.csv
+a-L-Rhap-(1-2)-b-D-Glcp1OMe.pdb.csv
+Repeat-3)-b-D-GlcpA-(1-3)-a-L-Rhap-(1-.pdb.csv
+a-L-Fucp-(1-3)-b-D-Glcp1OMe.pdb.csv
+b-L-Fucp-(1-2)-b-D-Manp.pdb.csv
+a-L-Fucp-(1-2)-a-D-Manp.pdb.csv
+a-L-Rhap-(1-4)-a-D-GalpA-(1-3)-b-D-GlcpNAc-(1-2)-a-L-Rhap-(3-1)-a-L-Rhap.pdb.csv
+a-L-Rhap-(1-2)-a-D-Glcp1OMe.pdb.csv
+b-L-Rhap.pdb.csv
+b-L-Fucp-(1-2)-a-D-Glcp1OMe.pdb.csv
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-b-D-Rhap.pdb.csv
+a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-a-D-FucpNAc.pdb.csv
+a-L-Rhap-(1-3)-a-D-Glcp1OMe.pdb.csv
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-b-D-Glcp.pdb.csv
+b-D-Quip3Nac-(1-6)-a-D-GlcpNAc-(1-4)-b-D-GlcpA-(1-3)-a-D-GalpNAc.pdb.csv
+b-L-Fucp.pdb.csv
+repeat-2)-b-D-GlcpA-(1-3)-a-D-GalpNAc-(1-3)-a-D-GalpNAc-(1-2)-a-L-Fucp-(1-.pdb.csv
+Repeat-6)-a-D-Glcp-(1-3)-a-L-Rhap2Ac-(1-3)-a-D-GlcpNAc-(1-2)-b-D-Galf-(1-.pdb.csv
+a-L-Rhap-(1-2)-a-L-Rhap-(1-3)-a-L-Rhap-(1-3)-b-D-GlcpNAc.pdb.csv
+a-D-Glcp-(1-3)-a-L-FucpNAc-(1-3)-a-D-GlcpNAc-(1-3)-a-L-FucpNAc-(1-4)-a-D-Glcp.pdb.csv
+b-L-Fucp-(1-3)-b-D-Glcp1OMe.pdb.csv
+VERSION2_a-D-Quip4N-(1-4)-a-D-GlcpA-(1-6)-a-D-GlcpNAc-(1-4)-a-L-GulpA-(1-3)-b-D-FucpNAc.pdb.csv
+a-L-Fucp2SO34SO3-(1-4)-a-L-Fucp2SO3.pdb.csv
+a-L-Fucp-(1-2)-b-D-Galp-(1-3)-D-GalNAc-ol.pdb.csv
+a-D-FucpNAc-(1-4)-a-D-GalpNac-(1-3)-b-D-Manp-(1-2)-erythritol.pdb.csv
+a-D-Rhap4NAc-(1-3)-a-D-Rhap4NAc-(1-3)-b-D-Rhap4NAc.pdb.csv
+Repeat-3)-a-D-Rhap-(1-3)-a-D-Rhap-(1-4)-a-D-GalpNAc-(1-.pdb.csv
+Repeat-2)-a-L-Rhap-(1-3)-a-D-Galp-(1-.pdb.csv
+a-D-GlcpA-(1-2)-a-D-GalpA-(1-2)-b-D-Manp-(1-4)-b-D-Galp-(1-2)-a-D-Rhap.pdb.csv
+b-L-Fucp-(1-2)-a-D-Manp.pdb.csv
+
+It seems that these 1H6, 2H6 or 3H6 should be corrected as H61, H62, H63
+
+7.2 Glycans contain 1HC1, 2HC1:
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb.csv
+a-D-Glcp-(1-2)-a-D-Glcp-(1-2)-b-D-Fruf-(1-2)-b-D-Fruf.pdb.csv
+
+It seems that these 1HC1, 2HC1 are from the -Fruf component.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

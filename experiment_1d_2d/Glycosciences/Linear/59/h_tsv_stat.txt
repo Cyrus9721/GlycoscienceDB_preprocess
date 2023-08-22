@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-L-Fucp	67%	5.25	3.81	3.81	3.77	4.38	1.23

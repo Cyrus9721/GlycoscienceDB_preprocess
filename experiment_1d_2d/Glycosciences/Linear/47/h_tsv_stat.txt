@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	b-D-Manp	90%	4.91	3.94	3.64	3.57	3.39	3.72-3.93
