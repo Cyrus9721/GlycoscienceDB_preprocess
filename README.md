@@ -37,7 +37,7 @@ Train the gcn model for combined prediction of Carbon and Hydrogen:
 python train_evaluate.py
 ```
 <br />
-Predicting atom shift in glycans from nmr data <br />
+Predicting atom shift in glycans from CASPER nmr data <br />
 The model is trainined on 391 glycans and tested on 40 glycans. <br />
 Current RMSE for Carbon: 1.61<br />
 Current RMSE for Carbon without node embedding: 1.84<br />
@@ -46,9 +46,4 @@ Current RMSE for Hydrogen without node embedding: 0.19<br />
 
 ![gcn_all](/figures/gcn_all.png?raw=true) <br />
 
-Next step: <br />
-1, train separate gnn for Carbon and Hydrogen (Done).<br />
-2, change model architecture. <br />
-3, use prior knowledge based node embeddings.<br />
-4, use prior knowledge based edge embeddings.<br />
 
