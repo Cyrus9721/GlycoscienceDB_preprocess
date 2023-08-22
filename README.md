@@ -19,6 +19,8 @@ The data cleaning and preprocessing pipeline can be divided into several parts:
 5, We apply an outlier check between the groud truth NMR shift and the predicted NMR shift on the baseline GNN model, to see whether the outlier is come from the omissions in step 2, 3, 4. If yes, we then go back to previous steps and correct our mistakes. 
 ### Example run on CASPER data.  
 
+CASPER data was overly narrow and simulated a different way than GODESS, it was not included in the manuscript.
+
 Preprocess the PDB files and their labels(in order): <br />
 ```
 python reformulate_PDB_labels.py
