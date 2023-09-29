@@ -51,7 +51,7 @@ DB26910
 4 -> 5
 
 
-3, Some glycans not appeared in Ryan's annotations:
+3, Some glycans not appeared in R's annotations:
 
 DB27271 <-
 SWECON 1   2  1  A-L-FUCP-(1-2)-A-D-GLCP
@@ -96,7 +96,7 @@ SWECON 2   3  1  B-D-GALP-(1-3)-B-D-GLCPN
 Need correction
 1 - 1
 2 - 3
-Ryan's comment: I don't think DB27272 needs correction, the PDB matches the shift order except they wrote CSC for Fucp for some reason.
+R's comment: I don't think DB27272 needs correction, the PDB matches the shift order except they wrote CSC for Fucp for some reason.
 
 
 
@@ -183,7 +183,7 @@ SWECON 2   3  2  A-D-GLCP-(1-3)-A-L-6-DEOXY-TALP
 SWECON 3   4  3  B-L-RHAPNAC3NAC-(1-3)-A-D-GLCP
 SWECON 4   5  3  B-D-GLCPNAC-(1-4)-A-D-GLCP
 Looks good, but deoxy-Talp rarely appears, yet still should considered as a monosaccharide
-Ryan's comment: Yep we do need a A-L-6-DEOXY-TALP but it is a rare residue
+R's comment: Yep we do need a A-L-6-DEOXY-TALP but it is a rare residue
 
 
 DB26991
@@ -213,7 +213,7 @@ SWECON 5   5  2  A-D-XYLP-(1-6)-B-D-GLCP
 SWECON 6   6  1  A-D-XYLP-(1-6)-B-D-GLCP
 This glycan contain 2 branches rooted at GLCP-1 and GLCP-2
 
-Ryan's comment: DB3758 is complicated. 7 -> 1, 1->2, 2->4, 4->3, 5->5, 3->6, 6->7 in the PDB I think? This will at least match the residues correctly.
+R's comment: DB3758 is complicated. 7 -> 1, 1->2, 2->4, 4->3, 5->5, 3->6, 6->7 in the PDB I think? This will at least match the residues correctly.
 Re: By connections, I think it should be
 (Res -PDB)
 1 - 7 /999
@@ -289,7 +289,7 @@ This looks wierd, RHAP seems to be the precursor, PLEASE check this,
 The rest are inconsistent between .pdb and .csv file. if the .csv were generate in a incorrect way and we use the SWECON, we should have:
 4 - 2
 5 - 1
-Ryan's comment:
+R's comment:
 For 4853, the PDB order looks right while the shift order looks totally random. To make the shift correct, I think it is (top-to-bottom shift file order, with the PDB matching):
 
 3 a-L-Rhap
@@ -358,7 +358,7 @@ SWECON 4   5  3  B-D-GALP-(1-4)-B-D-GLCPNAC
 3 - 3
 4 - 5
 5 - 4
-Ryan's comment:
+R's comment:
 For LFucpa1-3[DGalpb1-4]DGlcpNAcb1-3DGalpb1-4DGlc, the switch of 4 and 5 is right, but just ignore residue 1 in the PDB file and shift actually, this is a "mixed" sample with a and b states. Just in this file, H1A for example, means "H1 for a-D-Glcp", H1B means "H1 for b-D-Glcp". So you make the A and B version of this glycan and make 2 sets of files. But this is a distinctively different residue nomenclature, it's why they wrote D-Glc instead of a-D-Glc or b-D-Glc, because it symbolizes both.
 
 
@@ -371,7 +371,7 @@ SWECON 4   5  3  A-D-GLCP-(1-3)-A-L-RHAP
 This looks good
 
 
-4, Summary of Ryan's email with annotations
+4, Summary of R's email with annotations
 
 4.1 corrupted no used
 DB26878
@@ -384,4 +384,4 @@ DB26370
 DB26378
 ...
 
-See Ryan email.txt
+See R email.txt

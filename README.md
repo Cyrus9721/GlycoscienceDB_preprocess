@@ -2,9 +2,9 @@
 
 ### Data preprocessing doc for Glycoscience.
 
-+ Comments from domain experts in first inspection [comments1](preprocess_manual/linear_check_email_1.pdf), [comments2](preprocess_manual/linear_check_email_2.pdf).
++ Comments from domain experts in first inspection [comments](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/linear_check_comments.txt) as example.
 
-+ Manual annotation from domain experts in second inspection [annotation1](preprocess_manual/nonlinear_preprocess_doc_revised.pdf), [annotation2](preprocess_manual/nonlinear_preprocess_doc_revised.pdf).
++ Manual annotation from domain experts in second inspection [annotation1](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/nonlinear_process_doc.pdf), [annotation2](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/nonlinear_preprocess_doc_additional_second_round.pdf).
 
 The data cleaning and preprocessing pipeline can be divided into several parts:
 
@@ -20,7 +20,7 @@ The data cleaning and preprocessing pipeline can be divided into several parts:
 
 ### Example run on CASPER data.  
 
-CASPER pilot data was overly narrow and simulated a different way than GODESS, it was not included in the manuscript.
+CASPER pilot data was overly narrow and simulated a different way than GODESS, it was not included in the GlycoNMR manuscript.
 
 Preprocess the PDB files and their labels(in order): <br />
 ```
@@ -44,6 +44,6 @@ Current RMSE for Carbon without node embedding: 1.84<br />
 Current RMSE for Hydrogen: 0.10<br />
 Current RMSE for Hydrogen without node embedding: 0.19<br />
 
-![gcn_all](/figures/gcn_all.png?raw=true) <br />
+![gcn_all](gcn_all.png) <br />
 
 

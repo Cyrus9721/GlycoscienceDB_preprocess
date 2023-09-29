@@ -1,5 +1,3 @@
-% @Author  : Zizhang Chen
-% @Contact : zizhang2@outlook.com
 max_numglycan = 30;
 a = readtable('pdb_name.csv');
 formulas = a.formula;

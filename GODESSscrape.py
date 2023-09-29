@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec  6 16:13:54 2022
-
-@author: ryanbadman
 """
 
 import requests

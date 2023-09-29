@@ -99,7 +99,7 @@
 7-1-2022 : LRhapa1-OME.pdb
 
 
-5, Shift out of distribution(From Ryan's slides):
+5, Shift out of distribution(From R's slides):
 7-1-2022 : DGlcpNAcb1-6(DGlcpNAcb1-4)(DGlcpNAcb1-3)DGlcpNAcb1-OME.pdb
 7-6-2022 : DGlcpAb1-3DGlcpNAcb1-OME.pdb
 
