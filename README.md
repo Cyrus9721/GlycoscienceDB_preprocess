@@ -2,7 +2,7 @@
 
 ### Data preprocessing doc for Glycoscience.
 
-+ Comments from domain experts in first inspection [comments](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/linear_check_comments.txt) as example.
++ Comments from domain experts in first inspection [comments](https://github.com/Cyrus9721/GlycoscienceDB_preprocess/blob/main/preprocess_manual/linear_check_comments.txt) as an example.
 
 + Manual annotation from domain experts in second inspection [annotation1](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/nonlinear_process_doc.pdf), [annotation2](https://anonymous.4open.science/r/GlycoscienceDB_preprocess-B678/preprocess_manual/nonlinear_preprocess_doc_additional_second_round.pdf).
 
